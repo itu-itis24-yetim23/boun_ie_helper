@@ -1,0 +1,13 @@
+{
+  "name": "boun-ie-helper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:data": "node scripts/update-courses.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
