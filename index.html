@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Boğaziçi Endüstri Mühendisliği öğrencileri için müfredat, önkoşul zinciri ve ders programı araçları." />
+  <title>BOUN IE Helper</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="BOUN IE Helper ana sayfa">
+      <span class="brand-mark">IE</span>
+      <span><strong>BOUN IE Helper</strong><small>Endüstri öğrencileri için</small></span>
+    </a>
+    <nav id="nav">
+      <a href="#home">Ana Sayfa</a>
+      <a href="#curriculum">Müfredat</a>
+      <a href="#prereqs">Önkoşullar</a>
+      <a href="#planner">Programlayıcı</a>
+      <a href="#links">Kısayollar</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="hero page active">
+      <div class="hero-copy">
+        <div class="eyebrow">Açık kaynak · resmi kaynakları merkezine alan öğrenci aracı</div>
+        <h1>Boğaziçi Endüstri için<br><span>tek bir yardımcı ekran.</span></h1>
+        <p>2024 sonrası müfredatı gör, derslerin hangi derslerin önünü açtığını takip et, BUIS ders verisinden çakışmasız program kombinasyonları üret.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#planner">Program oluştur</a>
+          <a class="button ghost" href="#prereqs">Önkoşul zincirini aç</a>
+        </div>
+        <p class="disclaimer">Resmî Boğaziçi Üniversitesi ürünü değildir. Kayıt kararlarında BUIS ve bölüm duyuruları esas alınmalıdır.</p>
+      </div>
+      <div class="hero-panel">
+        <div class="metric"><strong>8</strong><span>dönemlik müfredat</span></div>
+        <div class="metric"><strong>140</strong><span>resmî mezuniyet kredisi</span></div>
+        <div class="metric"><strong>40</strong><span>iş günü staj</span></div>
+        <div class="mini-card">
+          <span class="status-dot"></span>
+          <div><strong id="dataStatus">Ders verisi kontrol ediliyor</strong><small id="dataMeta">data/courses.json</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="curriculum" class="page section-wrap">
+      <div class="section-heading">
+        <div><span class="eyebrow">2024–2025 ve sonrası girişliler</span><h2>Endüstri Mühendisliği Müfredatı</h2></div>
+        <div class="pill">Resmî program: 140 kredi</div>
+      </div>
+      <p class="lead">Dersler resmi IE akademik programındaki önerilen dönemlerine göre gösterilir. Kartların üzerine gelerek türlerini görebilirsin.</p>
+      <div id="curriculumGrid" class="semester-grid"></div>
+      <div class="note-box"><strong>Uzmanlaşma kuralı:</strong> IE 350 / IE 360 grubundan bir; IE 430 / IE 440 / IE 450 grubundan iki ders beklenir.</div>
+    </section>
+
+    <section id="prereqs" class="page section-wrap">
+      <div class="section-heading">
+        <div><span class="eyebrow">Ders zinciri</span><h2>Önkoşul Haritası</h2></div>
+        <button id="resetGraph" class="button small ghost">Vurguyu temizle</button>
+      </div>
+      <p class="lead">Bir derse tıkla: öncesindeki zorunlu dersler ve sonrasında açtığı dersler otomatik vurgulanır.</p>
+      <div class="graph-toolbar">
+        <input id="graphSearch" type="search" placeholder="Ders ara: IE 312, Probability…" />
+        <span class="legend"><i class="dot before"></i> önkoşul <i class="dot selected"></i> seçili <i class="dot after"></i> açılan ders</span>
+      </div>
+      <div id="graph" class="graph" aria-label="IE önkoşul grafiği"></div>
+      <div id="courseDetail" class="course-detail">Bir ders seçerek zinciri inceleyebilirsin.</div>
+    </section>
+
+    <section id="planner" class="page section-wrap">
+      <div class="section-heading">
+        <div><span class="eyebrow">BUIS ders tablosu</span><h2>Ders Programı Oluşturucu</h2></div>
+        <div id="plannerSemester" class="pill">Dönem verisi yükleniyor</div>
+      </div>
+      <div class="planner-layout">
+        <aside class="planner-sidebar">
+          <label class="field-label" for="courseSearch">Ders ekle</label>
+          <input id="courseSearch" type="search" placeholder="IE 202, EC 101, AD 216…" autocomplete="off" />
+          <div id="searchResults" class="search-results"></div>
+          <h3>Seçili dersler</h3>
+          <div id="selectedCourses" class="selected-list"><span class="muted">Henüz ders seçilmedi.</span></div>
+          <div class="filters">
+            <h3>Filtreler</h3>
+            <label>En erken saat <select id="earliest"><option value="9">09:00</option><option value="10">10:00</option><option value="11">11:00</option><option value="12">12:00</option></select></label>
+            <label>En geç saat <select id="latest"><option value="22">22:00</option><option value="19">19:00</option><option value="18">18:00</option><option value="17">17:00</option><option value="16">16:00</option></select></label>
+            <label>Boş gün <select id="freeDay"><option value="">Farketmez</option><option value="M">Pazartesi</option><option value="T">Salı</option><option value="W">Çarşamba</option><option value="Th">Perşembe</option><option value="F">Cuma</option></select></label>
+          </div>
+          <button id="generateBtn" class="button primary wide">Olası programları üret</button>
+          <div id="plannerMessage" class="planner-message"></div>
+        </aside>
+        <div class="schedule-area">
+          <div class="schedule-controls">
+            <button id="prevPlan" class="icon-btn" aria-label="Önceki program">←</button>
+            <strong id="planCounter">Program yok</strong>
+            <button id="nextPlan" class="icon-btn" aria-label="Sonraki program">→</button>
+          </div>
+          <div id="scheduleGrid" class="schedule-grid"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="links" class="page section-wrap">
+      <div class="section-heading"><div><span class="eyebrow">Tek tık</span><h2>Boğaziçi Kısayolları</h2></div></div>
+      <div class="link-grid">
+        <a href="https://registration.bogazici.edu.tr/" target="_blank" rel="noreferrer"><strong>BUIS / Kayıt</strong><span>Ders kayıt ve öğrenci sistemi</span></a>
+        <a href="https://registration.bogazici.edu.tr/buis/General/schedule.aspx?p=semester" target="_blank" rel="noreferrer"><strong>Ders Programı</strong><span>Resmî dönem dersleri</span></a>
+        <a href="https://ie.bogazici.edu.tr/" target="_blank" rel="noreferrer"><strong>IE Bölümü</strong><span>Bölüm sitesi ve duyurular</span></a>
+        <a href="https://akademiktakvim.bogazici.edu.tr/" target="_blank" rel="noreferrer"><strong>Akademik Takvim</strong><span>Kayıt, add-drop, sınav tarihleri</span></a>
+        <a href="https://buportal.bogazici.edu.tr/" target="_blank" rel="noreferrer"><strong>BUPortal</strong><span>Üniversite servisleri</span></a>
+        <a href="https://advising.bogazici.edu.tr/" target="_blank" rel="noreferrer"><strong>Akademik Danışmanlık</strong><span>Danışmanlık kaynakları</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer><span>BOUN IE Helper · öğrenci yapımı açık kaynak proje</span><span>Veri kaynağı: Boğaziçi Üniversitesi IE + BUIS</span></footer>
+  <script src="app.js" defer></script>
+</body>
+</html>
