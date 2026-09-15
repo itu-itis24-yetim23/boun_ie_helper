@@ -1,5 +1,7 @@
 {
-  "semester": "Run npm run update:data",
-  "fetchedAt": null,
-  "source": "https://registration.bogazici.edu.tr/"
+  "semester": "2026/2027-1",
+  "fetchedAt": "2026-09-15T08:49:43.056Z",
+  "source": "https://registration.bogazici.edu.tr/buis/General/schedule.aspx?p=semester",
+  "records": 3384,
+  "rawRows": 3384
 }
