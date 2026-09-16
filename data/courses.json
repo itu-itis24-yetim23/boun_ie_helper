@@ -1308,8 +1308,8 @@
       8
     ],
     "rooms": [
-      "M 1200",
-      "M 1200"
+      "HH Z12",
+      "HH Z12"
     ],
     "semester": "2026/2027-1"
   },
@@ -8105,7 +8105,7 @@
       3
     ],
     "rooms": [
-      "VYKM5",
+      "M 2180",
       "M 2231",
       "M 2231"
     ],
@@ -8253,8 +8253,8 @@
     "rooms": [
       "VYKM6",
       "VYKM6",
-      "VYKM5",
-      "VYKM5"
+      "M 2180",
+      "M 2180"
     ],
     "semester": "2026/2027-1"
   },
@@ -8297,9 +8297,9 @@
       7
     ],
     "rooms": [
-      "M 2231",
-      "M 2231",
-      "M 2231"
+      "M 2171",
+      "M 2171",
+      "M 2171"
     ],
     "semester": "2026/2027-1"
   },
@@ -10046,9 +10046,9 @@
       6
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "ET B513",
+      "ET B509",
+      "ET B509"
     ],
     "semester": "2026/2027-1"
   },
@@ -10707,8 +10707,8 @@
     ],
     "rooms": [
       "KB Z01",
-      "NH 401",
-      "NH 401"
+      "NH 405",
+      "NH 405"
     ],
     "semester": "2026/2027-1"
   },
@@ -15165,8 +15165,8 @@
     ],
     "rooms": [
       "NH 405",
-      "NH 401",
-      "NH 401"
+      "NH 405",
+      "NH 405"
     ],
     "semester": "2026/2027-1"
   },
@@ -15447,8 +15447,8 @@
     ],
     "rooms": [
       "NB 119",
-      "NH 405",
-      "NH 405"
+      "NH 401",
+      "NH 401"
     ],
     "semester": "2026/2027-1"
   },
@@ -15471,8 +15471,8 @@
     ],
     "rooms": [
       "NB 119",
-      "NH 405",
-      "NH 405"
+      "NH 401",
+      "NH 401"
     ],
     "semester": "2026/2027-1"
   },
@@ -24206,9 +24206,9 @@
       5
     ],
     "rooms": [
-      "EF 302",
-      "EF 302",
-      "EF 202"
+      "NH 102",
+      "NH 102",
+      "EF 116"
     ],
     "semester": "2026/2027-1"
   },
@@ -32123,8 +32123,8 @@
       5
     ],
     "rooms": [
-      "NH 102",
-      "NH 102",
+      "NH 003",
+      "NH 003",
       "M 2180"
     ],
     "semester": "2026/2027-1"
@@ -32171,6 +32171,114 @@
     "credits": null,
     "ects": null,
     "instructor": "İSMAİL MUTLU",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.07": {
+    "code": "LAW 101.07",
+    "name": "INTRODUCTION TO LAW",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "AKAY DURAK",
+    "sessionType": "lecture",
+    "days": [
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "M 2200",
+      "M 2200",
+      "M 2200"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.07 P.S. 1": {
+    "code": "LAW 101.07",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "AKAY DURAK",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.08": {
+    "code": "LAW 101.08",
+    "name": "INTRODUCTION TO LAW",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "STAFF STAFF",
+    "sessionType": "lecture",
+    "days": [
+      "T",
+      "T",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      3
+    ],
+    "rooms": [
+      "M 2180",
+      "M 2180",
+      "M 2180"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.08 P.S. 1": {
+    "code": "LAW 101.08",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "STAFF STAFF",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.09": {
+    "code": "LAW 101.09",
+    "name": "INTRODUCTION TO LAW",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "STAFF STAFF",
+    "sessionType": "lecture",
+    "days": [
+      "M",
+      "M",
+      "W"
+    ],
+    "hours": [
+      2,
+      3,
+      7
+    ],
+    "rooms": [
+      "M 3120",
+      "M 3120",
+      "M 2231"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.09 P.S. 1": {
+    "code": "LAW 101.09",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "STAFF STAFF",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -32897,6 +33005,42 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "LAW339.01": {
+    "code": "LAW 339.01",
+    "name": "INTERNET LAW",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "MUHAMMED FURKAN AKINCI",
+    "sessionType": "lecture",
+    "days": [
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "M 2200",
+      "M 2200",
+      "M 2200"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "LAW339.01 P.S. 1": {
+    "code": "LAW 339.01",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "MUHAMMED FURKAN AKINCI",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "LAW341.01": {
     "code": "LAW 341.01",
     "name": "INTELLECTUAL PROPERTY LAW",
@@ -33601,8 +33745,8 @@
       6
     ],
     "rooms": [
-      "NH 203",
-      "NH 203",
+      "NH 103",
+      "NH 103",
       "NH 304",
       "NH 304"
     ],
@@ -33682,8 +33826,8 @@
       4
     ],
     "rooms": [
-      "JF 333",
-      "JF 333",
+      "M 2152",
+      "M 2152",
       "M 1171",
       "M 1171"
     ],
@@ -33709,10 +33853,10 @@
       8
     ],
     "rooms": [
-      "TB 240",
-      "TB 240",
-      "TB 240",
-      "TB 240"
+      "NH 202",
+      "NH 202",
+      "NH 202",
+      "NH 202"
     ],
     "semester": "2026/2027-1"
   },
@@ -35803,7 +35947,7 @@
     "rooms": [
       "EF 06",
       "EF 06",
-      "NH 201"
+      "NH 203"
     ],
     "semester": "2026/2027-1"
   },
@@ -37664,7 +37808,7 @@
       8
     ],
     "rooms": [
-      "NH 102",
+      "NH 103",
       "HD 301 (SALON1)",
       "HD 301 (SALON1)"
     ],
@@ -37909,7 +38053,7 @@
       2
     ],
     "rooms": [
-      "NH 102"
+      "NH 203"
     ],
     "semester": "2026/2027-1"
   },
@@ -42656,7 +42800,7 @@
       7
     ],
     "rooms": [
-      "VYKM5"
+      "M 1200"
     ],
     "semester": "2026/2027-1"
   },
@@ -52253,7 +52397,7 @@
     "rooms": [
       "M 2180",
       "M 2180",
-      "M 2171"
+      "HH 203"
     ],
     "semester": "2026/2027-1"
   },
@@ -52275,8 +52419,8 @@
       5
     ],
     "rooms": [
-      "M 2171",
-      "M 2171",
+      "HH 203",
+      "HH 203",
       "ET 01"
     ],
     "semester": "2026/2027-1"
@@ -52299,8 +52443,8 @@
       4
     ],
     "rooms": [
-      "M 2171",
-      "M 2171",
+      "HH 203",
+      "HH 203",
       "ET 01"
     ],
     "semester": "2026/2027-1"
@@ -53937,9 +54081,9 @@
       "KB SHANNON-232",
       "KB SHANNON-232",
       "KB SHANNON-232",
-      "HH 203",
-      "HH 203",
-      "HH 203"
+      "HH 207",
+      "HH 207",
+      "HH 207"
     ],
     "semester": "2026/2027-1"
   },
@@ -54717,12 +54861,12 @@
       2
     ],
     "rooms": [
-      "KGYM1",
-      "KGYM1",
-      "KGYM1",
-      "KGYM1",
-      "KGYM1",
-      "KGYM1"
+      "JF 331",
+      "JF 331",
+      "KGYM2",
+      "KGYM2",
+      "KGYM2",
+      "KGYM2"
     ],
     "semester": "2026/2027-1"
   },
@@ -54876,9 +55020,9 @@
       4
     ],
     "rooms": [
-      "KGYM2",
-      "KGYM2",
-      "KGYM2"
+      "KGYM1",
+      "KGYM1",
+      "KGYM1"
     ],
     "semester": "2026/2027-1"
   },
@@ -56381,7 +56525,7 @@
     "rooms": [
       "HH Z08",
       "HH Z08",
-      "M 2180"
+      "TB 490"
     ],
     "semester": "2026/2027-1"
   },
@@ -61155,8 +61299,8 @@
       8
     ],
     "rooms": [
-      "NH 202",
-      "NH 202",
+      "NH 402",
+      "NH 402",
       "NH 202"
     ],
     "semester": "2026/2027-1"
@@ -61203,9 +61347,9 @@
       2
     ],
     "rooms": [
-      "HH Z08",
-      "HH Z08",
-      "HH 207"
+      "NH 102",
+      "NH 102",
+      "NH 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -61323,9 +61467,9 @@
       4
     ],
     "rooms": [
-      "HH 103",
-      "HH 207",
-      "HH 207"
+      "NH 102",
+      "NH 201",
+      "NH 201"
     ],
     "semester": "2026/2027-1"
   },
