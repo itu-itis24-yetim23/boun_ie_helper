@@ -10754,8 +10754,8 @@
       8
     ],
     "rooms": [
-      "BM A2",
-      "BM A2",
+      "NH 301",
+      "NH 301",
       "BM A2"
     ],
     "semester": "2026/2027-1"
@@ -11828,6 +11828,87 @@
     ],
     "semester": "2026/2027-1"
   },
+  "CMPE599.09": {
+    "code": "CMPE 599.09",
+    "name": "GUIDED RESEARCH IN MS-I",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "SUZAN ÜSKÜDARLI",
+    "sessionType": "lecture",
+    "days": [
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4
+    ],
+    "rooms": [
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.09 LAB 1": {
+    "code": "CMPE 599.09",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "SUZAN ÜSKÜDARLI",
+    "sessionType": "lab",
+    "days": [
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.10": {
+    "code": "CMPE 599.10",
+    "name": "GUIDED RESEARCH IN MS-I",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "MEHMET ALPER ŞEN",
+    "sessionType": "lecture",
+    "days": [
+      "M",
+      "M"
+    ],
+    "hours": [
+      1,
+      2
+    ],
+    "rooms": [
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.10 LAB 1": {
+    "code": "CMPE 599.10",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "MEHMET ALPER ŞEN",
+    "sessionType": "lab",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "CMPE599.12": {
     "code": "CMPE 599.12",
     "name": "GUIDED RESEARCH IN MS-I",
@@ -11936,8 +12017,8 @@
       "T"
     ],
     "hours": [
-      6,
-      7
+      7,
+      8
     ],
     "rooms": [
       "",
@@ -11963,6 +12044,54 @@
       7,
       8,
       9
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.15": {
+    "code": "CMPE 599.15",
+    "name": "GUIDED RESEARCH IN MS-I",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "HÜSEYİN BİRKAN YILMAZ",
+    "sessionType": "lecture",
+    "days": [
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2
+    ],
+    "rooms": [
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.15 LAB 1": {
+    "code": "CMPE 599.15",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "HÜSEYİN BİRKAN YILMAZ",
+    "sessionType": "lab",
+    "days": [
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4
     ],
     "rooms": [
       "",
@@ -12028,12 +12157,12 @@
     "instructor": "SUZAN ÜSKÜDARLI",
     "sessionType": "lecture",
     "days": [
-      "W",
-      "W"
+      "M",
+      "M"
     ],
     "hours": [
-      6,
-      7
+      1,
+      2
     ],
     "rooms": [
       "",
@@ -12051,6 +12180,39 @@
     "days": [],
     "hours": [],
     "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "CMPE59A.10": {
+    "code": "CMPE 59A.10",
+    "name": "GUIDED RESEARCH IN MS-II",
+    "credits": 0,
+    "ects": 10,
+    "instructor": "MEHMET ALPER ŞEN",
+    "sessionType": "lecture",
+    "days": [
+      "M",
+      "M",
+      "M",
+      "M",
+      "M",
+      "M"
+    ],
+    "hours": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
     "semester": "2026/2027-1"
   },
   "CMPE59A.12": {
@@ -12572,6 +12734,102 @@
       2,
       3,
       4
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE699.15": {
+    "code": "CMPE 699.15",
+    "name": "GUIDED RESEARCH IN PhD I",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "HÜSEYİN BİRKAN YILMAZ",
+    "sessionType": "lecture",
+    "days": [
+      "W",
+      "W"
+    ],
+    "hours": [
+      3,
+      4
+    ],
+    "rooms": [
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE699.15 LAB 1": {
+    "code": "CMPE 699.15",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "HÜSEYİN BİRKAN YILMAZ",
+    "sessionType": "lab",
+    "days": [
+      "W",
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE69A.04": {
+    "code": "CMPE 69A.04",
+    "name": "GUIDED RESEARCH IN PhD II",
+    "credits": 0,
+    "ects": 10,
+    "instructor": "TUNGA GÜNGÖR",
+    "sessionType": "lecture",
+    "days": [
+      "M",
+      "M"
+    ],
+    "hours": [
+      5,
+      6
+    ],
+    "rooms": [
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE69A.04 LAB 1": {
+    "code": "CMPE 69A.04",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "TUNGA GÜNGÖR",
+    "sessionType": "lab",
+    "days": [
+      "Th",
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6
     ],
     "rooms": [
       "",
@@ -16726,10 +16984,10 @@
       8
     ],
     "rooms": [
-      "",
-      "",
-      "",
-      ""
+      "EF 402 (LAB)",
+      "EF 402 (LAB)",
+      "EF 406 (LAB)",
+      "EF 406 (LAB)"
     ],
     "semester": "2026/2027-1"
   },
@@ -16916,9 +17174,9 @@
       10
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "EF 302",
+      "EF 302",
+      "EF 302"
     ],
     "semester": "2026/2027-1"
   },
@@ -19718,6 +19976,42 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "ETM582.04": {
+    "code": "ETM 582.04",
+    "name": "CASE STUDIES IN ETM",
+    "credits": 2,
+    "ects": 1,
+    "instructor": "SUAT GENÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "ETM587.01": {
+    "code": "ETM 587.01",
+    "name": "SPECIAL TOPICS IN ETM:VALUE PROPOSITION DESIGN AND BUSINESS IDEA VALIDATION",
+    "credits": 3,
+    "ects": 7,
+    "instructor": "SUAT GENÇ",
+    "sessionType": "lecture",
+    "days": [
+      "St",
+      "St",
+      "St"
+    ],
+    "hours": [
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
   "ETM591.01": {
     "code": "ETM 591.01",
     "name": "PROJECT",
@@ -20762,6 +21056,18 @@
     ],
     "semester": "2026/2027-1"
   },
+  "ESC690.02": {
+    "code": "ESC 690.02",
+    "name": "M.S.THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "HASAN FEHMİ TOPAL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "ESC690.03": {
     "code": "ESC 690.03",
     "name": "M.S.THESIS",
@@ -20996,6 +21302,18 @@
     "credits": 0,
     "ects": 120,
     "instructor": "ALPEREN MANİSALIGİL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "ESC790.02": {
+    "code": "ESC 790.02",
+    "name": "Ph.D.THESIS",
+    "credits": 0,
+    "ects": 120,
+    "instructor": "HASAN FEHMİ TOPAL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -21359,6 +21677,30 @@
       "HC 301",
       "HC 301",
       "HC 301"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "ESC536.01": {
+    "code": "ESC 536.01",
+    "name": "RENEWABLE ENERGY SOURCES AND THE ENVIRONMENT",
+    "credits": 3,
+    "ects": 8,
+    "instructor": "HASAN FEHMİ TOPAL",
+    "sessionType": "lecture",
+    "days": [
+      "M",
+      "M",
+      "M"
+    ],
+    "hours": [
+      2,
+      3,
+      4
+    ],
+    "rooms": [
+      "HC 214",
+      "HC 214",
+      "HC 214"
     ],
     "semester": "2026/2027-1"
   },
@@ -26365,9 +26707,9 @@
     "instructor": "CENGİZ ZABCI",
     "sessionType": "lecture",
     "days": [
-      "Th",
-      "Th",
-      "Th"
+      "W",
+      "W",
+      "W"
     ],
     "hours": [
       2,
@@ -32262,14 +32604,14 @@
       "W"
     ],
     "hours": [
-      2,
-      3,
-      7
+      7,
+      8,
+      9
     ],
     "rooms": [
-      "M 3120",
-      "M 3120",
-      "M 2231"
+      "M 2200",
+      "M 2200",
+      "HH Z04"
     ],
     "semester": "2026/2027-1"
   },
@@ -35648,9 +35990,9 @@
       9
     ],
     "rooms": [
-      "M 2171",
-      "M 2171",
-      "M 2171"
+      "M 1100",
+      "M 1100",
+      "M 1100"
     ],
     "semester": "2026/2027-1"
   },
@@ -36880,7 +37222,7 @@
     "name": "RESEARCH METHODS",
     "credits": 4,
     "ects": 10,
-    "instructor": "ULAŞ AKKÜÇÜK",
+    "instructor": "MARIA DOLORES ALVAREZ",
     "sessionType": "lecture",
     "days": [
       "T",
@@ -39801,6 +40143,33 @@
     ],
     "semester": "2026/2027-1"
   },
+  "MATH324.01": {
+    "code": "MATH 324.01",
+    "name": "REPRESENTATION THEORY OF FINITE GROUPS",
+    "credits": 3,
+    "ects": 6,
+    "instructor": "OLCAY COŞKUN",
+    "sessionType": "lecture",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "rooms": [
+      "TB 121",
+      "TB 121",
+      "JF 108",
+      "JF 108"
+    ],
+    "semester": "2026/2027-1"
+  },
   "MATH327.01": {
     "code": "MATH 327.01",
     "name": "NUMBER THEORY",
@@ -39990,6 +40359,30 @@
     "credits": 3,
     "ects": 6,
     "instructor": "KÜBRA BENLİ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "MATH490.03": {
+    "code": "MATH 490.03",
+    "name": "PROJECT",
+    "credits": 3,
+    "ects": 6,
+    "instructor": "KAZIM İLHAN İKEDA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "MATH490.04": {
+    "code": "MATH 490.04",
+    "name": "PROJECT",
+    "credits": 3,
+    "ects": 6,
+    "instructor": "FERİT ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -40284,6 +40677,18 @@
     ],
     "semester": "2026/2027-1"
   },
+  "MATH590.01": {
+    "code": "MATH 590.01",
+    "name": "READINGS IN MATHEMATICS",
+    "credits": 1,
+    "ects": 3,
+    "instructor": "KAZIM İLHAN İKEDA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "MATH611.01": {
     "code": "MATH 611.01",
     "name": "DIFFERENTIAL GEOMETRY I",
@@ -40321,6 +40726,33 @@
     "days": [],
     "hours": [],
     "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "MATH68G.01": {
+    "code": "MATH 68G.01",
+    "name": "SELECTED TOPICS IN COMBINATORICS: ALGEBRAIC AND SPECTRAL GRAPH THEORY",
+    "credits": 3,
+    "ects": 10,
+    "instructor": "ÜMİT IŞLAK",
+    "sessionType": "lecture",
+    "days": [
+      "T",
+      "T",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      7,
+      8
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      ""
+    ],
     "semester": "2026/2027-1"
   },
   "MATH690.01": {
@@ -45440,7 +45872,7 @@
     "name": "M.S.THESIS",
     "credits": 0,
     "ects": 60,
-    "instructor": "NECLA BİRGÜL İYİSON",
+    "instructor": "NESRİN ÖZÖREN ERKOL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -45507,6 +45939,54 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "BIO690.09": {
+    "code": "BIO 690.09",
+    "name": "M.S.THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "ARZU ÇELİK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "BIO690.10": {
+    "code": "BIO 690.10",
+    "name": "M.S.THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "SEYFULLAH ENES KOTİL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "BIO690.11": {
+    "code": "BIO 690.11",
+    "name": "M.S.THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "MOHAMMAD HAROON QURESHI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "BIO690.12": {
+    "code": "BIO 690.12",
+    "name": "M.S.THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "İBRAHİM YAMAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "BIO691.08": {
     "code": "BIO 691.08",
     "name": "ADV.TP.PROTEIN BIOCHEMISTRY",
@@ -45561,6 +46041,18 @@
     "credits": 0,
     "ects": 120,
     "instructor": "NESRİN ÖZÖREN ERKOL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "BIO790.05": {
+    "code": "BIO 790.05",
+    "name": "Ph.D.THESIS",
+    "credits": 0,
+    "ects": 120,
+    "instructor": "SEYFULLAH ENES KOTİL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -45858,9 +46350,9 @@
       3
     ],
     "rooms": [
-      "JF 507",
-      "JF 507",
-      "JF 507"
+      "ET 01",
+      "ET 01",
+      "NH 103"
     ],
     "semester": "2026/2027-1"
   },
@@ -45966,18 +46458,6 @@
     "credits": 3,
     "ects": 6,
     "instructor": "BERNA KILINÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.04": {
-    "code": "PHIL 499.04",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "KENAN TEKİN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -50295,9 +50775,9 @@
       6
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "M 2231",
+      "M 2231",
+      "M 2231"
     ],
     "semester": "2026/2027-1"
   },
@@ -59322,6 +59802,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "TR428.06": {
+    "code": "TR 428.06",
+    "name": "TRANSLATION PROJECT",
+    "credits": 3,
+    "ects": 6,
+    "instructor": "JONATHAN MAURICE ROSS",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "TR48M.01": {
     "code": "TR 48M.01",
     "name": "SPECIAL TOPICS DEBATE",
@@ -60841,8 +61333,8 @@
       4
     ],
     "rooms": [
-      "KP 02",
-      "KP 02"
+      "M 2181",
+      "M 2181"
     ],
     "semester": "2026/2027-1"
   },
@@ -61563,9 +62055,9 @@
       8
     ],
     "rooms": [
-      "KP 04",
-      "KP 04",
-      "KP 04"
+      "M 2181",
+      "M 2181",
+      "M 2181"
     ],
     "semester": "2026/2027-1"
   },
@@ -62624,13 +63116,13 @@
       4
     ],
     "rooms": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "ET B413",
+      "ET B413",
+      "ET B413",
+      "ET B413",
+      "ET B413",
+      "ET B407",
+      "ET B407"
     ],
     "semester": "2026/2027-1"
   },
@@ -63544,6 +64036,18 @@
     "rooms": [
       "M 2230"
     ],
+    "semester": "2026/2027-1"
+  },
+  "LIT311.01": {
+    "code": "LIT 311.01",
+    "name": "COPYWRITING FOR MARKETING&ADVERTISING",
+    "credits": 3,
+    "ects": 6,
+    "instructor": "SAMİ BASUT",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "LIT325.01": {
