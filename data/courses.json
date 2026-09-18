@@ -7067,6 +7067,42 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "CHEM599.01": {
+    "code": "CHEM 599.01",
+    "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "OKTAY DEMİRCAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "CHEM599.02": {
+    "code": "CHEM 599.02",
+    "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "BAŞAK KAYITMAZER",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "CHEM599.03": {
+    "code": "CHEM 599.03",
+    "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "AMITAV SANYAL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "CHEM601.01": {
     "code": "CHEM 601.01",
     "name": "CURRENT RESEARCH TOPICS",
@@ -7241,6 +7277,18 @@
     "credits": 0,
     "ects": 60,
     "instructor": "RANA NOMAK SANYAL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "CHEM699.01": {
+    "code": "CHEM 699.01",
+    "name": "GUIDED RESEARCH",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "AMITAV SANYAL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -21291,9 +21339,15 @@
     "ects": 2,
     "instructor": "TURGUT TÜZÜN ONAY",
     "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "M"
+    ],
+    "hours": [
+      5
+    ],
+    "rooms": [
+      "HC 214"
+    ],
     "semester": "2026/2027-1"
   },
   "ESC790.01": {
@@ -21688,9 +21742,9 @@
     "instructor": "HASAN FEHMİ TOPAL",
     "sessionType": "lecture",
     "days": [
-      "M",
-      "M",
-      "M"
+      "Th",
+      "Th",
+      "Th"
     ],
     "hours": [
       2,
@@ -21698,9 +21752,9 @@
       4
     ],
     "rooms": [
-      "HC 214",
-      "HC 214",
-      "HC 214"
+      "HC 105",
+      "HC 105",
+      "HC 105"
     ],
     "semester": "2026/2027-1"
   },
@@ -23162,9 +23216,9 @@
       11
     ],
     "rooms": [
-      "TB 240",
-      "TB 240",
-      "TB 240"
+      "TB 415",
+      "TB 415",
+      "TB 415"
     ],
     "semester": "2026/2027-1"
   },
@@ -24598,7 +24652,7 @@
     "rooms": [
       "NH 203",
       "NH 203",
-      "EF 103"
+      "EF 106"
     ],
     "semester": "2026/2027-1"
   },
@@ -29201,9 +29255,9 @@
       9
     ],
     "rooms": [
-      "TB 415",
-      "TB 415",
-      "TB 415"
+      "TB 240",
+      "TB 240",
+      "TB 240"
     ],
     "semester": "2026/2027-1"
   },
@@ -32753,9 +32807,9 @@
       2
     ],
     "rooms": [
-      "HH Z04",
-      "HH Z04",
-      "TB 415"
+      "NH 203",
+      "NH 203",
+      "NH 001"
     ],
     "semester": "2026/2027-1"
   },
@@ -35682,8 +35736,8 @@
     ],
     "rooms": [
       "M 1100",
-      "İB 100",
-      "İB 100"
+      "İB 312",
+      "İB 312"
     ],
     "semester": "2026/2027-1"
   },
@@ -36215,9 +36269,9 @@
       5
     ],
     "rooms": [
-      "İB 312",
-      "İB 312",
-      "İB 312"
+      "İB 100",
+      "İB 100",
+      "İB 100"
     ],
     "semester": "2026/2027-1"
   },
@@ -40827,6 +40881,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "MATH690.07": {
+    "code": "MATH 690.07",
+    "name": "M.S. THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "OLIVER DR. BÜLTEL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "MATH700.01": {
     "code": "MATH 700.01",
     "name": "GRADUATE SEMINAR",
@@ -40917,6 +40983,18 @@
     "credits": 0,
     "ects": 120,
     "instructor": "OLCAY COŞKUN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "MATH790.08": {
+    "code": "MATH 790.08",
+    "name": "Ph.D.THESIS",
+    "credits": 0,
+    "ects": 120,
+    "instructor": "OLIVER DR. BÜLTEL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -49860,9 +49938,9 @@
     ],
     "rooms": [
       "",
-      "",
-      "",
-      ""
+      "N/A",
+      "KB SHANNON-232",
+      "KB SHANNON-232"
     ],
     "semester": "2026/2027-1"
   },
@@ -50559,7 +50637,7 @@
       4
     ],
     "rooms": [
-      "İB 100",
+      "İB 312",
       "İB 301",
       "İB 301"
     ],
