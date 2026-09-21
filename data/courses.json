@@ -11134,7 +11134,7 @@
     "rooms": [
       "BM A6",
       "BM A6",
-      "BM A6"
+      "BM A4"
     ],
     "semester": "2026/2027-1"
   },
@@ -17059,10 +17059,10 @@
       6
     ],
     "rooms": [
-      "",
-      "",
-      "",
-      ""
+      "EF 402 (LAB)",
+      "EF 402 (LAB)",
+      "EF 402 (LAB)",
+      "EF 402 (LAB)"
     ],
     "semester": "2026/2027-1"
   },
@@ -32362,7 +32362,7 @@
     "name": "INTRODUCTION TO LAW",
     "credits": 3,
     "ects": 5,
-    "instructor": "HARUN MURATOĞULLARI",
+    "instructor": "HASAN BASRİ BÜLBÜL",
     "sessionType": "lecture",
     "days": [
       "M",
@@ -32614,7 +32614,7 @@
     "name": "INTRODUCTION TO LAW",
     "credits": 3,
     "ects": 5,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUSTAFA AKGÜN",
     "sessionType": "lecture",
     "days": [
       "T",
@@ -32650,7 +32650,7 @@
     "name": "INTRODUCTION TO LAW",
     "credits": 3,
     "ects": 5,
-    "instructor": "STAFF STAFF",
+    "instructor": "HARUN MURATOĞULLARI",
     "sessionType": "lecture",
     "days": [
       "M",
@@ -33671,7 +33671,7 @@
       3
     ],
     "rooms": [
-      "NH 404",
+      "M 2171",
       "HH Z17",
       "HH Z17"
     ],
@@ -41079,9 +41079,9 @@
       8
     ],
     "rooms": [
-      "EF 216",
-      "EF 216",
-      "EF 204"
+      "EF 07",
+      "EF 07",
+      "EF 07"
     ],
     "semester": "2026/2027-1"
   },
@@ -41633,10 +41633,10 @@
       2
     ],
     "rooms": [
-      "ET B415",
-      "ET B415",
-      "ET B415",
-      "ET B415"
+      "ET 01",
+      "ET 01",
+      "ET 01",
+      "ET 01"
     ],
     "semester": "2026/2027-1"
   },
@@ -41866,8 +41866,8 @@
       8
     ],
     "rooms": [
-      "EF 03",
-      "EF 03"
+      "ET B407",
+      "ET B407"
     ],
     "semester": "2026/2027-1"
   },
@@ -44792,10 +44792,10 @@
       2
     ],
     "rooms": [
-      "",
-      "",
-      "",
-      ""
+      "KP 01",
+      "KP 01",
+      "KP 01",
+      "KP 01"
     ],
     "semester": "2026/2027-1"
   },
@@ -44813,7 +44813,7 @@
       6
     ],
     "rooms": [
-      ""
+      "ET 01"
     ],
     "semester": "2026/2027-1"
   },
@@ -45157,8 +45157,8 @@
       8
     ],
     "rooms": [
-      "",
-      ""
+      "KP 06",
+      "KP 06"
     ],
     "semester": "2026/2027-1"
   },
@@ -53331,9 +53331,9 @@
       4
     ],
     "rooms": [
-      "EF 03",
-      "EF 03",
-      "EF 03",
+      "M 2231",
+      "M 2231",
+      "M 2231",
       "HH 218",
       "HH 218",
       "HH 218"
@@ -61558,8 +61558,8 @@
     "rooms": [
       "NB B10",
       "NB B10",
-      "EF 02",
-      "EF 02"
+      "M 2171",
+      "M 2171"
     ],
     "semester": "2026/2027-1"
   },
@@ -61584,9 +61584,9 @@
     ],
     "rooms": [
       "NB B10",
-      "EF 202",
-      "EF 02",
-      "EF 02"
+      "JF 333",
+      "TB 155",
+      "TB 155"
     ],
     "semester": "2026/2027-1"
   },
