@@ -197,9 +197,9 @@
       11
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "JF 332",
+      "JF 332",
+      "JF 332"
     ],
     "semester": "2026/2027-1"
   },
@@ -258,21 +258,9 @@
     "ects": 60,
     "instructor": "ZEYNEP HALE EROĞLU SAGER",
     "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      9,
-      10,
-      11
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ASIL501.01": {
@@ -6055,10 +6043,10 @@
       4
     ],
     "rooms": [
-      "KB 126",
-      "KB 126",
-      "KB 126",
-      "KB 126"
+      "NH 001",
+      "NH 001",
+      "NH 001",
+      "NH 001"
     ],
     "semester": "2026/2027-1"
   },
@@ -6076,7 +6064,7 @@
       2
     ],
     "rooms": [
-      "KB 126"
+      "NH 001"
     ],
     "semester": "2026/2027-1"
   },
@@ -7097,6 +7085,18 @@
     "credits": 4,
     "ects": 8,
     "instructor": "AMITAV SANYAL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "CHEM599.04": {
+    "code": "CHEM 599.04",
+    "name": "SPECIAL TOPICS GUIDED RESEARCH IN MS",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "ŞARON ÇATAK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -8612,9 +8612,9 @@
       4
     ],
     "rooms": [
-      "M 2231",
-      "M 2231",
-      "M 2231"
+      "M 2170",
+      "M 2170",
+      "M 2170"
     ],
     "semester": "2026/2027-1"
   },
@@ -10478,9 +10478,9 @@
       5
     ],
     "rooms": [
-      "BM B4",
-      "BM B4",
-      "BM B4"
+      "",
+      "",
+      ""
     ],
     "semester": "2026/2027-1"
   },
@@ -11108,8 +11108,8 @@
       6
     ],
     "rooms": [
-      "BM B4",
-      "BM B4",
+      "BM B5",
+      "BM B5",
       "BM B4"
     ],
     "semester": "2026/2027-1"
@@ -11132,9 +11132,9 @@
       4
     ],
     "rooms": [
-      "BM A6",
-      "BM A6",
-      "BM A4"
+      "BM B3",
+      "BM B3",
+      "BM B3"
     ],
     "semester": "2026/2027-1"
   },
@@ -11558,7 +11558,7 @@
       8
     ],
     "rooms": [
-      "BM B3",
+      "BM A6",
       "BM B3",
       "BM B3"
     ],
@@ -12140,6 +12140,54 @@
       2,
       3,
       4
+    ],
+    "rooms": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.16": {
+    "code": "CMPE 599.16",
+    "name": "GUIDED RESEARCH IN MS-I",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "BAHRİ ATAY ÖZGÖVDE",
+    "sessionType": "lecture",
+    "days": [
+      "F",
+      "F"
+    ],
+    "hours": [
+      1,
+      2
+    ],
+    "rooms": [
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CMPE599.16 LAB 1": {
+    "code": "CMPE 599.16",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "BAHRİ ATAY ÖZGÖVDE",
+    "sessionType": "lab",
+    "days": [
+      "F",
+      "F",
+      "F",
+      "F"
+    ],
+    "hours": [
+      3,
+      4,
+      5,
+      6
     ],
     "rooms": [
       "",
@@ -15572,30 +15620,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "EC101.10": {
-    "code": "EC 101.10",
-    "name": "PRINCIPLES OF MICROECONOMICS",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "STAFF STAFF",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "Th"
-    ],
-    "hours": [
-      5,
-      6,
-      5
-    ],
-    "rooms": [
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)",
-      "NH 105"
-    ],
-    "semester": "2026/2027-1"
-  },
   "EC103.01": {
     "code": "EC 103.01",
     "name": "ORIENTATION TO ECONOMICS I",
@@ -17059,10 +17083,10 @@
       6
     ],
     "rooms": [
-      "EF 402 (LAB)",
-      "EF 402 (LAB)",
-      "EF 402 (LAB)",
-      "EF 402 (LAB)"
+      "EF 303",
+      "EF 303",
+      "EF 303",
+      "EF 303"
     ],
     "semester": "2026/2027-1"
   },
@@ -20552,7 +20576,7 @@
       3
     ],
     "rooms": [
-      "HD 301 (SALON1)",
+      "HD 101 (SALON3)",
       "HD 201 (SALON2)",
       "HD 201 (SALON2)"
     ],
@@ -21050,9 +21074,9 @@
       8
     ],
     "rooms": [
-      "HC 201",
-      "HC 201",
-      "HC 201"
+      "HC 214",
+      "HC 214",
+      "HC 214"
     ],
     "semester": "2026/2027-1"
   },
@@ -33131,7 +33155,7 @@
       4
     ],
     "rooms": [
-      "M 2170",
+      "İB 201",
       "JF 334",
       "JF 334"
     ],
@@ -33797,42 +33821,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LAW483.01": {
-    "code": "LAW 483.01",
-    "name": "SPECİAL TOPICS LEGAL SOCIOLOGY",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "RAMI KOUJAH",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "W"
-    ],
-    "hours": [
-      2,
-      3,
-      2
-    ],
-    "rooms": [
-      "M 2170",
-      "M 2170",
-      "JF 334"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "LAW483.01 P.S. 1": {
-    "code": "LAW 483.01",
-    "name": "P.S.",
-    "credits": null,
-    "ects": null,
-    "instructor": "RAMI KOUJAH",
-    "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LS601.01": {
     "code": "LS 601.01",
     "name": "FOUNDATIONS OF LEARNING SCIENCES",
@@ -34357,8 +34345,8 @@
       4
     ],
     "rooms": [
-      "TB 121",
-      "TB 121",
+      "NH 103",
+      "NH 103",
       "TB 155",
       "TB 155"
     ],
@@ -36173,8 +36161,8 @@
       2
     ],
     "rooms": [
-      "NH 303",
-      "NH 303",
+      "İB 204",
+      "İB 204",
       "İB 103"
     ],
     "semester": "2026/2027-1"
@@ -39716,7 +39704,7 @@
     "name": "CALCULUS II",
     "credits": 4,
     "ects": 6,
-    "instructor": "STAFF STAFF",
+    "instructor": "CRAIG CHARLES VAN COEVERING",
     "sessionType": "lecture",
     "days": [
       "T",
@@ -39959,7 +39947,7 @@
     "name": "MATRIX THEORY",
     "credits": 4,
     "ects": 5,
-    "instructor": "STAFF STAFF",
+    "instructor": "REDI HADERI",
     "sessionType": "lecture",
     "days": [
       "M",
@@ -39986,7 +39974,7 @@
     "name": "MATRIX THEORY",
     "credits": 4,
     "ects": 5,
-    "instructor": "CRAIG CHARLES VAN COEVERING",
+    "instructor": "REDI HADERI",
     "sessionType": "lecture",
     "days": [
       "M",
@@ -40136,10 +40124,10 @@
       2
     ],
     "rooms": [
-      "M 2170",
-      "M 2170",
-      "M 2170",
-      "M 2170"
+      "VYKM1",
+      "VYKM1",
+      "M 1100",
+      "M 1100"
     ],
     "semester": "2026/2027-1"
   },
@@ -40789,9 +40777,21 @@
     "ects": 10,
     "instructor": "KAZIM İLHAN İKEDA",
     "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "M",
+      "M",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      2
+    ],
+    "rooms": [
+      "",
+      "",
+      ""
+    ],
     "semester": "2026/2027-1"
   },
   "MATH68G.01": {
@@ -41406,7 +41406,7 @@
       4
     ],
     "rooms": [
-      "EF 102",
+      "EF 104",
       "EF 103",
       "EF 103"
     ],
@@ -44208,6 +44208,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "ME69A.01": {
+    "code": "ME 69A.01",
+    "name": "GUIDED RESEARCH II",
+    "credits": 0,
+    "ects": 8,
+    "instructor": "ŞEBNEM ÖZÜPEK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "ME700.01": {
     "code": "ME 700.01",
     "name": "GRADUATE SEMINAR",
@@ -46242,7 +46254,7 @@
       7
     ],
     "rooms": [
-      "HD 101 (SALON3)",
+      "NH 203",
       "NH 101",
       "NH 101"
     ],
@@ -49199,8 +49211,8 @@
       8
     ],
     "rooms": [
-      "NH 002",
-      "NH 002",
+      "NH 105",
+      "NH 105",
       "KB Z01",
       "KB Z01"
     ],
@@ -50841,9 +50853,9 @@
       6
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "İB 512",
+      "İB 512",
+      "İB 512"
     ],
     "semester": "2026/2027-1"
   },
@@ -50878,9 +50890,21 @@
     "ects": 7,
     "instructor": "GÜLNUR AYBET",
     "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      7,
+      8,
+      9
+    ],
+    "rooms": [
+      "İB 512",
+      "İB 512",
+      "İB 512"
+    ],
     "semester": "2026/2027-1"
   },
   "POLS527.01": {
@@ -50925,9 +50949,9 @@
       6
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "İB 512",
+      "İB 512",
+      "İB 512"
     ],
     "semester": "2026/2027-1"
   },
@@ -51543,8 +51567,8 @@
       1
     ],
     "rooms": [
-      "NH 105",
-      "NH 105",
+      "EF 106",
+      "EF 106",
       "NB 119"
     ],
     "semester": "2026/2027-1"
@@ -54883,8 +54907,8 @@
       "HH Z12",
       "JF 101",
       "JF 101",
-      "JF 331",
-      "JF 331"
+      "JF 332",
+      "JF 332"
     ],
     "semester": "2026/2027-1"
   },
@@ -55013,8 +55037,8 @@
       4
     ],
     "rooms": [
-      "KP 03",
-      "KP 03",
+      "TB 240",
+      "TB 240",
       "ET 02",
       "ET 02"
     ],
@@ -55928,8 +55952,8 @@
       4
     ],
     "rooms": [
-      "KP 03",
-      "KP 03",
+      "JF 108",
+      "JF 108",
       "HH Z07",
       "HH Z07"
     ],
@@ -56422,6 +56446,126 @@
       "ET 03",
       "ET 03"
     ],
+    "semester": "2026/2027-1"
+  },
+  "SFLRL1.01": {
+    "code": "SFLRL 1.01",
+    "name": "REMEDIAL LISTENING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEDEF ÇETİN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRL1.02": {
+    "code": "SFLRL 1.02",
+    "name": "REMEDIAL LISTENING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "GİZEM ALTINTAÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRL1.03": {
+    "code": "SFLRL 1.03",
+    "name": "REMEDIAL LISTENING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "YUSUF CENGİZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRL1.04": {
+    "code": "SFLRL 1.04",
+    "name": "REMEDIAL LISTENING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MARILYN LEE",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRL1.05": {
+    "code": "SFLRL 1.05",
+    "name": "REMEDIAL LISTENING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "CANSU TURAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRR1.01": {
+    "code": "SFLRR 1.01",
+    "name": "REMEDIAL READING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEDEF ÇETİN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRR1.02": {
+    "code": "SFLRR 1.02",
+    "name": "REMEDIAL READING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "GİZEM ALTINTAÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRR1.03": {
+    "code": "SFLRR 1.03",
+    "name": "REMEDIAL READING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "YUSUF CENGİZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRR1.04": {
+    "code": "SFLRR 1.04",
+    "name": "REMEDIAL READING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MARILYN LEE",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFLRR1.05": {
+    "code": "SFLRR 1.05",
+    "name": "REMEDIAL READING",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "CANSU TURAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "SPA101.01": {
@@ -57045,9 +57189,9 @@
       5
     ],
     "rooms": [
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)",
-      "NH 405"
+      "HD 301 (SALON1)",
+      "HD 301 (SALON1)",
+      "HD 301 (SALON1)"
     ],
     "semester": "2026/2027-1"
   },
