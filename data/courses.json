@@ -6301,7 +6301,7 @@
       5
     ],
     "rooms": [
-      "EF 101"
+      "EF 205"
     ],
     "semester": "2026/2027-1"
   },
@@ -15848,8 +15848,8 @@
       5
     ],
     "rooms": [
-      "EF 116",
-      "EF 116",
+      "NH 302",
+      "NH 302",
       "M 2152"
     ],
     "semester": "2026/2027-1"
@@ -16381,8 +16381,8 @@
       4
     ],
     "rooms": [
-      "EF 103",
-      "EF 103",
+      "NH 302",
+      "NH 302",
       "HH Z07",
       "HH Z07"
     ],
@@ -24698,8 +24698,8 @@
       8
     ],
     "rooms": [
-      "NH 203",
-      "NH 203",
+      "NH 404",
+      "NH 404",
       "EF 106"
     ],
     "semester": "2026/2027-1"
@@ -24942,8 +24942,8 @@
       8
     ],
     "rooms": [
-      "",
-      ""
+      "EF 205",
+      "EF 205"
     ],
     "semester": "2026/2027-1"
   },
@@ -24987,8 +24987,8 @@
       8
     ],
     "rooms": [
-      "",
-      ""
+      "EF 206",
+      "EF 206"
     ],
     "semester": "2026/2027-1"
   },
@@ -25077,8 +25077,8 @@
       8
     ],
     "rooms": [
-      "",
-      ""
+      "EF 02",
+      "EF 02"
     ],
     "semester": "2026/2027-1"
   },
@@ -25212,8 +25212,8 @@
       8
     ],
     "rooms": [
-      "",
-      ""
+      "EF 202",
+      "EF 202"
     ],
     "semester": "2026/2027-1"
   },
@@ -25257,8 +25257,8 @@
       8
     ],
     "rooms": [
-      "",
-      ""
+      "EF 204",
+      "EF 204"
     ],
     "semester": "2026/2027-1"
   },
@@ -25351,10 +25351,10 @@
       3
     ],
     "rooms": [
-      "EF 201",
-      "EF 201",
-      "EF 05",
-      "EF 05"
+      "EF 416 (LAB)",
+      "EF 416 (LAB)",
+      "EF 402 (LAB)",
+      "EF 402 (LAB)"
     ],
     "semester": "2026/2027-1"
   },
@@ -25378,10 +25378,10 @@
       3
     ],
     "rooms": [
-      "EF 101",
-      "EF 101",
-      "EF 201",
-      "EF 201"
+      "EF 404 (LAB)",
+      "EF 404 (LAB)",
+      "EF 404 (LAB)",
+      "EF 404 (LAB)"
     ],
     "semester": "2026/2027-1"
   },
@@ -25622,9 +25622,9 @@
       7
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "EF 416 (LAB)",
+      "EF 416 (LAB)",
+      "EF 416 (LAB)"
     ],
     "semester": "2026/2027-1"
   },
@@ -27681,8 +27681,8 @@
     ],
     "rooms": [
       "EF 116",
-      "EF 06",
-      "EF 06"
+      "EF 104",
+      "EF 104"
     ],
     "semester": "2026/2027-1"
   },
@@ -28775,9 +28775,9 @@
       6
     ],
     "rooms": [
-      "NH 304",
-      "NH 304",
-      "NH 404"
+      "HD 101 (SALON3)",
+      "HD 101 (SALON3)",
+      "HD 101 (SALON3)"
     ],
     "semester": "2026/2027-1"
   },
@@ -29453,6 +29453,30 @@
     ],
     "semester": "2026/2027-1"
   },
+  "HIST573.01": {
+    "code": "HIST 573.01",
+    "name": "SEMINAR ON CHINA&CENTRAL ASIA",
+    "credits": 3,
+    "ects": 7,
+    "instructor": "ZEYNEP HALE EROĞLU SAGER",
+    "sessionType": "lecture",
+    "days": [
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      1,
+      2,
+      3
+    ],
+    "rooms": [
+      "",
+      "",
+      ""
+    ],
+    "semester": "2026/2027-1"
+  },
   "HIST574.01": {
     "code": "HIST 574.01",
     "name": "SEMINAR IN CHINESE HISTORY",
@@ -29801,6 +29825,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "HIST690.11": {
+    "code": "HIST 690.11",
+    "name": "MASTER THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "MUHAMMET ZAHİT ATÇIL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "HIST690.12": {
     "code": "HIST 690.12",
     "name": "MASTER THESIS",
@@ -29903,6 +29939,18 @@
     "credits": 0,
     "ects": 60,
     "instructor": "AKİF ERCİHAN YERLİOĞLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "HIST700.01": {
+    "code": "HIST 700.01",
+    "name": "GRADUATE SEMINAR",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "PETER ROBERT CAMPBELL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -30992,18 +31040,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "IE690.01": {
-    "code": "IE 690.01",
-    "name": "M.S. THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "KUBAN ALTINEL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "IE690.02": {
     "code": "IE 690.02",
     "name": "M.S. THESIS",
@@ -31130,18 +31166,6 @@
     "credits": 0,
     "ects": 60,
     "instructor": "EBUBEKİR KOÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "IE790.01": {
-    "code": "IE 790.01",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "KUBAN ALTINEL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32045,9 +32069,9 @@
       5
     ],
     "rooms": [
-      "HH 208-SEM2",
-      "HH 208-SEM2",
-      "HH 208-SEM2"
+      "EF 101",
+      "EF 101",
+      "EF 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -32266,7 +32290,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "HÜSEYİN GÖKHAN AKAY",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32290,7 +32314,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "GÖZDE ERHAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32302,7 +32326,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "SABRİ ARHAN ERTAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32314,7 +32338,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "NEBAHAT NİSAN GÖKŞEN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32326,7 +32350,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "ASLI DENİZ HELVACIOĞLU",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32338,7 +32362,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "MEHTAP IŞIK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32350,7 +32374,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "ÖZLEM ÖKTEM",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32362,7 +32386,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "ARZU TEKTAŞ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32374,7 +32398,7 @@
     "name": "M.A.THESIS IN INTERNA.TRADE MANAGEMENT",
     "credits": 0,
     "ects": 60,
-    "instructor": "STAFF STAFF",
+    "instructor": "EMİNE BEYZA SATOĞLU",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -32819,9 +32843,9 @@
       6
     ],
     "rooms": [
-      "M 1200",
-      "M 1200",
-      "M 1200"
+      "NH 203",
+      "NH 203",
+      "NH 203"
     ],
     "semester": "2026/2027-1"
   },
@@ -34261,10 +34285,10 @@
       8
     ],
     "rooms": [
-      "NH 202",
-      "NH 202",
-      "NH 202",
-      "NH 202"
+      "NH 001",
+      "NH 001",
+      "NH 001",
+      "NH 001"
     ],
     "semester": "2026/2027-1"
   },
@@ -34342,8 +34366,8 @@
       2
     ],
     "rooms": [
-      "M 2181",
-      "M 2181",
+      "JF 102",
+      "JF 102",
       "TB 415",
       "TB 415"
     ],
@@ -36355,7 +36379,7 @@
     "rooms": [
       "EF 06",
       "EF 06",
-      "NH 203"
+      "NH 401"
     ],
     "semester": "2026/2027-1"
   },
@@ -43771,8 +43795,8 @@
     ],
     "rooms": [
       "M 2200",
-      "M 1200",
-      "M 1200"
+      "VYKM6",
+      "VYKM6"
     ],
     "semester": "2026/2027-1"
   },
@@ -46708,6 +46732,18 @@
       "TB 155",
       "TB 155"
     ],
+    "semester": "2026/2027-1"
+  },
+  "PHIL579.01": {
+    "code": "PHIL 579.01",
+    "name": "GRADUATE SEMINAR",
+    "credits": 0,
+    "ects": 10,
+    "instructor": "CHRYSSI SIDIROPOULOU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "PHIL58E.01": {
@@ -52419,6 +52455,30 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "PSY690.12": {
+    "code": "PSY 690.12",
+    "name": "MASTER THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "AYLİN ARAS",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "PSY690.13": {
+    "code": "PSY 690.13",
+    "name": "MASTER THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "SALİHA BÜŞRA SELMAN ADIYAMAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "PSY69A.01": {
     "code": "PSY 69A.01",
     "name": "GUIDED RESEARCH IN PSYCHOLOGY",
@@ -56439,6 +56499,1266 @@
     ],
     "semester": "2026/2027-1"
   },
+  "SFL11A.01": {
+    "code": "SFL 11A.01",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "YILDIZ YILDIRIM",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.02": {
+    "code": "SFL 11A.02",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "CEREN BOZKUŞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.03": {
+    "code": "SFL 11A.03",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ÖZGE ÇAĞLAR AKSOY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.04": {
+    "code": "SFL 11A.04",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "GÖNÜL TUĞBA AKDAĞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.05": {
+    "code": "SFL 11A.05",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "AZAM SAMADI RAHIM",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.06": {
+    "code": "SFL 11A.06",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ESRA BENER",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.07": {
+    "code": "SFL 11A.07",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SENA KÖNEZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.08": {
+    "code": "SFL 11A.08",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EBRU ASAL BAŞAK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.09": {
+    "code": "SFL 11A.09",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "İLKNUR NURTEN BAĞCI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.10": {
+    "code": "SFL 11A.10",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ÖZGE KÜBRA YILMAZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.11": {
+    "code": "SFL 11A.11",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ZEHRA BAHADIR",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11A.12": {
+    "code": "SFL 11A.12",
+    "name": "PROGRAM 1 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEZA ÖKTEM",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.01": {
+    "code": "SFL 11B.01",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEMA ÖZÇALLI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.02": {
+    "code": "SFL 11B.02",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEMA ÖZÇALLI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.03": {
+    "code": "SFL 11B.03",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MEHMET ÇELİKBAŞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.04": {
+    "code": "SFL 11B.04",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MEHMET ÇELİKBAŞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.05": {
+    "code": "SFL 11B.05",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EMİNE TAŞPINAR",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.06": {
+    "code": "SFL 11B.06",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EMİNE TAŞPINAR",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.07": {
+    "code": "SFL 11B.07",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "AYSUN BALKAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.08": {
+    "code": "SFL 11B.08",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "AYSUN BALKAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.09": {
+    "code": "SFL 11B.09",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "YEŞİM GÜRCİ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.10": {
+    "code": "SFL 11B.10",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "YEŞİM GÜRCİ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.11": {
+    "code": "SFL 11B.11",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ARZU ÖZFİDAN ANDEROĞLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL11B.12": {
+    "code": "SFL 11B.12",
+    "name": "PROGRAM 1 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ARZU ÖZFİDAN ANDEROĞLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.01": {
+    "code": "SFL 21A.01",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "PELİN AYDIN KOYUNCU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.02": {
+    "code": "SFL 21A.02",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SOMAYEH TAHMOURESI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.03": {
+    "code": "SFL 21A.03",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EDA ÜZÜM",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.04": {
+    "code": "SFL 21A.04",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MOHSEN ASKARI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.05": {
+    "code": "SFL 21A.05",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "NURAY AKCA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.06": {
+    "code": "SFL 21A.06",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ELİF TÜRKOĞLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.07": {
+    "code": "SFL 21A.07",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "PETER HENRY ELLIS BOYCE",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.08": {
+    "code": "SFL 21A.08",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEDA TUĞÇE AKKAYA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.09": {
+    "code": "SFL 21A.09",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "OSAMA KASBAJI",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.10": {
+    "code": "SFL 21A.10",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ASLIHAN AKIN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.11": {
+    "code": "SFL 21A.11",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SERAP ERDAL BULUT",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.12": {
+    "code": "SFL 21A.12",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "AYSU BEGÜM KARAGÖL ÖZKUL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.13": {
+    "code": "SFL 21A.13",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ÖZGE DİŞLİ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.14": {
+    "code": "SFL 21A.14",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEHER DEMİR AYTAŞKIN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.15": {
+    "code": "SFL 21A.15",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "İNAYET DENİZ ÖZGÖRGÜLÜ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.16": {
+    "code": "SFL 21A.16",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "SEMİH TÜRKOĞLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21A.17": {
+    "code": "SFL 21A.17",
+    "name": "PROGRAM 2 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "TUBA YILMAZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.01": {
+    "code": "SFL 21B.01",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MUSTAFA GÖNENÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.02": {
+    "code": "SFL 21B.02",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MUSTAFA GÖNENÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.03": {
+    "code": "SFL 21B.03",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "BEGÜM ECE YILDIZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.04": {
+    "code": "SFL 21B.04",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "BEGÜM ECE YILDIZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.05": {
+    "code": "SFL 21B.05",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FUAT ÖZKUL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.06": {
+    "code": "SFL 21B.06",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FUAT ÖZKUL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.07": {
+    "code": "SFL 21B.07",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "DUYGU ŞİMŞEK ÖZDİNÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.08": {
+    "code": "SFL 21B.08",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "GÜLAY TAŞSEVEN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.09": {
+    "code": "SFL 21B.09",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "GÜLAY TAŞSEVEN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.10": {
+    "code": "SFL 21B.10",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "GÜLAY TAŞSEVEN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.11": {
+    "code": "SFL 21B.11",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ROGER ERIC HEWITT",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.12": {
+    "code": "SFL 21B.12",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ROGER ERIC HEWITT",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.13": {
+    "code": "SFL 21B.13",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FİLİZ TÜRKMEN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.14": {
+    "code": "SFL 21B.14",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FİLİZ TÜRKMEN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.15": {
+    "code": "SFL 21B.15",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ELIZABETH K. RITCHIE",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.16": {
+    "code": "SFL 21B.16",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ELIZABETH K. RITCHIE",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL21B.17": {
+    "code": "SFL 21B.17",
+    "name": "PROGRAM 2 FALL B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FATMA KÜÇÜK ÜÇPINAR",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.01": {
+    "code": "SFL 31A.01",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "MASOOD AZİMİ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.02": {
+    "code": "SFL 31A.02",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EMEK AYŞE YILDIZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.03": {
+    "code": "SFL 31A.03",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "I. ÇİÇEK GEZEK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.04": {
+    "code": "SFL 31A.04",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "BERAT BAŞER",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.05": {
+    "code": "SFL 31A.05",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "YELİZ AYAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.06": {
+    "code": "SFL 31A.06",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "HÜLYA ERSOY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.07": {
+    "code": "SFL 31A.07",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "NİL KURTULAN DEMİREL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.08": {
+    "code": "SFL 31A.08",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ZEYNEP ABANOZ ÇELİK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.09": {
+    "code": "SFL 31A.09",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EMEL TOZLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.10": {
+    "code": "SFL 31A.10",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FATMA BAYRAM",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.11": {
+    "code": "SFL 31A.11",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "ÖZGE YAĞIŞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.12": {
+    "code": "SFL 31A.12",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "PAUL WARREN WAITE JR",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.13": {
+    "code": "SFL 31A.13",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "FEYZA ÇELİKTAŞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.14": {
+    "code": "SFL 31A.14",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ANELIA MIRZAMOVA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.15": {
+    "code": "SFL 31A.15",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "BAHAREH MALMİR",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.16": {
+    "code": "SFL 31A.16",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "AYŞEGÜL KORKMAZ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31A.17": {
+    "code": "SFL 31A.17",
+    "name": "PROGRAM 3 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "YASEMİN PAÇALIOĞLU",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.01": {
+    "code": "SFL 31B.01",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "EBRU BANK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.02": {
+    "code": "SFL 31B.02",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ÜLFET ÖĞÜT",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.03": {
+    "code": "SFL 31B.03",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ÜLFET ÖĞÜT",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.04": {
+    "code": "SFL 31B.04",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "NESRİN KUTLAY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.05": {
+    "code": "SFL 31B.05",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "NESRİN KUTLAY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.06": {
+    "code": "SFL 31B.06",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "EBRU BANK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.07": {
+    "code": "SFL 31B.07",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "EMRE KUTLAY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.09": {
+    "code": "SFL 31B.09",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "SAMİ BATOK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.10": {
+    "code": "SFL 31B.10",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "SAMİ BATOK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.11": {
+    "code": "SFL 31B.11",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "SAMİ BATOK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.12": {
+    "code": "SFL 31B.12",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "FETİYE ERBİL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.13": {
+    "code": "SFL 31B.13",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "FETİYE ERBİL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.14": {
+    "code": "SFL 31B.14",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "FETİYE ERBİL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.15": {
+    "code": "SFL 31B.15",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "MUSTAFA ERTÜRK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.16": {
+    "code": "SFL 31B.16",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "MUSTAFA ERTÜRK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.17": {
+    "code": "SFL 31B.17",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "MUSTAFA ERTÜRK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL32B.08": {
+    "code": "SFL 32B.08",
+    "name": "PROGRAM 3 SPRING B",
+    "credits": 0,
+    "ects": 0,
+    "instructor": "EMRE KUTLAY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.01": {
+    "code": "SFL 41A.01",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "GÜLÜZAR ÖZTÜRK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.02": {
+    "code": "SFL 41A.02",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "GÜLÜZAR ÖZTÜRK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.03": {
+    "code": "SFL 41A.03",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "NESRİN ATAK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.04": {
+    "code": "SFL 41A.04",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "NESRİN ATAK",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.05": {
+    "code": "SFL 41A.05",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ÖZLEM TUNA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.06": {
+    "code": "SFL 41A.06",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ÖZLEM TUNA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.07": {
+    "code": "SFL 41A.07",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ASLI SÜREYYA SAYMAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.08": {
+    "code": "SFL 41A.08",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "ASLI SÜREYYA SAYMAN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.09": {
+    "code": "SFL 41A.09",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "SAMUEL JAMES WILLS",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.10": {
+    "code": "SFL 41A.10",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "SAMUEL JAMES WILLS",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.11": {
+    "code": "SFL 41A.11",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "BİNNAZ POŞUL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.12": {
+    "code": "SFL 41A.12",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "BİNNAZ POŞUL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL41A.13": {
+    "code": "SFL 41A.13",
+    "name": "PROGRAM 4 FALL A",
+    "credits": 0,
+    "ects": 6,
+    "instructor": "BÜŞRA OKUMUŞ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "SFLRL1.01": {
     "code": "SFLRL 1.01",
     "name": "REMEDIAL LISTENING",
@@ -57254,7 +58574,7 @@
     "rooms": [
       "TB 490",
       "TB 490",
-      "NB B10"
+      "İB 312"
     ],
     "semester": "2026/2027-1"
   },
@@ -62016,8 +63336,8 @@
       8
     ],
     "rooms": [
-      "NH 402",
-      "NH 402",
+      "NH 202",
+      "NH 202",
       "NH 202"
     ],
     "semester": "2026/2027-1"
