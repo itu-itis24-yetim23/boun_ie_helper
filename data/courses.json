@@ -5752,7 +5752,7 @@
     "rooms": [
       "KB 125",
       "KB 125",
-      "NH 103"
+      "NH 105"
     ],
     "semester": "2026/2027-1"
   },
@@ -10369,7 +10369,7 @@
     "name": "LAB",
     "credits": null,
     "ects": null,
-    "instructor": "EMRE UĞUR",
+    "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
     "sessionType": "lab",
     "days": [
       "F",
@@ -10390,7 +10390,7 @@
     "name": "LAB",
     "credits": null,
     "ects": null,
-    "instructor": "EMRE UĞUR",
+    "instructor": "ARZUCAN ÖZGÜR TÜRKMEN",
     "sessionType": "lab",
     "days": [
       "F",
@@ -10429,7 +10429,7 @@
     "name": "LAB",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "lab",
     "days": [
       "T",
@@ -10453,7 +10453,7 @@
     "name": "P.S.",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "ps",
     "days": [
       "M"
@@ -10489,7 +10489,7 @@
     "name": "LAB",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "lab",
     "days": [
       "W",
@@ -10513,7 +10513,7 @@
     "name": "P.S.",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "ps",
     "days": [
       "M"
@@ -10531,7 +10531,7 @@
     "name": "LAB",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "lab",
     "days": [
       "F",
@@ -10555,7 +10555,7 @@
     "name": "LAB",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "lab",
     "days": [
       "F",
@@ -13735,8 +13735,8 @@
       8
     ],
     "rooms": [
-      "M 1211",
-      "M 1211",
+      "HH 301",
+      "HH 301",
       "VB 100",
       "VB 100"
     ],
@@ -13756,7 +13756,7 @@
       5
     ],
     "rooms": [
-      "M 1211"
+      "HH 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -13882,7 +13882,7 @@
       4
     ],
     "rooms": [
-      "M 1211"
+      "VB 200"
     ],
     "semester": "2026/2027-1"
   },
@@ -13904,9 +13904,9 @@
       9
     ],
     "rooms": [
-      "M 1211",
-      "M 1211",
-      "M 1211"
+      "VB 200",
+      "VB 200",
+      "VB 200"
     ],
     "semester": "2026/2027-1"
   },
@@ -14629,7 +14629,7 @@
       5
     ],
     "rooms": [
-      "M 1211"
+      "VB 200"
     ],
     "semester": "2026/2027-1"
   },
@@ -15850,7 +15850,7 @@
     "rooms": [
       "NH 302",
       "NH 302",
-      "M 2152"
+      "M 2230"
     ],
     "semester": "2026/2027-1"
   },
@@ -16383,8 +16383,8 @@
     "rooms": [
       "NH 302",
       "NH 302",
-      "HH Z07",
-      "HH Z07"
+      "M 2230",
+      "M 2230"
     ],
     "semester": "2026/2027-1"
   },
@@ -17065,7 +17065,7 @@
     "name": "STATISTICS",
     "credits": 4,
     "ects": 8,
-    "instructor": "SÜMEYYE ÖZKAYA",
+    "instructor": "BURAK AYDIN",
     "sessionType": "lecture",
     "days": [
       "T",
@@ -17775,9 +17775,15 @@
     "ects": 30,
     "instructor": "GÜNİZİ KARTAL",
     "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "Th"
+    ],
+    "hours": [
+      5
+    ],
+    "rooms": [
+      ""
+    ],
     "semester": "2026/2027-1"
   },
   "CET690.04": {
@@ -23009,9 +23015,9 @@
       13
     ],
     "rooms": [
-      "VYKM4",
-      "VYKM4",
-      "VYKM4"
+      "İB 201",
+      "İB 201",
+      "İB 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -24700,7 +24706,7 @@
     "rooms": [
       "NH 404",
       "NH 404",
-      "EF 106"
+      "NH 404"
     ],
     "semester": "2026/2027-1"
   },
@@ -30339,8 +30345,8 @@
     "rooms": [
       "EF 101",
       "ALH",
-      "NH 404",
-      "NH 404"
+      "HH 301",
+      "HH 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -30366,8 +30372,8 @@
     "rooms": [
       "EF 101",
       "ALH",
-      "NH 404",
-      "NH 404"
+      "HH 301",
+      "HH 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -30394,7 +30400,7 @@
       "EF 101",
       "EF 101",
       "ALH",
-      "NH 404"
+      "HH 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -30964,7 +30970,7 @@
     "rooms": [
       "VYKM6",
       "VYKM6",
-      "M 2230"
+      "M 2152"
     ],
     "semester": "2026/2027-1"
   },
@@ -33887,9 +33893,9 @@
       7
     ],
     "rooms": [
-      "EF 111",
-      "EF 111",
-      "EF 111"
+      "ET B715-1",
+      "ET B715-1",
+      "ET B715-1"
     ],
     "semester": "2026/2027-1"
   },
@@ -34444,8 +34450,8 @@
       5
     ],
     "rooms": [
-      "ET 01",
-      "ET 01",
+      "M 1200",
+      "M 1200",
       "HH Z08",
       "HH Z08"
     ],
@@ -36035,7 +36041,7 @@
       4
     ],
     "rooms": [
-      "M 2230",
+      "HH 207",
       "M 2170",
       "M 2170"
     ],
@@ -42046,8 +42052,8 @@
     "rooms": [
       "EF 204",
       "EF 204",
-      "EF 101",
-      "EF 101"
+      "EF 04",
+      "EF 04"
     ],
     "semester": "2026/2027-1"
   },
@@ -45381,8 +45387,8 @@
       6
     ],
     "rooms": [
-      "KP 03",
-      "KP 03",
+      "KP 02",
+      "KP 02",
       "KP 06"
     ],
     "semester": "2026/2027-1"
@@ -51887,10 +51893,10 @@
       8
     ],
     "rooms": [
-      "NB B10",
-      "NB B10",
-      "NB B10",
-      "NB B10"
+      "LAB",
+      "LAB",
+      "LAB",
+      "LAB"
     ],
     "semester": "2026/2027-1"
   },
@@ -52146,6 +52152,18 @@
     "credits": 4,
     "ects": 8,
     "instructor": "NUR SOYLU YALÇINKAYA",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "PSY504.04": {
+    "code": "PSY 504.04",
+    "name": "RESEARCH PROJECT IN PSYCHOLOGY I",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "İNCİ AYHAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -53439,9 +53457,9 @@
       4
     ],
     "rooms": [
-      "M 2231",
-      "M 2231",
-      "M 2231",
+      "HH 218",
+      "HH 218",
+      "HH 218",
       "HH 218",
       "HH 218",
       "HH 218"
@@ -54791,8 +54809,8 @@
     "rooms": [
       "HH 203",
       "HH 203",
-      "EF 04",
-      "EF 04",
+      "HH 301",
+      "HH 301",
       "JF 102",
       "JF 102"
     ],
@@ -54890,8 +54908,8 @@
     "rooms": [
       "HH 203",
       "HH 203",
-      "EF 04",
-      "EF 04",
+      "HH 301",
+      "HH 301",
       "JF 102",
       "JF 102"
     ],
@@ -55145,8 +55163,8 @@
     "rooms": [
       "TB 415",
       "TB 415",
-      "EF 04",
-      "EF 04",
+      "HH 301",
+      "HH 301",
       "EF 101",
       "EF 101"
     ],
@@ -55277,8 +55295,8 @@
     "rooms": [
       "TB 415",
       "TB 415",
-      "EF 04",
-      "EF 04",
+      "HH 301",
+      "HH 301",
       "EF 101",
       "EF 101"
     ],
@@ -56102,8 +56120,8 @@
     "rooms": [
       "KB SHANNON-232",
       "KB SHANNON-232",
-      "HH 218",
-      "HH 218",
+      "EF 203",
+      "EF 203",
       "TB 230",
       "TB 230"
     ],
@@ -56935,7 +56953,7 @@
     "code": "SFL 21A.13",
     "name": "PROGRAM 2 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ÖZGE DİŞLİ",
     "sessionType": "lecture",
     "days": [],
@@ -57080,7 +57098,7 @@
     "name": "PROGRAM 2 FALL B",
     "credits": 0,
     "ects": 0,
-    "instructor": "GÜLAY TAŞSEVEN",
+    "instructor": "DUYGU ŞİMŞEK ÖZDİNÇ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -57355,7 +57373,7 @@
     "code": "SFL 31A.14",
     "name": "PROGRAM 3 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ANELIA MIRZAMOVA",
     "sessionType": "lecture",
     "days": [],
@@ -57367,7 +57385,7 @@
     "code": "SFL 31A.15",
     "name": "PROGRAM 3 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "BAHAREH MALMİR",
     "sessionType": "lecture",
     "days": [],
@@ -57379,7 +57397,7 @@
     "code": "SFL 31A.16",
     "name": "PROGRAM 3 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "AYŞEGÜL KORKMAZ",
     "sessionType": "lecture",
     "days": [],
@@ -57391,7 +57409,7 @@
     "code": "SFL 31A.17",
     "name": "PROGRAM 3 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "YASEMİN PAÇALIOĞLU",
     "sessionType": "lecture",
     "days": [],
@@ -57403,7 +57421,7 @@
     "code": "SFL 31B.01",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "EBRU BANK",
     "sessionType": "lecture",
     "days": [],
@@ -57415,7 +57433,7 @@
     "code": "SFL 31B.02",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ÜLFET ÖĞÜT",
     "sessionType": "lecture",
     "days": [],
@@ -57427,7 +57445,7 @@
     "code": "SFL 31B.03",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ÜLFET ÖĞÜT",
     "sessionType": "lecture",
     "days": [],
@@ -57439,7 +57457,7 @@
     "code": "SFL 31B.04",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "NESRİN KUTLAY",
     "sessionType": "lecture",
     "days": [],
@@ -57451,7 +57469,7 @@
     "code": "SFL 31B.05",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "NESRİN KUTLAY",
     "sessionType": "lecture",
     "days": [],
@@ -57463,7 +57481,7 @@
     "code": "SFL 31B.06",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "EBRU BANK",
     "sessionType": "lecture",
     "days": [],
@@ -57475,7 +57493,19 @@
     "code": "SFL 31B.07",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
+    "instructor": "EMRE KUTLAY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SFL31B.08": {
+    "code": "SFL 31B.08",
+    "name": "PROGRAM 3 FALL B",
+    "credits": 0,
+    "ects": 0,
     "instructor": "EMRE KUTLAY",
     "sessionType": "lecture",
     "days": [],
@@ -57487,7 +57517,7 @@
     "code": "SFL 31B.09",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "SAMİ BATOK",
     "sessionType": "lecture",
     "days": [],
@@ -57499,7 +57529,7 @@
     "code": "SFL 31B.10",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "SAMİ BATOK",
     "sessionType": "lecture",
     "days": [],
@@ -57511,7 +57541,7 @@
     "code": "SFL 31B.11",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "SAMİ BATOK",
     "sessionType": "lecture",
     "days": [],
@@ -57523,7 +57553,7 @@
     "code": "SFL 31B.12",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "FETİYE ERBİL",
     "sessionType": "lecture",
     "days": [],
@@ -57535,7 +57565,7 @@
     "code": "SFL 31B.13",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "FETİYE ERBİL",
     "sessionType": "lecture",
     "days": [],
@@ -57547,7 +57577,7 @@
     "code": "SFL 31B.14",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "FETİYE ERBİL",
     "sessionType": "lecture",
     "days": [],
@@ -57559,7 +57589,7 @@
     "code": "SFL 31B.15",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "MUSTAFA ERTÜRK",
     "sessionType": "lecture",
     "days": [],
@@ -57571,7 +57601,7 @@
     "code": "SFL 31B.16",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "MUSTAFA ERTÜRK",
     "sessionType": "lecture",
     "days": [],
@@ -57583,20 +57613,8 @@
     "code": "SFL 31B.17",
     "name": "PROGRAM 3 FALL B",
     "credits": 0,
-    "ects": 6,
-    "instructor": "MUSTAFA ERTÜRK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SFL32B.08": {
-    "code": "SFL 32B.08",
-    "name": "PROGRAM 3 SPRING B",
-    "credits": 0,
     "ects": 0,
-    "instructor": "EMRE KUTLAY",
+    "instructor": "MUSTAFA ERTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -57607,7 +57625,7 @@
     "code": "SFL 41A.01",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "GÜLÜZAR ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
@@ -57619,7 +57637,7 @@
     "code": "SFL 41A.02",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "GÜLÜZAR ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
@@ -57631,7 +57649,7 @@
     "code": "SFL 41A.03",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "NESRİN ATAK",
     "sessionType": "lecture",
     "days": [],
@@ -57643,7 +57661,7 @@
     "code": "SFL 41A.04",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "NESRİN ATAK",
     "sessionType": "lecture",
     "days": [],
@@ -57655,7 +57673,7 @@
     "code": "SFL 41A.05",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ÖZLEM TUNA",
     "sessionType": "lecture",
     "days": [],
@@ -57667,7 +57685,7 @@
     "code": "SFL 41A.06",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ÖZLEM TUNA",
     "sessionType": "lecture",
     "days": [],
@@ -57679,7 +57697,7 @@
     "code": "SFL 41A.07",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ASLI SÜREYYA SAYMAN",
     "sessionType": "lecture",
     "days": [],
@@ -57691,7 +57709,7 @@
     "code": "SFL 41A.08",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "ASLI SÜREYYA SAYMAN",
     "sessionType": "lecture",
     "days": [],
@@ -57703,7 +57721,7 @@
     "code": "SFL 41A.09",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "SAMUEL JAMES WILLS",
     "sessionType": "lecture",
     "days": [],
@@ -57715,7 +57733,7 @@
     "code": "SFL 41A.10",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "SAMUEL JAMES WILLS",
     "sessionType": "lecture",
     "days": [],
@@ -57727,7 +57745,7 @@
     "code": "SFL 41A.11",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "BİNNAZ POŞUL",
     "sessionType": "lecture",
     "days": [],
@@ -57739,7 +57757,7 @@
     "code": "SFL 41A.12",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "BİNNAZ POŞUL",
     "sessionType": "lecture",
     "days": [],
@@ -57751,7 +57769,7 @@
     "code": "SFL 41A.13",
     "name": "PROGRAM 4 FALL A",
     "credits": 0,
-    "ects": 6,
+    "ects": 0,
     "instructor": "BÜŞRA OKUMUŞ",
     "sessionType": "lecture",
     "days": [],
@@ -60387,8 +60405,8 @@
       7
     ],
     "rooms": [
-      "EF 06",
-      "EF 06",
+      "HH 207",
+      "HH 207",
       "NH 101"
     ],
     "semester": "2026/2027-1"
@@ -61033,8 +61051,8 @@
     ],
     "rooms": [
       "NH 403",
-      "VB 200",
-      "VB 200"
+      "HH 213",
+      "HH 213"
     ],
     "semester": "2026/2027-1"
   },
@@ -61057,8 +61075,8 @@
     ],
     "rooms": [
       "NH 403",
-      "VB 200",
-      "VB 200"
+      "HH 213",
+      "HH 213"
     ],
     "semester": "2026/2027-1"
   },
@@ -64358,10 +64376,10 @@
       4
     ],
     "rooms": [
-      "ET 01",
-      "ET 01",
-      "ET 01",
-      "ET 01"
+      "EF 104",
+      "EF 104",
+      "EF 104",
+      "EF 104"
     ],
     "semester": "2026/2027-1"
   },
