@@ -2653,7 +2653,7 @@
     "name": "GUIDED RESEARCH",
     "credits": 4,
     "ects": 12,
-    "instructor": "RANA NOMAK SANYAL",
+    "instructor": "AMITAV SANYAL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -25083,8 +25083,8 @@
       8
     ],
     "rooms": [
-      "EF 02",
-      "EF 02"
+      "EF 103",
+      "EF 103"
     ],
     "semester": "2026/2027-1"
   },
@@ -50703,9 +50703,9 @@
       6
     ],
     "rooms": [
-      "İB 201",
-      "İB 301",
-      "İB 301"
+      "M 2170",
+      "HH 213",
+      "HH 213"
     ],
     "semester": "2026/2027-1"
   },
@@ -55709,8 +55709,8 @@
       8
     ],
     "rooms": [
-      "KP 05",
-      "KP 05",
+      "KP 03",
+      "KP 03",
       "KP 05",
       "KP 05"
     ],
@@ -55736,8 +55736,8 @@
       6
     ],
     "rooms": [
-      "KP 05",
-      "KP 05",
+      "KP 03",
+      "KP 03",
       "KP 05",
       "KP 05"
     ],
@@ -55763,8 +55763,8 @@
       10
     ],
     "rooms": [
-      "KP 05",
-      "KP 05",
+      "KP 03",
+      "KP 03",
       "KP 05",
       "KP 05"
     ],
@@ -56213,8 +56213,8 @@
       8
     ],
     "rooms": [
-      "HH Z17",
-      "HH Z17",
+      "EF 03",
+      "EF 03",
       "EF 101",
       "EF 101"
     ],
@@ -61050,9 +61050,9 @@
       4
     ],
     "rooms": [
-      "NH 403",
-      "HH 213",
-      "HH 213"
+      "JF 412",
+      "JF 412",
+      "JF 412"
     ],
     "semester": "2026/2027-1"
   },
@@ -61074,9 +61074,9 @@
       6
     ],
     "rooms": [
-      "NH 403",
-      "HH 213",
-      "HH 213"
+      "JF 412",
+      "JF 412",
+      "JF 412"
     ],
     "semester": "2026/2027-1"
   },
@@ -63167,7 +63167,7 @@
     "name": "OTTOMAN TURKISH I",
     "credits": 4,
     "ects": 6,
-    "instructor": "SİBEL KOCAER",
+    "instructor": "FATMA BÜYÜKKARCI YILMAZ",
     "sessionType": "lecture",
     "days": [
       "M",
