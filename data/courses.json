@@ -5355,17 +5355,17 @@
     "days": [
       "W",
       "W",
-      "Th"
+      "W"
     ],
     "hours": [
       6,
       7,
-      3
+      8
     ],
     "rooms": [
       "KB 125",
       "KB 125",
-      "nh 403"
+      "KB 125"
     ],
     "semester": "2026/2027-1"
   },
@@ -5959,7 +5959,7 @@
       8
     ],
     "rooms": [
-      "KB 125"
+      "KB 126"
     ],
     "semester": "2026/2027-1"
   },
@@ -6282,8 +6282,8 @@
     "rooms": [
       "NH 402",
       "NH 402",
-      "KB 125",
-      "KB 125"
+      "NH 203",
+      "NH 203"
     ],
     "semester": "2026/2027-1"
   },
@@ -10087,8 +10087,8 @@
       "F"
     ],
     "hours": [
-      6,
-      7,
+      1,
+      2,
       8,
       9
     ],
@@ -10709,7 +10709,7 @@
       6
     ],
     "rooms": [
-      "NH 001",
+      "NH 405",
       "NH 401",
       "NH 401"
     ],
@@ -15590,9 +15590,9 @@
       6
     ],
     "rooms": [
-      "NH 405",
-      "NH 405",
-      "NH 405"
+      "NH 302",
+      "NH 001",
+      "NH 001"
     ],
     "semester": "2026/2027-1"
   },
@@ -22792,19 +22792,19 @@
     "instructor": "ZAFER TOPALOĞLU",
     "sessionType": "lecture",
     "days": [
-      "T",
-      "T",
-      "T"
+      "M",
+      "M",
+      "M"
     ],
     "hours": [
-      6,
-      7,
-      8
+      1,
+      2,
+      3
     ],
     "rooms": [
-      "HH 120",
-      "HH 120",
-      "HH 120"
+      "HH Z04",
+      "HH Z04",
+      "HH Z04"
     ],
     "semester": "2026/2027-1"
   },
@@ -28269,7 +28269,7 @@
     "rooms": [
       "ALH",
       "ALH",
-      "HH 207",
+      "HH Z12",
       "ALH"
     ],
     "semester": "2026/2027-1"
@@ -32099,9 +32099,9 @@
       4
     ],
     "rooms": [
-      "HH Z06-SEM1",
-      "HH Z06-SEM1",
-      "HH Z06-SEM1"
+      "HH 207",
+      "HH 207",
+      "HH 207"
     ],
     "semester": "2026/2027-1"
   },
@@ -32757,6 +32757,54 @@
     "days": [],
     "hours": [],
     "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.10": {
+    "code": "LAW 101.10",
+    "name": "INTRODUCTION TO LAW",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "MUSTAFA AKGÜN",
+    "sessionType": "lecture",
+    "days": [
+      "M",
+      "W",
+      "W"
+    ],
+    "hours": [
+      2,
+      2,
+      3
+    ],
+    "rooms": [
+      "EF 216",
+      "EF 302",
+      "EF 302"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.11": {
+    "code": "LAW 101.11",
+    "name": "INTRODUCTION TO LAW",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "TÜRKAN GÜLCE BUDAK",
+    "sessionType": "lecture",
+    "days": [
+      "T",
+      "T",
+      "Th"
+    ],
+    "hours": [
+      4,
+      5,
+      5
+    ],
+    "rooms": [
+      "NH 404",
+      "NH 404",
+      "NH 002"
+    ],
     "semester": "2026/2027-1"
   },
   "LAW103.01": {
@@ -33869,6 +33917,42 @@
     "credits": null,
     "ects": null,
     "instructor": "MEHMET ARTEMEL",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "LAW483.01": {
+    "code": "LAW 483.01",
+    "name": "SPECIAL TOPICS PALESTINE,INTERNATIONAL LAW AND WORLD ORDER",
+    "credits": 3,
+    "ects": 5,
+    "instructor": "STAFF STAFF",
+    "sessionType": "lecture",
+    "days": [
+      "Th",
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      6,
+      7,
+      8
+    ],
+    "rooms": [
+      "NH 302",
+      "NH 302",
+      "NH 302"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "LAW483.01 P.S. 1": {
+    "code": "LAW 483.01",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "STAFF STAFF",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -36041,7 +36125,7 @@
       4
     ],
     "rooms": [
-      "HH 207",
+      "NH 404",
       "M 2170",
       "M 2170"
     ],
@@ -40832,16 +40916,19 @@
     "instructor": "KAZIM İLHAN İKEDA",
     "sessionType": "lecture",
     "days": [
-      "M",
-      "M",
-      "W"
+      "T",
+      "T",
+      "Th",
+      "Th"
     ],
     "hours": [
-      1,
-      2,
-      2
+      6,
+      7,
+      5,
+      6
     ],
     "rooms": [
+      "",
       "",
       "",
       ""
@@ -45807,30 +45894,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BIO58K.01": {
-    "code": "BIO 58K.01",
-    "name": "SPECIAL TOPICS:TRANSLATIONAL PROTEOMICS AND AL-DRIVEN DRUG DISCOVERY",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "STAFF STAFF",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "W"
-    ],
-    "hours": [
-      2,
-      3,
-      2
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "BIO601.01": {
     "code": "BIO 601.01",
     "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
@@ -46137,18 +46200,6 @@
     "credits": 0,
     "ects": 60,
     "instructor": "İBRAHİM YAMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO691.08": {
-    "code": "BIO 691.08",
-    "name": "ADV.TP.PROTEIN BIOCHEMISTRY",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "N.C.TOLGA EMRE",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -46932,18 +46983,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PHIL590.04": {
-    "code": "PHIL 590.04",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "KENAN TEKİN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHIL590.05": {
     "code": "PHIL 590.05",
     "name": "DIRECTED STUDY",
@@ -47088,18 +47127,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PHIL690.04": {
-    "code": "PHIL 690.04",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "KENAN TEKİN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHIL690.05": {
     "code": "PHIL 690.05",
     "name": "MASTER THESIS",
@@ -47238,18 +47265,6 @@
     "credits": 0,
     "ects": 120,
     "instructor": "BERNA KILINÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL790.04": {
-    "code": "PHIL 790.04",
-    "name": "DOCTORAL DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "KENAN TEKİN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -50704,8 +50719,8 @@
     ],
     "rooms": [
       "M 2170",
-      "HH 213",
-      "HH 213"
+      "HH 317",
+      "HH 317"
     ],
     "semester": "2026/2027-1"
   },
@@ -55118,7 +55133,7 @@
     "name": "ELEMENTARY HEBREW I",
     "credits": 3,
     "ects": 5,
-    "instructor": "FATİH ŞEMSETTİN IŞIK",
+    "instructor": "MUHAMMET TARIK ÖZKAN",
     "sessionType": "lecture",
     "days": [
       "F",
@@ -60405,8 +60420,8 @@
       7
     ],
     "rooms": [
-      "HH 207",
-      "HH 207",
+      "NH 404",
+      "NH 404",
       "NH 101"
     ],
     "semester": "2026/2027-1"
@@ -60770,30 +60785,6 @@
     "instructor": "NEDİME MERCANGÖZ",
     "sessionType": "lecture",
     "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      5,
-      6,
-      7
-    ],
-    "rooms": [
-      "JF 401",
-      "JF 401",
-      "JF 401"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "INT417.01": {
-    "code": "INT 417.01",
-    "name": "CONSECUTIVE INTERPRETING",
-    "credits": 3,
-    "ects": 4,
-    "instructor": "SEHA KARADENİZ",
-    "sessionType": "lecture",
-    "days": [
       "M",
       "M",
       "M"
@@ -60807,6 +60798,30 @@
       "JF 102",
       "JF 102",
       "JF 102"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "INT417.01": {
+    "code": "INT 417.01",
+    "name": "CONSECUTIVE INTERPRETING",
+    "credits": 3,
+    "ects": 4,
+    "instructor": "SEHA KARADENİZ",
+    "sessionType": "lecture",
+    "days": [
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      5,
+      6,
+      7
+    ],
+    "rooms": [
+      "JF 401",
+      "JF 401",
+      "JF 401"
     ],
     "semester": "2026/2027-1"
   },
@@ -61016,9 +61031,9 @@
     "instructor": "HÜSEYİN MERGAN",
     "sessionType": "lecture",
     "days": [
-      "T",
-      "T",
-      "T"
+      "W",
+      "W",
+      "W"
     ],
     "hours": [
       9,
@@ -61026,9 +61041,9 @@
       11
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "JF 412",
+      "JF 412",
+      "JF 412"
     ],
     "semester": "2026/2027-1"
   },
@@ -61387,17 +61402,17 @@
     "days": [
       "T",
       "T",
-      "W"
+      "T"
     ],
     "hours": [
       7,
       8,
-      5
+      9
     ],
     "rooms": [
       "TB 225",
       "TB 225",
-      "TB 415"
+      "TB 225"
     ],
     "semester": "2026/2027-1"
   },
@@ -61517,7 +61532,7 @@
     "rooms": [
       "TB 260A",
       "TB 260A",
-      "TB 155"
+      "TB 415"
     ],
     "semester": "2026/2027-1"
   },
@@ -62174,16 +62189,16 @@
     "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
-      "W",
-      "W"
+      "M",
+      "M"
     ],
     "hours": [
-      1,
-      2
+      3,
+      4
     ],
     "rooms": [
-      "KP 06",
-      "KP 06"
+      "KP 03",
+      "KP 03"
     ],
     "semester": "2026/2027-1"
   },
@@ -62573,16 +62588,16 @@
     "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
-      "Th",
-      "Th"
+      "M",
+      "M"
     ],
     "hours": [
-      1,
-      2
+      5,
+      6
     ],
     "rooms": [
-      "KP 02",
-      "KP 02"
+      "KP 07",
+      "KP 07"
     ],
     "semester": "2026/2027-1"
   },
@@ -62594,16 +62609,16 @@
     "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
-      "Th",
-      "Th"
+      "T",
+      "T"
     ],
     "hours": [
       3,
       4
     ],
     "rooms": [
-      "KP 02",
-      "KP 02"
+      "EF 04",
+      "EF 04"
     ],
     "semester": "2026/2027-1"
   },
@@ -62804,16 +62819,16 @@
     "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
-      "F",
-      "F"
+      "T",
+      "T"
     ],
     "hours": [
-      1,
-      2
+      5,
+      6
     ],
     "rooms": [
-      "KP 07",
-      "KP 07"
+      "EF 04",
+      "EF 04"
     ],
     "semester": "2026/2027-1"
   },
@@ -62825,16 +62840,16 @@
     "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
-      "F",
-      "F"
+      "W",
+      "W"
     ],
     "hours": [
-      3,
-      4
+      5,
+      6
     ],
     "rooms": [
-      "KP 07",
-      "KP 07"
+      "EF 02",
+      "EF 02"
     ],
     "semester": "2026/2027-1"
   },
