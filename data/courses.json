@@ -7319,6 +7319,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "CHEM699.02": {
+    "code": "CHEM 699.02",
+    "name": "GUIDED RESEARCH",
+    "credits": 4,
+    "ects": 8,
+    "instructor": "RANA NOMAK SANYAL",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "CHEM700.01": {
     "code": "CHEM 700.01",
     "name": "GRADUATE SEMINAR",
@@ -10928,9 +10940,9 @@
       5
     ],
     "rooms": [
-      "BM B4",
-      "BM B4",
-      "BM B4"
+      "BM A3",
+      "BM A3",
+      "BM A3"
     ],
     "semester": "2026/2027-1"
   },
@@ -13538,6 +13550,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "CCS690.01": {
+    "code": "CCS 690.01",
+    "name": "MA THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "AHMET ERSOY",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "DSAI510.01": {
     "code": "DSAI 510.01",
     "name": "DATA SCIENCE",
@@ -16088,7 +16112,7 @@
       6
     ],
     "rooms": [
-      "HH Z07",
+      "HH 317",
       "HH Z12",
       "HH Z12"
     ],
@@ -22850,9 +22874,9 @@
       8
     ],
     "rooms": [
-      "JF 108",
-      "JF 108",
-      "JF 108"
+      "VB 200",
+      "VB 200",
+      "VB 200"
     ],
     "semester": "2026/2027-1"
   },
@@ -26197,9 +26221,9 @@
     "instructor": "SEMİH ERGİNTAV",
     "sessionType": "lecture",
     "days": [
-      "Th",
-      "Th",
-      "Th"
+      "W",
+      "W",
+      "W"
     ],
     "hours": [
       6,
@@ -26320,7 +26344,7 @@
       "Th"
     ],
     "hours": [
-      1
+      8
     ],
     "rooms": [
       ""
@@ -26340,9 +26364,9 @@
       "W"
     ],
     "hours": [
-      6,
-      7,
-      8
+      1,
+      2,
+      3
     ],
     "rooms": [
       "",
@@ -26554,14 +26578,14 @@
     "instructor": "FATİH BULUT",
     "sessionType": "lecture",
     "days": [
-      "W",
-      "W",
-      "W"
+      "Th",
+      "Th",
+      "Th"
     ],
     "hours": [
+      1,
       2,
-      3,
-      4
+      3
     ],
     "rooms": [
       "",
@@ -26578,14 +26602,14 @@
     "instructor": "SEMİH ERGİNTAV",
     "sessionType": "lecture",
     "days": [
-      "W",
-      "W",
-      "W"
+      "M",
+      "M",
+      "M"
     ],
     "hours": [
-      1,
-      2,
-      3
+      6,
+      7,
+      8
     ],
     "rooms": [
       "",
@@ -26602,14 +26626,14 @@
     "instructor": "ONUR YILMAZ",
     "sessionType": "lecture",
     "days": [
-      "T",
-      "T",
-      "T"
+      "F",
+      "F",
+      "F"
     ],
     "hours": [
-      5,
-      6,
-      7
+      2,
+      3,
+      4
     ],
     "rooms": [
       "",
@@ -26626,9 +26650,9 @@
     "instructor": "TÜLAY KAYA EKEN",
     "sessionType": "lecture",
     "days": [
-      "T",
-      "T",
-      "T"
+      "W",
+      "W",
+      "W"
     ],
     "hours": [
       6,
@@ -32946,9 +32970,15 @@
     "ects": null,
     "instructor": "CİHAT BÖRKLÜCE",
     "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "W"
+    ],
+    "hours": [
+      1
+    ],
+    "rooms": [
+      "NH 103"
+    ],
     "semester": "2026/2027-1"
   },
   "LAW203.01": {
@@ -33018,9 +33048,18 @@
     "ects": null,
     "instructor": "BERİL TAŞKIN KAPUSUZOĞLU",
     "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "W",
+      "W"
+    ],
+    "hours": [
+      7,
+      8
+    ],
+    "rooms": [
+      "VB 200",
+      "VB 200"
+    ],
     "semester": "2026/2027-1"
   },
   "LAW207.01": {
@@ -33810,9 +33849,15 @@
     "ects": null,
     "instructor": "SERKAN KAYA",
     "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "Th"
+    ],
+    "hours": [
+      4
+    ],
+    "rooms": [
+      "HH Z17"
+    ],
     "semester": "2026/2027-1"
   },
   "LAW405.01": {
@@ -33928,7 +33973,7 @@
     "name": "SPECIAL TOPICS PALESTINE,INTERNATIONAL LAW AND WORLD ORDER",
     "credits": 3,
     "ects": 5,
-    "instructor": "STAFF STAFF",
+    "instructor": "RICHARD ANDERSON FALK",
     "sessionType": "lecture",
     "days": [
       "Th",
@@ -33952,7 +33997,7 @@
     "name": "P.S.",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "RICHARD ANDERSON FALK",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -34741,7 +34786,7 @@
     "rooms": [
       "TB 260A",
       "TB 260A",
-      "JF 331"
+      "M 2231"
     ],
     "semester": "2026/2027-1"
   },
@@ -36347,9 +36392,9 @@
       4
     ],
     "rooms": [
-      "İB 100",
-      "İB 100",
-      "İB 100"
+      "NH 403",
+      "NH 403",
+      "NH 403"
     ],
     "semester": "2026/2027-1"
   },
@@ -37114,12 +37159,12 @@
     "name": "INTRODUCTION THEORIES OF OPERATIONS MANAGEMENT",
     "credits": 3,
     "ects": 6,
-    "instructor": "ULAŞ AKKÜÇÜK",
+    "instructor": "YASİN GALİP GENÇER",
     "sessionType": "lecture",
     "days": [
-      "M",
-      "M",
-      "M"
+      "F",
+      "F",
+      "F"
     ],
     "hours": [
       6,
@@ -45336,6 +45381,27 @@
     ],
     "semester": "2026/2027-1"
   },
+  "BIO407.08": {
+    "code": "BIO 407.08",
+    "name": "SEMINAR II",
+    "credits": 2,
+    "ects": 3,
+    "instructor": "ARZU ÇELİK",
+    "sessionType": "lecture",
+    "days": [
+      "Th",
+      "Th"
+    ],
+    "hours": [
+      5,
+      6
+    ],
+    "rooms": [
+      "KP 08",
+      "KP 08"
+    ],
+    "semester": "2026/2027-1"
+  },
   "BIO410.01": {
     "code": "BIO 410.01",
     "name": "CANCER BIOLOGY",
@@ -46535,7 +46601,7 @@
     "rooms": [
       "NH 103",
       "NH 103",
-      "M 2152"
+      "M 1170"
     ],
     "semester": "2026/2027-1"
   },
@@ -50718,9 +50784,9 @@
       6
     ],
     "rooms": [
-      "M 2170",
-      "HH 317",
-      "HH 317"
+      "İB 103",
+      "İB 301",
+      "İB 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -51030,9 +51096,9 @@
       6
     ],
     "rooms": [
-      "İB 512",
-      "İB 512",
-      "İB 512"
+      "HH 301",
+      "HH 301",
+      "HH 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -58535,7 +58601,7 @@
     "rooms": [
       "HD 301 (SALON1)",
       "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "NH 105"
     ],
     "semester": "2026/2027-1"
   },
@@ -60069,7 +60135,7 @@
       5
     ],
     "rooms": [
-      "NH 103",
+      "M 1100",
       "NH 102",
       "NH 102"
     ],
@@ -65623,9 +65689,21 @@
     "ects": 6,
     "instructor": "SAMİ BASUT",
     "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
+    "days": [
+      "W",
+      "W",
+      "W"
+    ],
+    "hours": [
+      8,
+      9,
+      10
+    ],
+    "rooms": [
+      "TB 121",
+      "TB 121",
+      "TB 121"
+    ],
     "semester": "2026/2027-1"
   },
   "LIT325.01": {
