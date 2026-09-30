@@ -5977,7 +5977,7 @@
       5
     ],
     "rooms": [
-      "EF 202"
+      "KB 314"
     ],
     "semester": "2026/2027-1"
   },
@@ -5999,9 +5999,9 @@
       8
     ],
     "rooms": [
-      "",
-      "",
-      ""
+      "KB 314",
+      "KB 314",
+      "KB 314"
     ],
     "semester": "2026/2027-1"
   },
@@ -6301,7 +6301,7 @@
       5
     ],
     "rooms": [
-      "EF 205"
+      "NH 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -32740,7 +32740,7 @@
     "name": "P.S.",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "MUSTAFA AKGÜN",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -32776,7 +32776,7 @@
     "name": "P.S.",
     "credits": null,
     "ects": null,
-    "instructor": "STAFF STAFF",
+    "instructor": "HARUN MURATOĞULLARI",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -32807,6 +32807,18 @@
     ],
     "semester": "2026/2027-1"
   },
+  "LAW101.10 P.S. 1": {
+    "code": "LAW 101.10",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "MUSTAFA AKGÜN",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "LAW101.11": {
     "code": "LAW 101.11",
     "name": "INTRODUCTION TO LAW",
@@ -32829,6 +32841,18 @@
       "NH 404",
       "NH 002"
     ],
+    "semester": "2026/2027-1"
+  },
+  "LAW101.11 P.S. 1": {
+    "code": "LAW 101.11",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "TÜRKAN GÜLCE BUDAK",
+    "sessionType": "ps",
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "LAW103.01": {
@@ -34786,7 +34810,7 @@
     "rooms": [
       "TB 260A",
       "TB 260A",
-      "M 2231"
+      "VB 200"
     ],
     "semester": "2026/2027-1"
   },
@@ -41265,9 +41289,9 @@
       8
     ],
     "rooms": [
-      "EF 07",
-      "EF 07",
-      "EF 07"
+      "NH 303",
+      "NH 303",
+      "NH 303"
     ],
     "semester": "2026/2027-1"
   },
@@ -43466,7 +43490,7 @@
     "rooms": [
       "VYKM4",
       "VYKM4",
-      "VYKM6"
+      "VYKM3"
     ],
     "semester": "2026/2027-1"
   },
@@ -56523,8 +56547,8 @@
       7
     ],
     "rooms": [
-      "KP 05",
-      "KP 05",
+      "EF 101",
+      "EF 101",
       "M 1169",
       "M 1169",
       "JF 331",
@@ -56556,8 +56580,8 @@
       9
     ],
     "rooms": [
-      "KP 05",
-      "KP 05",
+      "EF 101",
+      "EF 101",
       "M 1169",
       "M 1169",
       "JF 331",
@@ -58695,8 +58719,8 @@
       2
     ],
     "rooms": [
-      "TB 121",
-      "TB 121",
+      "VYKM3",
+      "VYKM3",
       "HH Z08"
     ],
     "semester": "2026/2027-1"
