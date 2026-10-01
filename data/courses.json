@@ -4974,8 +4974,8 @@
     ],
     "rooms": [
       "NH 401",
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)"
+      "HD 101",
+      "HD 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -20558,9 +20558,9 @@
       2
     ],
     "rooms": [
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)",
-      "HD 101 (SALON3)"
+      "HD 201",
+      "HD 201",
+      "HD 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -20582,9 +20582,9 @@
       5
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
-      "HD 201 (SALON2)"
+      "HD 301",
+      "HD 301",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -20606,9 +20606,9 @@
       4
     ],
     "rooms": [
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)"
+      "HD 201",
+      "HD 201",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -20630,9 +20630,9 @@
       3
     ],
     "rooms": [
-      "HD 101 (SALON3)",
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)"
+      "HD 101",
+      "HD 201",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -20654,9 +20654,9 @@
       4
     ],
     "rooms": [
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)"
+      "HD 201",
+      "HD 201",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -20678,9 +20678,9 @@
       2
     ],
     "rooms": [
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)"
+      "HD 201",
+      "HD 201",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -20704,7 +20704,7 @@
     "rooms": [
       "NH 104",
       "NH 104",
-      "HD 201 (SALON2)"
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -20750,9 +20750,9 @@
       5
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "HD 301",
+      "HD 301",
+      "HD 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -20774,9 +20774,9 @@
       8
     ],
     "rooms": [
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)"
+      "HD 201",
+      "HD 201",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -24022,10 +24022,10 @@
       7
     ],
     "rooms": [
-      "ÖZGER ARNAS",
-      "ÖZGER ARNAS",
-      "ÖZGER ARNAS",
-      "ÖZGER ARNAS"
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK",
+      "AYHAN ŞAHENK"
     ],
     "semester": "2026/2027-1"
   },
@@ -27977,9 +27977,9 @@
       7
     ],
     "rooms": [
-      "EF 05",
-      "EF 05",
-      "EF 05"
+      "EF 302",
+      "EF 302",
+      "EF 302"
     ],
     "semester": "2026/2027-1"
   },
@@ -28805,9 +28805,9 @@
       6
     ],
     "rooms": [
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)"
+      "HD 101",
+      "HD 101",
+      "HD 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -31799,9 +31799,9 @@
       4
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "HD 301",
+      "HD 301",
+      "HD 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -38078,9 +38078,9 @@
       7
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 201 (SALON2)",
-      "HD 201 (SALON2)"
+      "HD 301",
+      "HD 201",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -38400,8 +38400,8 @@
     ],
     "rooms": [
       "NH 103",
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "HD 301",
+      "HD 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -38441,9 +38441,9 @@
       5
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
-      "HD 101 (SALON3)"
+      "HD 301",
+      "HD 301",
+      "HD 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -39791,8 +39791,8 @@
       2
     ],
     "rooms": [
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)",
+      "HD 101",
+      "HD 101",
       "NH 101",
       "NH 101"
     ],
@@ -39818,8 +39818,8 @@
       4
     ],
     "rooms": [
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)",
+      "HD 101",
+      "HD 101",
       "NH 101",
       "NH 101"
     ],
@@ -39926,8 +39926,8 @@
       2
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
+      "HD 301",
+      "HD 301",
       "NH 301",
       "NH 301"
     ],
@@ -40225,8 +40225,8 @@
     "rooms": [
       "NH 105",
       "NH 105",
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "HD 301",
+      "HD 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -40465,8 +40465,8 @@
     "rooms": [
       "NH 105",
       "NH 105",
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "HD 301",
+      "HD 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -41324,7 +41324,7 @@
     "name": "PRINCIPLES AND METHODS OF INSTRUCTION IN MATHEMATICS AND SCIENCE",
     "credits": 3,
     "ects": 8,
-    "instructor": "İBRAHİM DELEN",
+    "instructor": "DEVRİM GÜVEN",
     "sessionType": "lecture",
     "days": [
       "T",
@@ -41338,8 +41338,8 @@
     ],
     "rooms": [
       "EF 216",
-      "EF 102",
-      "EF 102"
+      "EF 304",
+      "EF 304"
     ],
     "semester": "2026/2027-1"
   },
@@ -50199,6 +50199,18 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
+  "PHYS594.01": {
+    "code": "PHYS 594.01",
+    "name": "SP.TOP.IN PHYS MODELLING OF PHYSICAL PH",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "ILMAR GAHRAMANOV",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
   "PHYS631.01": {
     "code": "PHYS 631.01",
     "name": "ATOMIC & MOLECULAR PHYSICS I",
@@ -50241,6 +50253,18 @@
     "credits": 4,
     "ects": 10,
     "instructor": "ARKADAŞ İNAN ÖZAKIN",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "PHYS681.04": {
+    "code": "PHYS 681.04",
+    "name": "DIRECTED STUDIES I",
+    "credits": 4,
+    "ects": 10,
+    "instructor": "ILMAR GAHRAMANOV",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -51547,8 +51571,8 @@
     ],
     "rooms": [
       "NH 105",
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)"
+      "HD 101",
+      "HD 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -51570,9 +51594,9 @@
       5
     ],
     "rooms": [
-      "HD 101 (SALON3)",
-      "HD 101 (SALON3)",
-      "HD 201 (SALON2)"
+      "HD 101",
+      "HD 101",
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -51692,7 +51716,7 @@
     "rooms": [
       "NH 001",
       "NH 001",
-      "HD 201 (SALON2)"
+      "HD 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -51716,7 +51740,7 @@
     "rooms": [
       "NH 105",
       "NH 105",
-      "HD 101 (SALON3)"
+      "HD 101"
     ],
     "semester": "2026/2027-1"
   },
@@ -58623,8 +58647,8 @@
       5
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
+      "HD 301",
+      "HD 301",
       "NH 105"
     ],
     "semester": "2026/2027-1"
@@ -60183,9 +60207,9 @@
       6
     ],
     "rooms": [
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)",
-      "HD 301 (SALON1)"
+      "HD 301",
+      "HD 301",
+      "HD 301"
     ],
     "semester": "2026/2027-1"
   },
@@ -60899,14 +60923,14 @@
     "instructor": "SEHA KARADENİZ",
     "sessionType": "lecture",
     "days": [
-      "W",
-      "W",
-      "W"
+      "F",
+      "F",
+      "F"
     ],
     "hours": [
-      5,
       6,
-      7
+      7,
+      8
     ],
     "rooms": [
       "JF 401",
@@ -61476,6 +61500,18 @@
     "credits": 3,
     "ects": 6,
     "instructor": "JONATHAN MAURICE ROSS",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "TR428.07": {
+    "code": "TR 428.07",
+    "name": "TRANSLATION PROJECT",
+    "credits": 3,
+    "ects": 6,
+    "instructor": "SEMA ÜSTÜN KÜLÜNK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
