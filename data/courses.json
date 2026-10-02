@@ -8486,30 +8486,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "CE554.01": {
-    "code": "CE 554.01",
-    "name": "THEORY&DESIGN FOR MEASUREMENTS IN STRUCTURAL ENGINEERING",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "TURAN ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      1,
-      2,
-      3
-    ],
-    "rooms": [
-      "M 2170",
-      "M 2170",
-      "M 2170"
-    ],
-    "semester": "2026/2027-1"
-  },
   "CE555.01": {
     "code": "CE 555.01",
     "name": "BEHAVIOR&DESIGN OF REINFORCED CONCRETE",
@@ -24632,9 +24608,9 @@
       6
     ],
     "rooms": [
-      "EF 05",
-      "EF 05",
-      "EF 203"
+      "EF 104",
+      "EF 104",
+      "HH Z04"
     ],
     "semester": "2026/2027-1"
   },
@@ -24725,12 +24701,12 @@
     "hours": [
       6,
       7,
-      8
+      6
     ],
     "rooms": [
       "NH 404",
       "NH 404",
-      "NH 404"
+      "NH 403"
     ],
     "semester": "2026/2027-1"
   },
@@ -27638,9 +27614,9 @@
     "rooms": [
       "EF 202",
       "EF 202",
-      "EF 204",
-      "EF 204",
-      "EF 204"
+      "NH 402",
+      "NH 402",
+      "NH 402"
     ],
     "semester": "2026/2027-1"
   },
@@ -32587,7 +32563,7 @@
     "rooms": [
       "NH 102",
       "NH 102",
-      "NH 305"
+      "M 2170"
     ],
     "semester": "2026/2027-1"
   },
@@ -38483,7 +38459,7 @@
       7
     ],
     "rooms": [
-      "İB 103",
+      "HH 317",
       "İB 211",
       "İB 211"
     ],
@@ -40414,8 +40390,8 @@
     "rooms": [
       "TB 121",
       "TB 121",
-      "JF 108",
-      "JF 108"
+      "TB 260A",
+      "."
     ],
     "semester": "2026/2027-1"
   },
@@ -41616,7 +41592,7 @@
       4
     ],
     "rooms": [
-      "EF 104",
+      "EF 102",
       "EF 104",
       "EF 104"
     ],
@@ -42208,8 +42184,8 @@
     "rooms": [
       "EF 204",
       "EF 204",
-      "EF 04",
-      "EF 04"
+      "EF 204",
+      "EF 204"
     ],
     "semester": "2026/2027-1"
   },
@@ -44444,7 +44420,7 @@
       4
     ],
     "rooms": [
-      "VYKM 5"
+      "VYKM5"
     ],
     "semester": "2026/2027-1"
   },
@@ -56022,9 +55998,9 @@
       8
     ],
     "rooms": [
-      "EF 103",
-      "EF 103",
-      "EF 103"
+      "JF 108",
+      "JF 108",
+      "JF 108"
     ],
     "semester": "2026/2027-1"
   },
@@ -56070,9 +56046,9 @@
       11
     ],
     "rooms": [
-      "EF 103",
-      "EF 103",
-      "EF 103"
+      "JF 108",
+      "JF 108",
+      "JF 108"
     ],
     "semester": "2026/2027-1"
   },
@@ -56247,12 +56223,12 @@
       7
     ],
     "rooms": [
-      "KB SHANNON-232",
-      "KB SHANNON-232",
-      "EF 203",
-      "EF 203",
-      "TB 230",
-      "TB 230"
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "semester": "2026/2027-1"
   },
@@ -60123,6 +60099,18 @@
     "credits": 0,
     "ects": 4,
     "instructor": "MUHAMMED GÖLEÇ",
+    "sessionType": "lecture",
+    "days": [],
+    "hours": [],
+    "rooms": [],
+    "semester": "2026/2027-1"
+  },
+  "SCO690.13": {
+    "code": "SCO 690.13",
+    "name": "THESIS",
+    "credits": 0,
+    "ects": 60,
+    "instructor": "IŞIL BOZMA",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
