@@ -28925,9 +28925,9 @@
       10
     ],
     "rooms": [
-      "TB 260A",
-      "TB 260A",
-      "TB 260A"
+      "TB 490",
+      "TB 490",
+      "TB 490"
     ],
     "semester": "2026/2027-1"
   },
@@ -53268,8 +53268,8 @@
       8
     ],
     "rooms": [
-      "JF 334",
-      "JF 334",
+      "TB 415",
+      "TB 415",
       "JF 334"
     ],
     "semester": "2026/2027-1"
@@ -53340,8 +53340,8 @@
       7
     ],
     "rooms": [
-      "JF 334",
-      "JF 334",
+      "TB 415",
+      "TB 415",
       "JF 334"
     ],
     "semester": "2026/2027-1"
@@ -55223,7 +55223,7 @@
     "name": "ELEMENTARY HEBREW I",
     "credits": 3,
     "ects": 5,
-    "instructor": "MUHAMMET TARIK ÖZKAN",
+    "instructor": "MUHAMMED TARIK ÖZKAN",
     "sessionType": "lecture",
     "days": [
       "F",
