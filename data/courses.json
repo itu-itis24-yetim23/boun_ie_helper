@@ -30292,7 +30292,7 @@
       "HH 218",
       "HH 218",
       "ALH",
-      "HH Z07"
+      "HH Z17"
     ],
     "semester": "2026/2027-1"
   },
@@ -30319,7 +30319,7 @@
       "HH 218",
       "HH 218",
       "ALH",
-      "HH Z07"
+      "HH Z17"
     ],
     "semester": "2026/2027-1"
   },
@@ -32759,32 +32759,8 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LAW101.10": {
-    "code": "LAW 101.10",
-    "name": "INTRODUCTION TO LAW",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "MUSTAFA AKGÜN",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "W",
-      "W"
-    ],
-    "hours": [
-      2,
-      2,
-      3
-    ],
-    "rooms": [
-      "EF 216",
-      "EF 302",
-      "EF 302"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "LAW101.10 P.S. 1": {
-    "code": "LAW 101.10",
+  "LAW101.09 P.S. 2": {
+    "code": "LAW 101.09",
     "name": "P.S.",
     "credits": null,
     "ects": null,
@@ -32795,32 +32771,8 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LAW101.11": {
-    "code": "LAW 101.11",
-    "name": "INTRODUCTION TO LAW",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "TÜRKAN GÜLCE BUDAK",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "Th"
-    ],
-    "hours": [
-      4,
-      5,
-      5
-    ],
-    "rooms": [
-      "NH 404",
-      "NH 404",
-      "NH 002"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "LAW101.11 P.S. 1": {
-    "code": "LAW 101.11",
+  "LAW101.09 P.S. 3": {
+    "code": "LAW 101.09",
     "name": "P.S.",
     "credits": null,
     "ects": null,
@@ -36368,9 +36320,9 @@
       8
     ],
     "rooms": [
-      "İB 103",
-      "İB 103",
-      "İB 103"
+      "İB 102",
+      "İB 102",
+      "İB 102"
     ],
     "semester": "2026/2027-1"
   },
