@@ -7756,16 +7756,16 @@
     "name": "P.S.",
     "credits": null,
     "ects": null,
-    "instructor": "FURKAN ÇAKMAK",
+    "instructor": "HİLMİ LUŞ",
     "sessionType": "ps",
     "days": [
-      "F"
+      "M"
     ],
     "hours": [
-      4
+      7
     ],
     "rooms": [
-      "M 3100"
+      "M 1170"
     ],
     "semester": "2026/2027-1"
   },
@@ -7793,6 +7793,24 @@
       "M 3100",
       "M 2180",
       "M 2180"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "CE246.01 P.S. 1": {
+    "code": "CE 246.01",
+    "name": "P.S.",
+    "credits": null,
+    "ects": null,
+    "instructor": "FURKAN ÇAKMAK",
+    "sessionType": "ps",
+    "days": [
+      "M"
+    ],
+    "hours": [
+      7
+    ],
+    "rooms": [
+      "M 2170"
     ],
     "semester": "2026/2027-1"
   },
@@ -10857,8 +10875,8 @@
       7
     ],
     "rooms": [
-      "",
-      ""
+      "BM HW LAB",
+      "BM HW LAB"
     ],
     "semester": "2026/2027-1"
   },
