@@ -29298,9 +29298,9 @@
       "T"
     ],
     "hours": [
-      6,
       7,
-      8
+      8,
+      9
     ],
     "rooms": [
       "",
@@ -33638,42 +33638,6 @@
     "credits": null,
     "ects": null,
     "instructor": "MUSTAFA AKGÜN",
-    "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LAW348.01": {
-    "code": "LAW 348.01",
-    "name": "INTERNATIONAL ENVIRONMENTAL LAW",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "TÜRKAN GÜLCE BUDAK",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "Th"
-    ],
-    "hours": [
-      4,
-      5,
-      5
-    ],
-    "rooms": [
-      "İB 201",
-      "İB 201",
-      "JF 333"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "LAW348.01 P.S. 1": {
-    "code": "LAW 348.01",
-    "name": "P.S.",
-    "credits": null,
-    "ects": null,
-    "instructor": "TÜRKAN GÜLCE BUDAK",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -41085,18 +41049,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "MATH790.02": {
-    "code": "MATH 790.02",
-    "name": "Ph.D.THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "AYHAN GÜNAYDIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "MATH790.03": {
     "code": "MATH 790.03",
     "name": "Ph.D.THESIS",
@@ -41115,18 +41067,6 @@
     "credits": 0,
     "ects": 120,
     "instructor": "BURAK GÜREL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MATH790.05": {
-    "code": "MATH 790.05",
-    "name": "Ph.D.THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "FERİT ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -45246,48 +45186,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "BIO407.03": {
-    "code": "BIO 407.03",
-    "name": "SEMINAR II",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ERHAN KELEŞ",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M"
-    ],
-    "hours": [
-      7,
-      8
-    ],
-    "rooms": [
-      "KP 09",
-      "KP 09"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIO407.04": {
-    "code": "BIO 407.04",
-    "name": "SEMINAR II",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "KORAY MALCI",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
-      "KP 02",
-      "KP 02"
-    ],
-    "semester": "2026/2027-1"
-  },
   "BIO407.05": {
     "code": "BIO 407.05",
     "name": "SEMINAR II",
@@ -45327,27 +45225,6 @@
     "rooms": [
       "KP 06",
       "KP 06"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIO407.07": {
-    "code": "BIO 407.07",
-    "name": "SEMINAR II",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "SEYFULLAH ENES KOTİL",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T"
-    ],
-    "hours": [
-      3,
-      4
-    ],
-    "rooms": [
-      "KP 09",
-      "KP 09"
     ],
     "semester": "2026/2027-1"
   },
@@ -45916,18 +45793,6 @@
       "",
       ""
     ],
-    "semester": "2026/2027-1"
-  },
-  "BIO58H.01": {
-    "code": "BIO 58H.01",
-    "name": "SP.TP.CRISPR TECHNOLOGIES",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "İBRAHİM ÇAĞRI KURT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "BIO601.01": {
@@ -50157,18 +50022,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PHYS631.01": {
-    "code": "PHYS 631.01",
-    "name": "ATOMIC & MOLECULAR PHYSICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ERSAN DEMİRALP",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHYS681.01": {
     "code": "PHYS 681.01",
     "name": "DIRECTED STUDIES I",
@@ -50199,18 +50052,6 @@
     "credits": 4,
     "ects": 10,
     "instructor": "ARKADAŞ İNAN ÖZAKIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHYS681.04": {
-    "code": "PHYS 681.04",
-    "name": "DIRECTED STUDIES I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ILMAR GAHRAMANOV",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -59031,30 +58872,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "SOC585.01": {
-    "code": "SOC 585.01",
-    "name": "DIRECTED READING & RESEARCH I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BİRAY KOLLUOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SOC586.01": {
-    "code": "SOC 586.01",
-    "name": "DIRECTED READINGS & RESEARCH II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BİRAY KOLLUOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "SOC589.01": {
     "code": "SOC 589.01",
     "name": "READINGS IN SOCIOLOGY",
@@ -59906,54 +59723,6 @@
       "Th",
       "Th",
       "Th"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "HH Z06-SEM1",
-      "HH Z06-SEM1",
-      "HH Z06-SEM1"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TRM521.01": {
-    "code": "TRM 521.01",
-    "name": "DESTINATION DEVELOPMENT FOR SUSTAINABLE TOURISM",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "MARIA DOLORES ALVAREZ",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "HH Z06-SEM1",
-      "HH Z06-SEM1",
-      "HH Z06-SEM1"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TRM525.01": {
-    "code": "TRM 525.01",
-    "name": "SUSTAINABLE BUSINESS DEVELOPMENT",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "EZGİ ERKMEN",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
     ],
     "hours": [
       2,
@@ -63723,30 +63492,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "TKL48F.01": {
-    "code": "TKL 48F.01",
-    "name": "SPECIAL TOPICS: FRONTIER NARRATIVES AND VELAYETNAME LITERATURE",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "SİBEL KOCAER",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "T"
-    ],
-    "hours": [
-      4,
-      5,
-      4
-    ],
-    "rooms": [
-      "HH Z17",
-      "HH Z17",
-      "NB B10"
-    ],
-    "semester": "2026/2027-1"
-  },
   "TKL48L.01": {
     "code": "TKL 48L.01",
     "name": "SPECIAL TOPICS: THE BLACK BOOK IN INTERTEXTUAL CONTEXT",
@@ -63883,30 +63628,6 @@
       5,
       6,
       7
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TKL58T.01": {
-    "code": "TKL 58T.01",
-    "name": "SPECIAL TOPICS:TRANSLATIONS INTO TURKISH:FORMATIVE PERIODS IN TURKISH LITERATURE",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "SİBEL KOCAER",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      2,
-      3,
-      4
     ],
     "rooms": [
       "",
