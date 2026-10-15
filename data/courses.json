@@ -6413,72 +6413,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHEM473.04": {
-    "code": "CHEM 473.04",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "MEHMET NURULLAH ATEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHEM473.05": {
     "code": "CHEM 473.05",
     "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
     "credits": 3,
     "ects": 12,
     "instructor": "DUYGU AVCI SEMİZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM473.06": {
-    "code": "CHEM 473.06",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "ŞARON ÇATAK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM473.07": {
-    "code": "CHEM 473.07",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "OKTAY DEMİRCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM473.08": {
-    "code": "CHEM 473.08",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "FETTAH ERDOĞAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM473.09": {
-    "code": "CHEM 473.09",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY I",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "MEHMET FIRAT İLKER",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -6569,48 +6509,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHEM474.02": {
-    "code": "CHEM 474.02",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "FATMA AHU AKIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM474.03": {
-    "code": "CHEM 474.03",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "ZEYNEP ATAY GÖK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHEM474.04": {
     "code": "CHEM 474.04",
     "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
     "credits": 3,
     "ects": 12,
     "instructor": "MEHMET NURULLAH ATEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM474.05": {
-    "code": "CHEM 474.05",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "DUYGU AVCI SEMİZ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -6641,30 +6545,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHEM474.08": {
-    "code": "CHEM 474.08",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "FETTAH ERDOĞAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM474.09": {
-    "code": "CHEM 474.09",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "MEHMET FIRAT İLKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHEM474.10": {
     "code": "CHEM 474.10",
     "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
@@ -6677,36 +6557,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHEM474.11": {
-    "code": "CHEM 474.11",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "BAŞAK KAYITMAZER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHEM474.12": {
     "code": "CHEM 474.12",
     "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
     "credits": 3,
     "ects": 12,
     "instructor": "AYŞE NEREN ÖKTE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM474.13": {
-    "code": "CHEM 474.13",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY II",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "AMITAV SANYAL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -6749,72 +6605,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHEM475.02": {
-    "code": "CHEM 475.02",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "FATMA AHU AKIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM475.03": {
-    "code": "CHEM 475.03",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "ZEYNEP ATAY GÖK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM475.04": {
-    "code": "CHEM 475.04",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "MEHMET NURULLAH ATEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHEM475.05": {
     "code": "CHEM 475.05",
     "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
     "credits": 3,
     "ects": 12,
     "instructor": "DUYGU AVCI SEMİZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM475.06": {
-    "code": "CHEM 475.06",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "ŞARON ÇATAK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM475.07": {
-    "code": "CHEM 475.07",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "OKTAY DEMİRCAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -6833,36 +6629,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHEM475.09": {
-    "code": "CHEM 475.09",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "MEHMET FIRAT İLKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHEM475.10": {
     "code": "CHEM 475.10",
     "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
     "credits": 3,
     "ects": 12,
     "instructor": "AYŞENUR İŞCEN AKATAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHEM475.11": {
-    "code": "CHEM 475.11",
-    "name": "RESEARCH TECHNIQUES IN CHEMISTRY III",
-    "credits": 3,
-    "ects": 12,
-    "instructor": "BAŞAK KAYITMAZER",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -10898,7 +10670,7 @@
       5
     ],
     "rooms": [
-      "BM B3",
+      "VB 200",
       "BM B3",
       "BM B3"
     ],
@@ -11589,8 +11361,8 @@
     ],
     "rooms": [
       "BM A6",
-      "BM B3",
-      "BM B3"
+      "VB 200",
+      "VB 200"
     ],
     "semester": "2026/2027-1"
   },
@@ -49815,18 +49587,6 @@
     "credits": 3,
     "ects": 6,
     "instructor": "EMRE KUŞAKCI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHYS491.14": {
-    "code": "PHYS 491.14",
-    "name": "INTRODUCTION TO RESEARCH IN PHYSICS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "METİN ARIK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
