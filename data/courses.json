@@ -61082,7 +61082,7 @@
     "name": "TURKISH FOR NATIVE SPEAKERS I",
     "credits": 2,
     "ects": 3,
-    "instructor": "FATİH AŞAN",
+    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
       "M",
@@ -61103,7 +61103,7 @@
     "name": "TURKISH FOR NATIVE SPEAKERS I",
     "credits": 2,
     "ects": 3,
-    "instructor": "FATİH AŞAN",
+    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
       "M",
@@ -61460,7 +61460,7 @@
     "name": "TURKISH FOR NATIVE SPEAKERS I",
     "credits": 2,
     "ects": 3,
-    "instructor": "HÜSNİYE GÜLSEV KOÇ",
+    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
       "W",
@@ -61481,7 +61481,7 @@
     "name": "TURKISH FOR NATIVE SPEAKERS I",
     "credits": 2,
     "ects": 3,
-    "instructor": "HÜSNİYE GÜLSEV KOÇ",
+    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
       "W",
@@ -61599,48 +61599,6 @@
     "rooms": [
       "KP 07",
       "KP 07"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TK221.26": {
-    "code": "TK 221.26",
-    "name": "TURKISH FOR NATIVE SPEAKERS I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M"
-    ],
-    "hours": [
-      3,
-      4
-    ],
-    "rooms": [
-      "KP 03",
-      "KP 03"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TK221.27": {
-    "code": "TK 221.27",
-    "name": "TURKISH FOR NATIVE SPEAKERS I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W"
-    ],
-    "hours": [
-      3,
-      4
-    ],
-    "rooms": [
-      "EF 02",
-      "EF 02"
     ],
     "semester": "2026/2027-1"
   },
@@ -62001,48 +61959,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "TK221.45": {
-    "code": "TK 221.45",
-    "name": "TURKISH FOR NATIVE SPEAKERS I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M"
-    ],
-    "hours": [
-      5,
-      6
-    ],
-    "rooms": [
-      "KP 07",
-      "KP 07"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TK221.46": {
-    "code": "TK 221.46",
-    "name": "TURKISH FOR NATIVE SPEAKERS I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T"
-    ],
-    "hours": [
-      3,
-      4
-    ],
-    "rooms": [
-      "EF 04",
-      "EF 04"
-    ],
-    "semester": "2026/2027-1"
-  },
   "TK221.47": {
     "code": "TK 221.47",
     "name": "TURKISH FOR NATIVE SPEAKERS I",
@@ -62153,7 +62069,7 @@
     "name": "TURKISH FOR NATIVE SPEAKERS I",
     "credits": 2,
     "ects": 3,
-    "instructor": "ESRA DİCLE",
+    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
       "Th",
@@ -62174,7 +62090,7 @@
     "name": "TURKISH FOR NATIVE SPEAKERS I",
     "credits": 2,
     "ects": 3,
-    "instructor": "ESRA DİCLE",
+    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
     "sessionType": "lecture",
     "days": [
       "Th",
@@ -62229,48 +62145,6 @@
     "rooms": [
       "KP 04",
       "KP 04"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TK221.56": {
-    "code": "TK 221.56",
-    "name": "TURKISH FOR NATIVE SPEAKERS I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T"
-    ],
-    "hours": [
-      5,
-      6
-    ],
-    "rooms": [
-      "EF 04",
-      "EF 04"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TK221.57": {
-    "code": "TK 221.57",
-    "name": "TURKISH FOR NATIVE SPEAKERS I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "ŞERİFE SEDA YÜCEKURT ÜNLÜ",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W"
-    ],
-    "hours": [
-      5,
-      6
-    ],
-    "rooms": [
-      "EF 02",
-      "EF 02"
     ],
     "semester": "2026/2027-1"
   },
@@ -63848,7 +63722,7 @@
     "name": "EARLY INTERVENTION:THEORY AND PRACTICE",
     "credits": 3,
     "ects": 7,
-    "instructor": "ZEYNEP BERNA ERDİLLER YATMAZ",
+    "instructor": "NAZMİYE TEMİZ",
     "sessionType": "lecture",
     "days": [
       "W",
