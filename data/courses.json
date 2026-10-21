@@ -9574,10 +9574,10 @@
       2
     ],
     "rooms": [
-      "ET B513",
-      "ET B513",
-      "EF 416 (LAB)",
-      "EF 416 (LAB)"
+      "ET B513,ET B513",
+      "ET B513,ET B513",
+      "EF 416 (LAB),EF 416 (LAB)",
+      "EF 416 (LAB),EF 416 (LAB)"
     ],
     "semester": "2026/2027-1"
   },
@@ -9704,9 +9704,9 @@
       6
     ],
     "rooms": [
-      "ET B513",
-      "ET B509",
-      "ET B509"
+      "ET B513,ET B513",
+      "ET B509,ET B509",
+      "ET B509,ET B509"
     ],
     "semester": "2026/2027-1"
   },
@@ -13456,13 +13456,13 @@
     "instructor": "ŞENER ÖZÖNDER",
     "sessionType": "ps",
     "days": [
-      "T"
+      "M"
     ],
     "hours": [
       4
     ],
     "rooms": [
-      "VB 100"
+      "M 2231"
     ],
     "semester": "2026/2027-1"
   },
