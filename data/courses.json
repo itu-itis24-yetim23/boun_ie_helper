@@ -9576,8 +9576,8 @@
     "rooms": [
       "ET B513,ET B513",
       "ET B513,ET B513",
-      "EF 416 (LAB),EF 416 (LAB)",
-      "EF 416 (LAB),EF 416 (LAB)"
+      "EF 416 (LAB),EF 416",
+      "EF 416 (LAB),EF 416"
     ],
     "semester": "2026/2027-1"
   },
@@ -32607,8 +32607,8 @@
       8
     ],
     "rooms": [
-      "VB 200",
-      "VB 200"
+      "İB 201",
+      "İB 201"
     ],
     "semester": "2026/2027-1"
   },
@@ -37796,8 +37796,8 @@
       "F"
     ],
     "hours": [
-      2,
-      3
+      7,
+      8
     ],
     "rooms": [
       "HH 108 LAB",
@@ -37949,6 +37949,24 @@
     ],
     "hours": [
       3
+    ],
+    "rooms": [
+      "HH 108 LAB"
+    ],
+    "semester": "2026/2027-1"
+  },
+  "MIS321.01 LAB 2": {
+    "code": "MIS 321.01",
+    "name": "LAB",
+    "credits": null,
+    "ects": null,
+    "instructor": "AYSUN BOZANTA HAKYEMEZ",
+    "sessionType": "lab",
+    "days": [
+      "Th"
+    ],
+    "hours": [
+      8
     ],
     "rooms": [
       "HH 108 LAB"
@@ -38128,13 +38146,13 @@
     "instructor": "STAFF STAFF",
     "sessionType": "ps",
     "days": [
-      "T"
+      "W"
     ],
     "hours": [
-      2
+      5
     ],
     "rooms": [
-      "NH 203"
+      "HH 108 LAB"
     ],
     "semester": "2026/2027-1"
   },
