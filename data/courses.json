@@ -14714,54 +14714,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "EQE677.01": {
-    "code": "EQE 677.01",
-    "name": "SIMULATION OF STRONG GROUND MOTION",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "ESER ÇAKTI",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "EQE678.01": {
-    "code": "EQE 678.01",
-    "name": "EARTHQUQKE RESISTANT DESIGN OF REINFORCE",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "NURDAN MEMİŞOĞLU APAYDIN",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "EQE681.01": {
     "code": "EQE 681.01",
     "name": "SPECIAL TOPICS EARTHQUAKE RISK ASSESSMENT",
@@ -14773,54 +14725,6 @@
       "T",
       "T",
       "T"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "EQE682.01": {
-    "code": "EQE 682.01",
-    "name": "SPECIAL TOPICS IN EARTHQUAKE ENGINEERING: DESIGN OF STRUCTURES WITH PASSIVE CONTROL SYSTEMS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "MUSTAFA ÖZDER ERDİK",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "EQE687.01": {
-    "code": "EQE 687.01",
-    "name": "SPECIAL TOPICS :EARTHQUAKE SOURCE PROCESSES",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "GÜLÜM TANIRCAN",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
     ],
     "hours": [
       6,
@@ -14858,54 +14762,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "EQE690.01": {
-    "code": "EQE 690.01",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "NURDAN MEMİŞOĞLU APAYDIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EQE690.05": {
-    "code": "EQE 690.05",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ESER ÇAKTI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EQE690.06": {
-    "code": "EQE 690.06",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "AYŞE EDİNÇLİLER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EQE690.08": {
-    "code": "EQE 690.08",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "GÜLÜM TANIRCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "EQE690.09": {
     "code": "EQE 690.09",
     "name": "M.S.THESIS",
@@ -14924,42 +14780,6 @@
     "credits": 0,
     "ects": 60,
     "instructor": "AYŞEGÜL GÖĞÜŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EQE697.01": {
-    "code": "EQE 697.01",
-    "name": "SPECIAL TOPICS IMPLEMENTATION&UNDERSTANDING THE PROBABILISTIC APPROACHES IN EARTHQUAKE ENGINEERING",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "SİNAN AKKAR",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "EQE790.01": {
-    "code": "EQE 790.01",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "NURDAN MEMİŞOĞLU APAYDIN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -14990,36 +14810,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "EQE790.08": {
-    "code": "EQE 790.08",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "GÜLÜM TANIRCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "EQE790.09": {
     "code": "EQE 790.09",
     "name": "Ph.D. THESIS",
     "credits": 0,
     "ects": 120,
     "instructor": "UFUK HANCILAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EQE790.10": {
-    "code": "EQE 790.10",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "AYŞEGÜL GÖĞÜŞ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -25697,54 +25493,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "GED511.01": {
-    "code": "GED 511.01",
-    "name": "FUNDAMENTALS OF SURVEYING & MAPPING",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "HALUK ÖZENER",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED516.01": {
-    "code": "GED 516.01",
-    "name": "FUNDAMENTALS OF GEODESY",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "ONUR YILMAZ",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "GED535.01": {
     "code": "GED 535.01",
     "name": "GRAVITY MEASUREMENTS",
@@ -25769,24 +25517,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "GED579.01": {
-    "code": "GED 579.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 1,
-    "instructor": "TÜLAY KAYA EKEN",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      5
-    ],
-    "rooms": [
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "GED581.01": {
     "code": "GED 581.01",
     "name": "HIGH PRECISION GPS GEODESY",
@@ -25803,144 +25533,6 @@
       6,
       7,
       8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED591.01": {
-    "code": "GED 591.01",
-    "name": "SELECTED TOPICS SOLID EARTH & PLATE TECTONICS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "TÜLAY KAYA EKEN",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED593.01": {
-    "code": "GED 593.01",
-    "name": "SELECTED TOPICS INSAR APPLICATIONS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "SEMİH ERGİNTAV",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      1,
-      2,
-      3
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED595.01": {
-    "code": "GED 595.01",
-    "name": "SELECTED TOPICS GEOSPATIAL TECHNOLOGIES&APPLICATIONS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "STAFF STAFF",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      1,
-      2,
-      3
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED599.01": {
-    "code": "GED 599.01",
-    "name": "SELECTED TOPICS ACTIVE TECTONIC PROBLEMS IN MODERN GEODESY:INTRODUCTION",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "SEMİH ERGİNTAV",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED602.01": {
-    "code": "GED 602.01",
-    "name": "Ph.D.SEMINAR II",
-    "credits": 1,
-    "ects": 10,
-    "instructor": "SEMİH ERGİNTAV",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      8
-    ],
-    "rooms": [
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED632.01": {
-    "code": "GED 632.01",
-    "name": "GEODETIC DATA BASE",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "STAFF STAFF",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      1,
-      2,
-      3
     ],
     "rooms": [
       "",
@@ -26000,102 +25592,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "GED690.03": {
-    "code": "GED 690.03",
-    "name": "M.S. THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ONUR YILMAZ",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      6,
-      7
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED690.04": {
-    "code": "GED 690.04",
-    "name": "M.S. THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "SEMİH ERGİNTAV",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      5,
-      6,
-      7
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED690.05": {
-    "code": "GED 690.05",
-    "name": "M.S. THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "FATİH BULUT",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      2,
-      3
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED690.06": {
-    "code": "GED 690.06",
-    "name": "M.S. THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "TÜLAY KAYA EKEN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      5,
-      6,
-      7,
-      8,
-      9
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "GED691.01": {
     "code": "GED 691.01",
     "name": "SPECIAL TOPICS HIGH PRECISION GNSS FOR GEOSCIENCE APPLICATIONS",
@@ -26112,30 +25608,6 @@
       6,
       7,
       8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED692.01": {
-    "code": "GED 692.01",
-    "name": "SPECIAL TOPICS PHYSICS OF THE EARTH'S CRUST&DEFORMATION",
-    "credits": 3,
-    "ects": 9,
-    "instructor": "TÜLAY KAYA EKEN",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      2,
-      3,
-      4
     ],
     "rooms": [
       "",
@@ -26168,54 +25640,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "GED695.01": {
-    "code": "GED 695.01",
-    "name": "SPECIAL TOPICS ACTIVE TECTONIC PROBLEMS IN MODERN GED:KINEMATIC MODELLING&DEFORMATION ANALYSIS",
-    "credits": 3,
-    "ects": 9,
-    "instructor": "SEMİH ERGİNTAV",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED696.01": {
-    "code": "GED 696.01",
-    "name": "SPECIAL TOPICS PHYSICAL GEODESY",
-    "credits": 3,
-    "ects": 9,
-    "instructor": "ONUR YILMAZ",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "GED697.01": {
     "code": "GED 697.01",
     "name": "SPECIAL TOPICS INVERSE THEORY",
@@ -26240,102 +25664,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "GED700.01": {
-    "code": "GED 700.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 2,
-    "instructor": "HALUK ÖZENER",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      6
-    ],
-    "rooms": [
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED790.01": {
-    "code": "GED 790.01",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "HALUK ÖZENER",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED790.02": {
-    "code": "GED 790.02",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "FATİH BULUT",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      4,
-      5
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED790.03": {
-    "code": "GED 790.03",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "ONUR YILMAZ",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      8
-    ],
-    "rooms": [
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GED790.04": {
-    "code": "GED 790.04",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "SEMİH ERGİNTAV",
-    "sessionType": "lecture",
-    "days": [
-      "W"
-    ],
-    "hours": [
-      8
-    ],
-    "rooms": [
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "GED790.06": {
     "code": "GED 790.06",
     "name": "Ph.D. THESIS",
@@ -26352,30 +25680,6 @@
       8
     ],
     "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH505.01": {
-    "code": "GPH 505.01",
-    "name": "GEOPHYSICAL DATA PROCESSING",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "HAYRULLAH KARABULUT",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
       "",
       ""
     ],
@@ -26411,78 +25715,6 @@
     "credits": 3,
     "ects": 7,
     "instructor": "CENGİZ ZABCI",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH528.01": {
-    "code": "GPH 528.01",
-    "name": "THE PHYSICS OF EARTH'S INTERIOR",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "NURCAN MERAL ÖZEL",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH530.01": {
-    "code": "GPH 530.01",
-    "name": "ELECTROMAGNETIC METHODS IN GEOPHYSICS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "SABRİ BÜLENT TANK",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH531.01": {
-    "code": "GPH 531.01",
-    "name": "FIELDS IN GEOPHYSICS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "SABRİ BÜLENT TANK",
     "sessionType": "lecture",
     "days": [
       "W",
@@ -26549,114 +25781,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "GPH579.01": {
-    "code": "GPH 579.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "ALİ ÖZGÜN KONCA",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      6
-    ],
-    "rooms": [
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH644.01": {
-    "code": "GPH 644.01",
-    "name": "INVERSION METHODS IN GEOPHYSICS",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "ALİ ÖZGÜN KONCA",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH645.01": {
-    "code": "GPH 645.01",
-    "name": "NUMERICAL METHODS IN SEISMOLOGY",
-    "credits": 3,
-    "ects": 3,
-    "instructor": "HAYRULLAH KARABULUT",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      6,
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH690.05": {
-    "code": "GPH 690.05",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ÇAĞRI DİNER",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F"
-    ],
-    "hours": [
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH690.06": {
-    "code": "GPH 690.06",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "SABRİ BÜLENT TANK",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "GPH690.07": {
     "code": "GPH 690.07",
     "name": "M.S.THESIS",
@@ -26667,48 +25791,6 @@
     "days": [
       "W",
       "W"
-    ],
-    "hours": [
-      7,
-      8
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH700.01": {
-    "code": "GPH 700.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 0,
-    "instructor": "HAYRULLAH KARABULUT",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F"
-    ],
-    "hours": [
-      6,
-      7
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "GPH790.02": {
-    "code": "GPH 790.02",
-    "name": "Ph.D. THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "ÇAĞRI DİNER",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T"
     ],
     "hours": [
       7,
@@ -36716,18 +35798,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "AD573.01": {
-    "code": "AD 573.01",
-    "name": "FINANCIAL ECONOMETRICS",
-    "credits": 3,
-    "ects": 7.5,
-    "instructor": "NESRİN OKAY AKMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD577.01": {
     "code": "AD 577.01",
     "name": "FINANCIAL THEORY&CORPORATE POLICY",
@@ -36800,18 +35870,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "AD581.03": {
-    "code": "AD 581.03",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "BELGİN ARISAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD581.04": {
     "code": "AD 581.04",
     "name": "DIRECTED READINGS IN MANAGEMENT",
@@ -36824,72 +35882,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "AD581.05": {
-    "code": "AD 581.05",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "MEHMET ARTEMEL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.06": {
-    "code": "AD 581.06",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ASUNUR CEZAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD581.07": {
     "code": "AD 581.07",
     "name": "DIRECTED READINGS IN MANAGEMENT",
     "credits": 3,
     "ects": 6,
     "instructor": "ÖZGÜN BURCU RODOPMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.08": {
-    "code": "AD 581.08",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ALİ COŞKUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.09": {
-    "code": "AD 581.09",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "METİN ERCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.10": {
-    "code": "AD 581.10",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "CENK CEVAT KARAHAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -36914,42 +35912,6 @@
     "credits": 3,
     "ects": 6,
     "instructor": "ÖZLEM ÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.13": {
-    "code": "AD 581.13",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ÖZGÜN BURCU RODOPMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.14": {
-    "code": "AD 581.14",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "NESLİHAN N.YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD581.15": {
-    "code": "AD 581.15",
-    "name": "DIRECTED READINGS IN MANAGEMENT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ALPEREN MANİSALIGİL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37010,156 +35972,12 @@
     ],
     "semester": "2026/2027-1"
   },
-  "AD675.01": {
-    "code": "AD 675.01",
-    "name": "DIRECTED READINGS IN OIM",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "YAVUZ ACAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD676.01": {
-    "code": "AD 676.01",
-    "name": "DIRECTED READINGS IN OIM",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "ASUNUR CEZAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD677.01": {
-    "code": "AD 677.01",
-    "name": "DIRECTED READINGS IN OIM",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "ULAŞ AKKÜÇÜK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD680.01": {
-    "code": "AD 680.01",
-    "name": "DIRECTED READINGS IN FINANCE THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "VEDAT AKGİRAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD680.02": {
     "code": "AD 680.02",
     "name": "DIRECTED READINGS IN FINANCE THEORY",
     "credits": 4,
     "ects": 30,
     "instructor": "ALİ COŞKUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD680.03": {
-    "code": "AD 680.03",
-    "name": "DIRECTED READINGS IN FINANCE THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "METİN ERCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD680.04": {
-    "code": "AD 680.04",
-    "name": "DIRECTED READINGS IN FINANCE THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "CENK CEVAT KARAHAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD680.05": {
-    "code": "AD 680.05",
-    "name": "DIRECTED READINGS IN FINANCE THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "NESRİN OKAY AKMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD680.06": {
-    "code": "AD 680.06",
-    "name": "DIRECTED READINGS IN FINANCE THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "NESLİHAN N.YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD685.01": {
-    "code": "AD 685.01",
-    "name": "DIRECTED READING IN MANAGEMENT &ORGANIZATIONS THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "ÖZLEM ÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD686.01": {
-    "code": "AD 686.01",
-    "name": "DIRECTED READING IN MANAGEMENT &ORGANIZATIONS THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "ÖZGÜN BURCU RODOPMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD687.01": {
-    "code": "AD 687.01",
-    "name": "DIRECTED READING IN MANAGEMENT &ORGANIZATIONS THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "ALPEREN MANİSALIGİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD690.01": {
-    "code": "AD 690.01",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "YAVUZ ACAR",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37202,42 +36020,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "AD690.05": {
-    "code": "AD 690.05",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "MEHMET ARTEMEL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD690.06": {
-    "code": "AD 690.06",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ASUNUR CEZAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD690.07": {
-    "code": "AD 690.07",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ULAŞ AKKÜÇÜK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD690.08": {
     "code": "AD 690.08",
     "name": "MASTER THESIS",
@@ -37262,42 +36044,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "AD690.10": {
-    "code": "AD 690.10",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "CENK CEVAT KARAHAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD690.11": {
-    "code": "AD 690.11",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "NESRİN OKAY AKMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD690.12": {
-    "code": "AD 690.12",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ÖZLEM ÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD690.13": {
     "code": "AD 690.13",
     "name": "MASTER THESIS",
@@ -37316,30 +36062,6 @@
     "credits": 0,
     "ects": 60,
     "instructor": "NESLİHAN N.YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD690.15": {
-    "code": "AD 690.15",
-    "name": "MASTER THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "ALPEREN MANİSALIGİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD691.01": {
-    "code": "AD 691.01",
-    "name": "DIRECTED READINGS IN MARKETING THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "BELGİN ARISAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37418,84 +36140,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "AD790.04": {
-    "code": "AD 790.04",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "SERDAR SALİH DURMUŞOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD790.05": {
-    "code": "AD 790.05",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "ASUNUR CEZAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD790.06": {
-    "code": "AD 790.06",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "ULAŞ AKKÜÇÜK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD790.07": {
     "code": "AD 790.07",
     "name": "Ph.D DISSERTATION",
     "credits": 0,
     "ects": 120,
     "instructor": "ALİ COŞKUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD790.08": {
-    "code": "AD 790.08",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "METİN ERCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD790.09": {
-    "code": "AD 790.09",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "CENK CEVAT KARAHAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD790.10": {
-    "code": "AD 790.10",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "NESRİN OKAY AKMAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37532,18 +36182,6 @@
     "credits": 0,
     "ects": 120,
     "instructor": "NESLİHAN N.YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "AD790.14": {
-    "code": "AD 790.14",
-    "name": "Ph.D DISSERTATION",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "ALPEREN MANİSALIGİL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -46866,42 +45504,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PE101.01": {
-    "code": "PE 101.01",
-    "name": "STEP I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "VİLDAN ZAN KİPRİ",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      1
-    ],
-    "rooms": [
-      "GKM"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE101.02": {
-    "code": "PE 101.02",
-    "name": "STEP I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "VİLDAN ZAN KİPRİ",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      2
-    ],
-    "rooms": [
-      "GKM"
-    ],
-    "semester": "2026/2027-1"
-  },
   "PE101.03": {
     "code": "PE 101.03",
     "name": "STEP I",
@@ -46914,24 +45516,6 @@
     ],
     "hours": [
       6
-    ],
-    "rooms": [
-      "GKM"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE101.04": {
-    "code": "PE 101.04",
-    "name": "STEP I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "VİLDAN ZAN KİPRİ",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      7
     ],
     "rooms": [
       "GKM"
@@ -46983,42 +45567,6 @@
     "sessionType": "lecture",
     "days": [
       "Th"
-    ],
-    "hours": [
-      1
-    ],
-    "rooms": [
-      "UÇAKSAVAR SALON"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE103.04": {
-    "code": "PE 103.04",
-    "name": "FITNESS I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MUHAMMED SIDDIK ÇEMÇ",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      2
-    ],
-    "rooms": [
-      "UÇAKSAVAR SALON"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE103.05": {
-    "code": "PE 103.05",
-    "name": "FITNESS I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MUHAMMED SIDDIK ÇEMÇ",
-    "sessionType": "lecture",
-    "days": [
-      "F"
     ],
     "hours": [
       1
@@ -47100,42 +45648,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "PE109.03": {
-    "code": "PE 109.03",
-    "name": "HEALTH & SPORTS CLINIQUE I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MUHAMMED SIDDIK ÇEMÇ",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      7
-    ],
-    "rooms": [
-      "HİSAR OFİS"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE110.01": {
-    "code": "PE 110.01",
-    "name": "HEALTH&SPORTS CLINIQUE II",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "YUNUS EMRE SUSUZ",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      7
-    ],
-    "rooms": [
-      "HİSAR OFİS"
-    ],
-    "semester": "2026/2027-1"
-  },
   "PE115.01": {
     "code": "PE 115.01",
     "name": "TRACK & FIELD I",
@@ -47148,24 +45660,6 @@
     ],
     "hours": [
       1
-    ],
-    "rooms": [
-      "UÇAKSAVAR ÇİM"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE115.02": {
-    "code": "PE 115.02",
-    "name": "TRACK & FIELD I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "ALPEREN AKBULUT",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      2
     ],
     "rooms": [
       "UÇAKSAVAR ÇİM"
@@ -47838,24 +46332,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "PE135.02": {
-    "code": "PE 135.02",
-    "name": "ROWING I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MEHMET OKTAR",
-    "sessionType": "lecture",
-    "days": [
-      "W"
-    ],
-    "hours": [
-      2
-    ],
-    "rooms": [
-      "UÇAKSAVAR ORTAK"
-    ],
-    "semester": "2026/2027-1"
-  },
   "PE141.01": {
     "code": "PE 141.01",
     "name": "ELEMENTARY SWIMMING",
@@ -48213,114 +46689,6 @@
     ],
     "rooms": [
       "GKM"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE153.01": {
-    "code": "PE 153.01",
-    "name": "CIRCUIT TRAINING I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MEHMET OKTAR",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      1
-    ],
-    "rooms": [
-      "UÇAKSAVAR PİST"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE153.02": {
-    "code": "PE 153.02",
-    "name": "CIRCUIT TRAINING I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MEHMET OKTAR",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      2
-    ],
-    "rooms": [
-      "UÇAKSAVAR PİST"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE153.03": {
-    "code": "PE 153.03",
-    "name": "CIRCUIT TRAINING I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MEHMET OKTAR",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      3
-    ],
-    "rooms": [
-      "UÇAKSAVAR PİST"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE153.04": {
-    "code": "PE 153.04",
-    "name": "CIRCUIT TRAINING I",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "MEHMET OKTAR",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      6
-    ],
-    "rooms": [
-      "UÇAKSAVAR PİST"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE480.02": {
-    "code": "PE 480.02",
-    "name": "SP.TP.PHYSICAL FITNESS",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "ALPEREN AKBULUT",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      8
-    ],
-    "rooms": [
-      "HİSAR OFİS"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PE480.03": {
-    "code": "PE 480.03",
-    "name": "SP.TP.PHYSICAL FITNESS",
-    "credits": 1,
-    "ects": 2,
-    "instructor": "ALPEREN AKBULUT",
-    "sessionType": "lecture",
-    "days": [
-      "F"
-    ],
-    "hours": [
-      9
-    ],
-    "rooms": [
-      "HİSAR OFİS"
     ],
     "semester": "2026/2027-1"
   },
