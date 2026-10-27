@@ -2115,21 +2115,9 @@
     "ects": 8,
     "instructor": "EMİNE SÜMEYRA TURALI EMRE",
     "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      5,
-      6,
-      7
-    ],
-    "rooms": [
-      "BME 07",
-      "BME 07",
-      "BME 07"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "BM59F.01": {
@@ -2259,21 +2247,9 @@
     "ects": 8,
     "instructor": "BURAK GÜÇLÜ",
     "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      1,
-      2,
-      3
-    ],
-    "rooms": [
-      "BME 07",
-      "BME 07",
-      "BME 07"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "BM690.01": {
@@ -9879,27 +9855,9 @@
     "ects": 6,
     "instructor": "YAVUZ AKPINAR",
     "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      1,
-      2,
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "ET B511",
-      "ET B511",
-      "ET B509",
-      "ET B509",
-      "ET B509"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "CET48B.01": {
@@ -15843,18 +15801,9 @@
     "ects": 5,
     "instructor": "ORHAN AYGÜN",
     "sessionType": "lecture",
-    "days": [
-      "F",
-      "F"
-    ],
-    "hours": [
-      7,
-      8
-    ],
-    "rooms": [
-      "HH 120",
-      "HH 120"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "EC603.01": {
@@ -20253,21 +20202,9 @@
     "ects": 8,
     "instructor": "CEYDA SENEM UYGUNER DEMİREL",
     "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "HC 201",
-      "HC 201",
-      "HC 201"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ESC539.01": {
@@ -20511,21 +20448,9 @@
     "ects": 8,
     "instructor": "MELEK TÜRKER SAÇAN",
     "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "HC 301",
-      "HC 301",
-      "HC 301"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ESC653.01": {
@@ -20535,21 +20460,9 @@
     "ects": 8,
     "instructor": "FATMA ÖZTÜRK",
     "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      3,
-      4,
-      5
-    ],
-    "rooms": [
-      "HC 214",
-      "HC 214",
-      "HC 214"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ESC690.02": {
@@ -32205,21 +32118,9 @@
     "ects": 5,
     "instructor": "MUHAMMED FURKAN AKINCI",
     "sessionType": "lecture",
-    "days": [
-      "F",
-      "F",
-      "F"
-    ],
-    "hours": [
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "M 2200",
-      "M 2200",
-      "M 2200"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "LAW339.01 P.S. 1": {
@@ -32277,21 +32178,9 @@
     "ects": 5,
     "instructor": "MUSTAFA AKGÜN",
     "sessionType": "lecture",
-    "days": [
-      "M",
-      "T",
-      "T"
-    ],
-    "hours": [
-      2,
-      2,
-      3
-    ],
-    "rooms": [
-      "M 2152",
-      "EF 106",
-      "EF 106"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "LAW343.01 P.S. 1": {
@@ -33321,21 +33210,9 @@
     "ects": 6,
     "instructor": "ELENA GUERZONI",
     "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "Th"
-    ],
-    "hours": [
-      3,
-      4,
-      3
-    ],
-    "rooms": [
-      "TB 260A",
-      "TB 260A",
-      "TB 155"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "LING487.01": {
@@ -39700,24 +39577,9 @@
     "ects": 6,
     "instructor": "GÜLSEREN KARAGÖZ AKAR",
     "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "T",
-      "T"
-    ],
-    "hours": [
-      1,
-      2,
-      1,
-      2
-    ],
-    "rooms": [
-      "EF 306",
-      "EF 306",
-      "ET B415",
-      "ET B415"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "SCED370.01": {
@@ -40369,21 +40231,9 @@
     "ects": 6,
     "instructor": "DEVRİM GÜVEN",
     "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      4,
-      5,
-      6
-    ],
-    "rooms": [
-      "ET B715-2",
-      "ET B715-2",
-      "ET B715-2"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "SCED48D.01": {
@@ -41551,21 +41401,9 @@
     "ects": 5,
     "instructor": "SABRİ ALTINTAŞ",
     "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "Th"
-    ],
-    "hours": [
-      5,
-      6,
-      5
-    ],
-    "rooms": [
-      "M 2230",
-      "M 2230",
-      "VYKM3"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ME48B.01": {
@@ -42091,21 +41929,9 @@
     "ects": 8,
     "instructor": "EKREM EKİCİ",
     "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "Th"
-    ],
-    "hours": [
-      6,
-      7,
-      6
-    ],
-    "rooms": [
-      "M 2231",
-      "M 2231",
-      "M 2231"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ME690.01": {
@@ -51625,21 +51451,9 @@
     "ects": 5,
     "instructor": "GUNDA ANKVAB",
     "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      8,
-      9,
-      10
-    ],
-    "rooms": [
-      "JF 108",
-      "JF 108",
-      "JF 108"
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "CHIN101.01": {
@@ -51838,21 +51652,9 @@
     "ects": 5,
     "instructor": "QIANWEN ZHOU",
     "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "T"
-    ],
-    "hours": [
-      1,
-      2,
-      3
-    ],
-    "rooms": [
-      "KONF.ENST.",
-      "KONF.ENST.",
-      "KONF.ENST."
-    ],
+    "days": [],
+    "hours": [],
+    "rooms": [],
     "semester": "2026/2027-1"
   },
   "CHIN411.01": {
