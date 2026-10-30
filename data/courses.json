@@ -11,36 +11,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ASIA503.02": {
-    "code": "ASIA 503.02",
-    "name": "TURKEY'S RELATIONS WITH ASIA",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "SÜLEYMAN ELİK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ASIA507.02": {
     "code": "ASIA 507.02",
     "name": "EUROPEAN COLONIAL ,IMPERIAL ASIAN NATIONAL &MODERN HISTORY OF ASIA",
     "credits": 3,
     "ects": 8,
     "instructor": "JAAN SULAIMAN ISLAM",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ASIA508.02": {
-    "code": "ASIA 508.02",
-    "name": "SEMINAR ON THE ASIA-PACIFIC REGION",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "TAYFUN AKGÜN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -69,42 +45,6 @@
       "",
       ""
     ],
-    "semester": "2026/2027-1"
-  },
-  "ASIA535.02": {
-    "code": "ASIA 535.02",
-    "name": "TOPICS IN MODERN KOREAN HISTORY &CULTURE",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "MEHMET EMİN BAYRAM",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ASIA542.02": {
-    "code": "ASIA 542.02",
-    "name": "THE MIDDLE EAST&ASIA",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "SELÇUK AYDIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ASIA548.02": {
-    "code": "ASIA 548.02",
-    "name": "RESEARCH METHODS",
-    "credits": 3,
-    "ects": 4,
-    "instructor": "HASAN UMUT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ASIA590.01": {
@@ -275,18 +215,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ASIL506.01": {
-    "code": "ASIL 506.01",
-    "name": "ADVANCED JAPANESE II",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "YURIKO ÖNCÜ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ASIL508.01": {
     "code": "ASIL 508.01",
     "name": "BEGINNERS CHINESE II",
@@ -317,18 +245,6 @@
     "credits": 3,
     "ects": 6,
     "instructor": "FATIMAT ZHILETEZHEVA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ASIL515.01": {
-    "code": "ASIL 515.01",
-    "name": "BEGINNERS KOREAN I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "HWA CHEON H.LEE",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -2108,18 +2024,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "BM59E.01": {
-    "code": "BM 59E.01",
-    "name": "SELECTED TOPICS :EXTRACELLULAR VESICLES AND NANOTECHNOLOGY: BIOMEDICAL TOOLS",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "EMİNE SÜMEYRA TURALI EMRE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BM59F.01": {
     "code": "BM 59F.01",
     "name": "SPECIAL TOPICS INTRODUCTION TO BIOMEDICAL OPTICS",
@@ -2238,18 +2142,6 @@
       "BME 18",
       "BME 18"
     ],
-    "semester": "2026/2027-1"
-  },
-  "BM632.01": {
-    "code": "BM 632.01",
-    "name": "SENSORY SYSTEMS",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "BURAK GÜÇLÜ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "BM690.01": {
@@ -2480,18 +2372,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BM699.03": {
-    "code": "BM 699.03",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "ESİN ÖZTÜRK IŞIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BM699.04": {
     "code": "BM 699.04",
     "name": "GUIDED RESEARCH",
@@ -2516,42 +2396,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BM699.06": {
-    "code": "BM 699.06",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "CENGİZHAN ÖZTÜRK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BM699.07": {
-    "code": "BM 699.07",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "EMİNE SÜMEYRA TURALI EMRE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BM699.08": {
-    "code": "BM 699.08",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "BORA GARİPCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BM699.09": {
     "code": "BM 699.09",
     "name": "GUIDED RESEARCH",
@@ -2570,54 +2414,6 @@
     "credits": 4,
     "ects": 12,
     "instructor": "PINAR ÖZBAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BM699.11": {
-    "code": "BM 699.11",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "DUYGU EGE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BM699.13": {
-    "code": "BM 699.13",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "DANIELA SCHULZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BM699.14": {
-    "code": "BM 699.14",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "BANU İYİSAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BM699.15": {
-    "code": "BM 699.15",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 12,
-    "instructor": "MUSTAFA KEMAL RUHİ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -3092,126 +2888,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "BIS591.07": {
-    "code": "BIS 591.07",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "NAZIM ZİYA PERDAHÇI",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "T",
-      "T",
-      "W"
-    ],
-    "hours": [
-      9,
-      10,
-      9,
-      10,
-      9
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS591.08": {
-    "code": "BIS 591.08",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "SONA MARDİKYAN",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "T",
-      "T",
-      "W"
-    ],
-    "hours": [
-      9,
-      10,
-      9,
-      10,
-      9
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS591.09": {
-    "code": "BIS 591.09",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "BİLGİN METİN",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "T",
-      "T",
-      "W"
-    ],
-    "hours": [
-      9,
-      10,
-      9,
-      10,
-      9
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS591.11": {
-    "code": "BIS 591.11",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "MELTEM ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "T",
-      "T",
-      "W"
-    ],
-    "hours": [
-      9,
-      10,
-      9,
-      10,
-      9
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "BIS591.12": {
     "code": "BIS 591.12",
     "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS I",
@@ -3262,126 +2938,6 @@
       9,
       10,
       9
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS592.01": {
-    "code": "BIS 592.01",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "BERTAN YILMAZ BADUR",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS592.04": {
-    "code": "BIS 592.04",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "MEHMET NAFİZ AYDIN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS592.05": {
-    "code": "BIS 592.05",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "ASLI SENCER",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS592.06": {
-    "code": "BIS 592.06",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "HANDE TÜRKER",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
     ],
     "rooms": [
       "",
@@ -3482,144 +3038,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "BIS592.11": {
-    "code": "BIS 592.11",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "MELTEM ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS592.12": {
-    "code": "BIS 592.12",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "ASLIHAN NASIR",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS592.15": {
-    "code": "BIS 592.15",
-    "name": "DIRECTED READING IN BUSINESS INFOrMATION SYSTEMS II",
-    "credits": 2,
-    "ects": 6,
-    "instructor": "AYSUN BOZANTA HAKYEMEZ",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "Th",
-      "Th",
-      "F",
-      "F"
-    ],
-    "hours": [
-      10,
-      9,
-      10,
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS594.01": {
-    "code": "BIS 594.01",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "BERTAN YILMAZ BADUR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIS594.04": {
-    "code": "BIS 594.04",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "MEHMET NAFİZ AYDIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIS594.05": {
-    "code": "BIS 594.05",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "ASLI SENCER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIS594.06": {
-    "code": "BIS 594.06",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "HANDE TÜRKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIS594.07": {
     "code": "BIS 594.07",
     "name": "PROJECT",
@@ -3656,30 +3074,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BIS594.11": {
-    "code": "BIS 594.11",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "MELTEM ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIS594.12": {
-    "code": "BIS 594.12",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "ASLIHAN NASIR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIS595.01": {
     "code": "BIS 595.01",
     "name": "GUIDED RESEARCH IN BUSIN.INFOR.SYSTEMS",
@@ -3703,24 +3097,6 @@
       "",
       "",
       "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "BIS579.01": {
-    "code": "BIS 579.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "AYSUN BOZANTA HAKYEMEZ",
-    "sessionType": "lecture",
-    "days": [
-      "Th"
-    ],
-    "hours": [
-      11
-    ],
-    "rooms": [
       ""
     ],
     "semester": "2026/2027-1"
@@ -4319,18 +3695,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CHE470.10": {
-    "code": "CHE 470.10",
-    "name": "RESEARCH PROJECT IN CHEMICAL ENGINEERING I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "UĞUR AKMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHE470.11": {
     "code": "CHE 470.11",
     "name": "RESEARCH PROJECT IN CHEMICAL ENGINEERING I",
@@ -4412,18 +3776,6 @@
     "credits": 4,
     "ects": 8,
     "instructor": "HİLAL TAYMAZ NİKEREL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHE510.01": {
-    "code": "CHE 510.01",
-    "name": "BIOMOLECULAR MACHINES: DYNAMICS, ALLOSTERY, FUNCTION, AND DESIGN",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "TÜRKAN HALİLOĞLU",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -4545,18 +3897,6 @@
     "rooms": [
       "KB 432"
     ],
-    "semester": "2026/2027-1"
-  },
-  "CHE581.01": {
-    "code": "CHE 581.01",
-    "name": "SPECIAL TOPICS SUPERCAPACITOR TECHNOLOGIES",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "MÜSLÜM DEMİR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "CHE591.01": {
@@ -8936,174 +8276,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CSE552.01": {
-    "code": "CSE 552.01",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "MUSTAFA NECATİ ARAS",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.02": {
-    "code": "CSE 552.02",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "BURAK ALAKENT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.03": {
-    "code": "CSE 552.03",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "KUTLU ÜLGEN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.04": {
-    "code": "CSE 552.04",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "MUSTAFA GÖKÇE BAYDOĞAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.05": {
-    "code": "CSE 552.05",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "ŞEBNEM ÖZÜPEK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.06": {
-    "code": "CSE 552.06",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "OSMAN SAFA ÇİFÇİ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.07": {
-    "code": "CSE 552.07",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "FATMA NAZLI DÖNMEZER AKGÜN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.08": {
-    "code": "CSE 552.08",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "ARKADAŞ İNAN ÖZAKIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.09": {
-    "code": "CSE 552.09",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "PINAR ÖZBAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.10": {
-    "code": "CSE 552.10",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "AYSUN BOZANTA HAKYEMEZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.11": {
-    "code": "CSE 552.11",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "ÜMİT IŞLAK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.12": {
-    "code": "CSE 552.12",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "CAN ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.13": {
-    "code": "CSE 552.13",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "BERTAN YILMAZ BADUR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE552.14": {
-    "code": "CSE 552.14",
-    "name": "COMPUTATIONAL PROJECT",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "SEYFULLAH ENES KOTİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CSE578.01": {
     "code": "CSE 578.01",
     "name": "SEMINAR",
@@ -9134,18 +8306,6 @@
     "credits": 3,
     "ects": 8,
     "instructor": "MUSTAFA TUFAN TURP",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CSE593.01": {
-    "code": "CSE 593.01",
-    "name": "SPECIAL TOPICS IMPACT MODELING PROCESSES FOR CLIMATE SCIENCE",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "NAZAN AN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -9846,18 +9006,6 @@
       "ET B511",
       "ET B511"
     ],
-    "semester": "2026/2027-1"
-  },
-  "CET451.05": {
-    "code": "CET 451.05",
-    "name": "TEACHING PRACTICE I",
-    "credits": 4,
-    "ects": 6,
-    "instructor": "YAVUZ AKPINAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "CET48B.01": {
@@ -11156,29 +10304,8 @@
     ],
     "semester": "2026/2027-1"
   },
-  "CMPE599.01": {
-    "code": "CMPE 599.01",
-    "name": "GUIDED RESEARCH IN MS-I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ARDA YURDAKUL",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE599.01 LAB 1": {
-    "code": "CMPE 599.01",
+  "CMPE593.01 LAB 1": {
+    "code": "CMPE 593.01",
     "name": "LAB",
     "credits": null,
     "ects": null,
@@ -11525,29 +10652,8 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CMPE599.12": {
-    "code": "CMPE 599.12",
-    "name": "GUIDED RESEARCH IN MS-I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ŞEFİK ŞUAYB ARSLAN",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE599.12 LAB 1": {
-    "code": "CMPE 599.12",
+  "CMPE599.10 LAB 2": {
+    "code": "CMPE 599.10",
     "name": "LAB",
     "credits": null,
     "ects": null,
@@ -11879,29 +10985,8 @@
     ],
     "semester": "2026/2027-1"
   },
-  "CMPE59A.12": {
-    "code": "CMPE 59A.12",
-    "name": "GUIDED RESEARCH IN MS-II",
-    "credits": 0,
-    "ects": 10,
-    "instructor": "ŞEFİK ŞUAYB ARSLAN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W"
-    ],
-    "hours": [
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE59A.12 LAB 1": {
-    "code": "CMPE 59A.12",
+  "CMPE59A.10 LAB 1": {
+    "code": "CMPE 59A.10",
     "name": "LAB",
     "credits": null,
     "ects": null,
@@ -11927,29 +11012,8 @@
     ],
     "semester": "2026/2027-1"
   },
-  "CMPE59A.13": {
-    "code": "CMPE 59A.13",
-    "name": "GUIDED RESEARCH IN MS-II",
-    "credits": 0,
-    "ects": 10,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE59A.13 LAB 1": {
-    "code": "CMPE 59A.13",
+  "CMPE59A.10 LAB 2": {
+    "code": "CMPE 59A.10",
     "name": "LAB",
     "credits": null,
     "ects": null,
@@ -12215,102 +11279,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CMPE699.02": {
-    "code": "CMPE 699.02",
-    "name": "GUIDED RESEARCH IN PhD I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "FATİH ALAGÖZ",
-    "sessionType": "lecture",
-    "days": [
-      "F",
-      "F"
-    ],
-    "hours": [
-      4,
-      5
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE699.02 LAB 1": {
-    "code": "CMPE 699.02",
-    "name": "LAB",
-    "credits": null,
-    "ects": null,
-    "instructor": "FATİH ALAGÖZ",
-    "sessionType": "lab",
-    "days": [
-      "M",
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE699.04": {
-    "code": "CMPE 699.04",
-    "name": "GUIDED RESEARCH IN PhD I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "TUNGA GÜNGÖR",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE699.04 LAB 1": {
-    "code": "CMPE 699.04",
-    "name": "LAB",
-    "credits": null,
-    "ects": null,
-    "instructor": "TUNGA GÜNGÖR",
-    "sessionType": "lab",
-    "days": [
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
   "CMPE699.08": {
     "code": "CMPE 699.08",
     "name": "GUIDED RESEARCH IN PhD I",
@@ -12354,54 +11322,6 @@
       8
     ],
     "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE699.13": {
-    "code": "CMPE 699.13",
-    "name": "GUIDED RESEARCH IN PhD I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lecture",
-    "days": [
-      "M",
-      "M"
-    ],
-    "hours": [
-      6,
-      7
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE699.13 LAB 1": {
-    "code": "CMPE 699.13",
-    "name": "LAB",
-    "credits": null,
-    "ects": null,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lab",
-    "days": [
-      "M",
-      "M",
-      "M",
-      "M"
-    ],
-    "hours": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "rooms": [
-      "",
-      "",
       "",
       ""
     ],
@@ -12498,27 +11418,6 @@
     "rooms": [
       "",
       "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "CMPE69A.13": {
-    "code": "CMPE 69A.13",
-    "name": "GUIDED RESEARCH IN PhD II",
-    "credits": 0,
-    "ects": 10,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
       "",
       ""
     ],
@@ -13535,174 +12434,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "DSAI599.01": {
-    "code": "DSAI 599.01",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "HÜSEYİN OKTAY ALTUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.02": {
-    "code": "DSAI 599.02",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.03": {
-    "code": "DSAI 599.03",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞENER ÖZÖNDER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.04": {
-    "code": "DSAI 599.04",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ERCAN ATAM",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.05": {
-    "code": "DSAI 599.05",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.06": {
-    "code": "DSAI 599.06",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ADNAN JAFAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.07": {
-    "code": "DSAI 599.07",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "FEDERİCO GERMANI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.08": {
-    "code": "DSAI 599.08",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞEFİK ŞUAYB ARSLAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.09": {
-    "code": "DSAI 599.09",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.10": {
-    "code": "DSAI 599.10",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MUSTAFA METİN BAŞBAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.11": {
-    "code": "DSAI 599.11",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "EBUBEKİR KOÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.12": {
-    "code": "DSAI 599.12",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "BAŞAK TARAKTAŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.13": {
-    "code": "DSAI 599.13",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "VEYSEL YILDIZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI599.14": {
-    "code": "DSAI 599.14",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MUHAMMED GÖLEÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "DSAI642.01": {
     "code": "DSAI 642.01",
     "name": "ADVANCED REINFORCEMENT LEARNING",
@@ -13951,219 +12682,6 @@
     "name": "M.S. THESIS",
     "credits": 0,
     "ects": 60,
-    "instructor": "MUHAMMED GÖLEÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI691.01": {
-    "code": "DSAI 691.01",
-    "name": "DIRECTED STUDIES I",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lecture",
-    "days": [
-      "W",
-      "W",
-      "W"
-    ],
-    "hours": [
-      5,
-      6,
-      7
-    ],
-    "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "DSAI691.01 P.S. 1": {
-    "code": "DSAI 691.01",
-    "name": "P.S.",
-    "credits": null,
-    "ects": null,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "ps",
-    "days": [
-      "W",
-      "W"
-    ],
-    "hours": [
-      8,
-      9
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.01": {
-    "code": "DSAI 699.01",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "HÜSEYİN OKTAY ALTUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.02": {
-    "code": "DSAI 699.02",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞAZİYE BETÜL ÖZATEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.03": {
-    "code": "DSAI 699.03",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞENER ÖZÖNDER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.04": {
-    "code": "DSAI 699.04",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ERCAN ATAM",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.05": {
-    "code": "DSAI 699.05",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MUSTAFA TAHA KOÇYİĞİT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.06": {
-    "code": "DSAI 699.06",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ADNAN JAFAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.07": {
-    "code": "DSAI 699.07",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "FEDERİCO GERMANI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.08": {
-    "code": "DSAI 699.08",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞEFİK ŞUAYB ARSLAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.09": {
-    "code": "DSAI 699.09",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MEHMET TURAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.10": {
-    "code": "DSAI 699.10",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MUSTAFA METİN BAŞBAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.11": {
-    "code": "DSAI 699.11",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "EBUBEKİR KOÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.12": {
-    "code": "DSAI 699.12",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "BAŞAK TARAKTAŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.13": {
-    "code": "DSAI 699.13",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "VEYSEL YILDIZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "DSAI699.14": {
-    "code": "DSAI 699.14",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
     "instructor": "MUHAMMED GÖLEÇ",
     "sessionType": "lecture",
     "days": [],
@@ -15792,18 +14310,6 @@
       "HH 120",
       "HH 120"
     ],
-    "semester": "2026/2027-1"
-  },
-  "EC579.01": {
-    "code": "EC 579.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 5,
-    "instructor": "ORHAN AYGÜN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "EC603.01": {
@@ -18809,156 +17315,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "EE699.01": {
-    "code": "EE 699.01",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BURAK ACAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.02": {
-    "code": "EE 699.02",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "MEHMET AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.03": {
-    "code": "EE 699.03",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "EMİN ANARIM",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.04": {
-    "code": "EE 699.04",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "İSMAİL FAİK BAŞKAYA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "EE699.05": {
     "code": "EE 699.05",
     "name": "GUIDED RESEARCH",
     "credits": 4,
     "ects": 10,
     "instructor": "IŞIL BOZMA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.06": {
-    "code": "EE 699.06",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "KEMAL CILIZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.07": {
-    "code": "EE 699.07",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "OĞUZHAN ÇİÇEKOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.08": {
-    "code": "EE 699.08",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "GÜNHAN DÜNDAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.09": {
-    "code": "EE 699.09",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "YASEMİN KAHYA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.10": {
-    "code": "EE 699.10",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "MUTLU KOCA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.11": {
-    "code": "EE 699.11",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "SEMA DUMANLI OKTAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.12": {
-    "code": "EE 699.12",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "AHMET ÖNCÜ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.13": {
-    "code": "EE 699.13",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "İBRAHİM ALPAY ÖZCAN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -18983,42 +17345,6 @@
     "credits": 4,
     "ects": 10,
     "instructor": "MURAT SARAÇLAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.16": {
-    "code": "EE 699.16",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "AHMET TEKİN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.17": {
-    "code": "EE 699.17",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ARDA YALÇINKAYA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "EE699.18": {
-    "code": "EE 699.18",
-    "name": "GUIDED RESEARCH",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "HEBA MOHAMED YÜKSEL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -20195,18 +18521,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "ESC528.01": {
-    "code": "ESC 528.01",
-    "name": "DRINKING WATER DISINFECTION",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "CEYDA SENEM UYGUNER DEMİREL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ESC539.01": {
     "code": "ESC 539.01",
     "name": "ENVIRONMENTAL GOVERNANCE",
@@ -20439,30 +18753,6 @@
       "HC 214",
       "HC 214"
     ],
-    "semester": "2026/2027-1"
-  },
-  "ESC651.01": {
-    "code": "ESC 651.01",
-    "name": "ENVIRONMENTAL TOXICOLOGY",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "MELEK TÜRKER SAÇAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ESC653.01": {
-    "code": "ESC 653.01",
-    "name": "CHEMISTRY OF THE ATMOSPHERE",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "FATMA ÖZTÜRK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ESC690.02": {
@@ -21239,18 +19529,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ADEX503.03": {
-    "code": "ADEX 503.03",
-    "name": "CORPORATE FINANCE I",
-    "credits": 2,
-    "ects": 3,
-    "instructor": "NESLİHAN N.YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ADEX522.01": {
     "code": "ADEX 522.01",
     "name": "MARKETING MANAGEMENT",
@@ -21419,138 +19697,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ADEX592.01": {
-    "code": "ADEX 592.01",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "VEDAT AKGİRAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.02": {
-    "code": "ADEX 592.02",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "ULAŞ AKKÜÇÜK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.04": {
-    "code": "ADEX 592.04",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "BELGİN ARISAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.07": {
-    "code": "ADEX 592.07",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "ASUNUR CEZAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.08": {
-    "code": "ADEX 592.08",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "ALİ COŞKUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.09": {
-    "code": "ADEX 592.09",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "METİN ERCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.10": {
-    "code": "ADEX 592.10",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "YAVUZ ACAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.11": {
-    "code": "ADEX 592.11",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "ÖZLEM ÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.14": {
-    "code": "ADEX 592.14",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "CENK CEVAT KARAHAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.17": {
-    "code": "ADEX 592.17",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "NESRİN OKAY AKMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.18": {
-    "code": "ADEX 592.18",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "ÖZGÜN BURCU RODOPMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ADEX592.21": {
     "code": "ADEX 592.21",
     "name": "DIRECTED READINGS I",
@@ -21563,240 +19709,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ADEX592.22": {
-    "code": "ADEX 592.22",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "ALPEREN MANİSALIGİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.23": {
-    "code": "ADEX 592.23",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "MEHMET ARTEMEL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.24": {
-    "code": "ADEX 592.24",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "SERDAR SALİH DURMUŞOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX592.25": {
-    "code": "ADEX 592.25",
-    "name": "DIRECTED READINGS I",
-    "credits": 1,
-    "ects": 3,
-    "instructor": "EZGİ ERKMEN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.01": {
-    "code": "ADEX 596.01",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "VEDAT AKGİRAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.02": {
-    "code": "ADEX 596.02",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "ULAŞ AKKÜÇÜK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.04": {
-    "code": "ADEX 596.04",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "BELGİN ARISAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.07": {
-    "code": "ADEX 596.07",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "ASUNUR CEZAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.08": {
-    "code": "ADEX 596.08",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "ALİ COŞKUN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.09": {
-    "code": "ADEX 596.09",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "METİN ERCAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.10": {
-    "code": "ADEX 596.10",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "YAVUZ ACAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.11": {
-    "code": "ADEX 596.11",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "ÖZLEM ÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.14": {
-    "code": "ADEX 596.14",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "CENK CEVAT KARAHAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.17": {
-    "code": "ADEX 596.17",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "NESRİN OKAY AKMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.18": {
-    "code": "ADEX 596.18",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "ÖZGÜN BURCU RODOPMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ADEX596.21": {
     "code": "ADEX 596.21",
     "name": "TERM PROJECT I",
     "credits": 0,
     "ects": 3,
     "instructor": "NESLİHAN N.YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.22": {
-    "code": "ADEX 596.22",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "ALPEREN MANİSALIGİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.23": {
-    "code": "ADEX 596.23",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "MEHMET ARTEMEL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.24": {
-    "code": "ADEX 596.24",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "SERDAR SALİH DURMUŞOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ADEX596.25": {
-    "code": "ADEX 596.25",
-    "name": "TERM PROJECT I",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "EZGİ ERKMEN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -28256,30 +26174,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "HIST601.09": {
-    "code": "HIST 601.09",
-    "name": "HISTORY SEMINAR",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "YÜCEL TERZİBAŞOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "HIST601.13": {
-    "code": "HIST 601.13",
-    "name": "HISTORY SEMINAR",
-    "credits": 3,
-    "ects": 7,
-    "instructor": "AHMET ERSOY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "HIST601.14": {
     "code": "HIST 601.14",
     "name": "HISTORY SEMINAR",
@@ -32111,30 +30005,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LAW339.01": {
-    "code": "LAW 339.01",
-    "name": "INTERNET LAW",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "MUHAMMED FURKAN AKINCI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LAW339.01 P.S. 1": {
-    "code": "LAW 339.01",
-    "name": "P.S.",
-    "credits": null,
-    "ects": null,
-    "instructor": "MUHAMMED FURKAN AKINCI",
-    "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LAW341.01": {
     "code": "LAW 341.01",
     "name": "INTELLECTUAL PROPERTY LAW",
@@ -32165,30 +30035,6 @@
     "credits": null,
     "ects": null,
     "instructor": "ÖZGÜR ARIKAN",
-    "sessionType": "ps",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LAW343.01": {
-    "code": "LAW 343.01",
-    "name": "CYBER CRIMES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "MUSTAFA AKGÜN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LAW343.01 P.S. 1": {
-    "code": "LAW 343.01",
-    "name": "P.S.",
-    "credits": null,
-    "ects": null,
-    "instructor": "MUSTAFA AKGÜN",
     "sessionType": "ps",
     "days": [],
     "hours": [],
@@ -33131,48 +30977,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LING412.06": {
-    "code": "LING 412.06",
-    "name": "RESEARCH & WRITING",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "KADİR GÖKGÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING412.07": {
-    "code": "LING 412.07",
-    "name": "RESEARCH & WRITING",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "ELENA GUERZONI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LING412.08": {
     "code": "LING 412.08",
     "name": "RESEARCH & WRITING",
     "credits": 4,
     "ects": 8,
     "instructor": "MİNE NAKİPOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING412.09": {
-    "code": "LING 412.09",
-    "name": "RESEARCH & WRITING",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "BALKIZ ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -33201,18 +31011,6 @@
       "TB 240",
       "TB 240"
     ],
-    "semester": "2026/2027-1"
-  },
-  "LING450.01": {
-    "code": "LING 450.01",
-    "name": "ADVENCED SEMANTICS",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ELENA GUERZONI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "LING487.01": {
@@ -33353,72 +31151,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LING570.01": {
-    "code": "LING 570.01",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "DİDAR AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING570.02": {
-    "code": "LING 570.02",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "METİN BAĞRIAÇIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING570.03": {
-    "code": "LING 570.03",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "STEFANO CANALIS",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LING570.04": {
     "code": "LING 570.04",
     "name": "GUIDED STUDIES",
     "credits": 3,
     "ects": 5,
     "instructor": "ÖMER DEMİROK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING570.05": {
-    "code": "LING 570.05",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "KADİR GÖKGÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING570.06": {
-    "code": "LING 570.06",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "ÜMİT ATLAMAZ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -33437,60 +31175,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LING570.08": {
-    "code": "LING 570.08",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "MİNE NAKİPOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING570.09": {
-    "code": "LING 570.09",
-    "name": "GUIDED STUDIES",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "BALKIZ ÖZTÜRK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING571.01": {
-    "code": "LING 571.01",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "DİDAR AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LING571.02": {
     "code": "LING 571.02",
     "name": "READINGS IN LINGUISTICS I",
     "credits": 1,
     "ects": 5,
     "instructor": "METİN BAĞRIAÇIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING571.03": {
-    "code": "LING 571.03",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "STEFANO CANALIS",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -33509,84 +31199,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LING571.05": {
-    "code": "LING 571.05",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "KADİR GÖKGÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LING571.06": {
     "code": "LING 571.06",
     "name": "READINGS IN LINGUISTICS I",
     "credits": 1,
     "ects": 5,
     "instructor": "ÜMİT ATLAMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING571.07": {
-    "code": "LING 571.07",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "ELENA GUERZONI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING571.08": {
-    "code": "LING 571.08",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "MİNE NAKİPOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING571.09": {
-    "code": "LING 571.09",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "BALKIZ ÖZTÜRK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING572.01": {
-    "code": "LING 572.01",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "DİDAR AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING572.02": {
-    "code": "LING 572.02",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "METİN BAĞRIAÇIK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -33605,72 +31223,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LING572.04": {
-    "code": "LING 572.04",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "ÖMER DEMİROK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING572.05": {
-    "code": "LING 572.05",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "KADİR GÖKGÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LING572.06": {
     "code": "LING 572.06",
     "name": "READINGS IN LINGUISTICS II",
     "credits": 1,
     "ects": 5,
     "instructor": "ÜMİT ATLAMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING572.07": {
-    "code": "LING 572.07",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "ELENA GUERZONI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING572.08": {
-    "code": "LING 572.08",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "MİNE NAKİPOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING572.09": {
-    "code": "LING 572.09",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "BALKIZ ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -33761,216 +31319,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "LING671.01": {
-    "code": "LING 671.01",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "DİDAR AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.02": {
-    "code": "LING 671.02",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "METİN BAĞRIAÇIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.03": {
-    "code": "LING 671.03",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "STEFANO CANALIS",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.04": {
-    "code": "LING 671.04",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ÖMER DEMİROK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.05": {
-    "code": "LING 671.05",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "KADİR GÖKGÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.06": {
-    "code": "LING 671.06",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ÜMİT ATLAMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.07": {
-    "code": "LING 671.07",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ELENA GUERZONI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.08": {
-    "code": "LING 671.08",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "MİNE NAKİPOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING671.09": {
-    "code": "LING 671.09",
-    "name": "READINGS IN LINGUISTICS I",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BALKIZ ÖZTÜRK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.01": {
-    "code": "LING 672.01",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "DİDAR AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.02": {
-    "code": "LING 672.02",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "METİN BAĞRIAÇIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.03": {
-    "code": "LING 672.03",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "STEFANO CANALIS",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.04": {
-    "code": "LING 672.04",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ÖMER DEMİROK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.05": {
-    "code": "LING 672.05",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "KADİR GÖKGÖZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.06": {
-    "code": "LING 672.06",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "ÜMİT ATLAMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "LING672.07": {
     "code": "LING 672.07",
     "name": "READINGS IN LINGUISTICS II",
     "credits": 4,
     "ects": 10,
     "instructor": "ELENA GUERZONI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.08": {
-    "code": "LING 672.08",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "MİNE NAKİPOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "LING672.09": {
-    "code": "LING 672.09",
-    "name": "READINGS IN LINGUISTICS II",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BALKIZ ÖZTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -35945,18 +33299,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "AD692.01": {
-    "code": "AD 692.01",
-    "name": "DIRECTED READINGS IN MARKETING THEORY",
-    "credits": 4,
-    "ects": 30,
-    "instructor": "SERDAR SALİH DURMUŞOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "AD696.01": {
     "code": "AD 696.01",
     "name": "RESEARCH SEMINAR I",
@@ -36869,18 +34211,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "MIS492.01": {
-    "code": "MIS 492.01",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "BERTAN YILMAZ BADUR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "MIS492.02": {
     "code": "MIS 492.02",
     "name": "PROJECT",
@@ -36893,120 +34223,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "MIS492.04": {
-    "code": "MIS 492.04",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "NAZIM ZİYA PERDAHÇI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.06": {
-    "code": "MIS 492.06",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "HANDE TÜRKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.07": {
-    "code": "MIS 492.07",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "SONA MARDİKYAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.08": {
-    "code": "MIS 492.08",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "BİLGİN METİN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.09": {
-    "code": "MIS 492.09",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "ASLIHAN NASIR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "MIS492.10": {
     "code": "MIS 492.10",
     "name": "PROJECT",
     "credits": 4,
     "ects": 8,
     "instructor": "AYSUN BOZANTA HAKYEMEZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.11": {
-    "code": "MIS 492.11",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "MELTEM ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.12": {
-    "code": "MIS 492.12",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "ASLI SENCER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.14": {
-    "code": "MIS 492.14",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "FAHRETTİN F. ÇAKIR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS492.15": {
-    "code": "MIS 492.15",
-    "name": "PROJECT",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "MEHMET NAFİZ AYDIN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37175,18 +34397,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "MIS577.01": {
-    "code": "MIS 577.01",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "BERTAN YILMAZ BADUR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "MIS577.02": {
     "code": "MIS 577.02",
     "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
@@ -37205,18 +34415,6 @@
     "credits": 0,
     "ects": 6,
     "instructor": "NAZIM ZİYA PERDAHÇI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS577.06": {
-    "code": "MIS 577.06",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "HANDE TÜRKER",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37247,18 +34445,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "MIS577.09": {
-    "code": "MIS 577.09",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "ASLIHAN NASIR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "MIS577.10": {
     "code": "MIS 577.10",
     "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
@@ -37277,18 +34463,6 @@
     "credits": 0,
     "ects": 6,
     "instructor": "ASLI SENCER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS577.14": {
-    "code": "MIS 577.14",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "FAHRETTİN F. ÇAKIR",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -37384,126 +34558,6 @@
       "HH 208-SEM2",
       "HH 208-SEM2"
     ],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.01": {
-    "code": "MIS 678.01",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "BERTAN YILMAZ BADUR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.02": {
-    "code": "MIS 678.02",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "MEHMET NAFİZ AYDIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.04": {
-    "code": "MIS 678.04",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "NAZIM ZİYA PERDAHÇI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.06": {
-    "code": "MIS 678.06",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "HANDE TÜRKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.07": {
-    "code": "MIS 678.07",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "SONA MARDİKYAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.08": {
-    "code": "MIS 678.08",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "BİLGİN METİN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.09": {
-    "code": "MIS 678.09",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "ASLIHAN NASIR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.10": {
-    "code": "MIS 678.10",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "AYSUN BOZANTA HAKYEMEZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.12": {
-    "code": "MIS 678.12",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "ASLI SENCER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "MIS678.14": {
-    "code": "MIS 678.14",
-    "name": "DIRECTED READINGS IN MANAGEMENT INFORMATION SYSTEMS",
-    "credits": 0,
-    "ects": 6,
-    "instructor": "FAHRETTİN F. ÇAKIR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "MIS683.01": {
@@ -39570,18 +36624,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "SCED364.01": {
-    "code": "SCED 364.01",
-    "name": "PRE-CALCULUS FOR SECONDARY SCHOOL TEACHING",
-    "credits": 4,
-    "ects": 6,
-    "instructor": "GÜLSEREN KARAGÖZ AKAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "SCED370.01": {
     "code": "SCED 370.01",
     "name": "MEASUREMENT AND ASSESSMENT IN MATHEMATICS AND SCIENCE EDUCATION",
@@ -40222,18 +37264,6 @@
       "ET B415",
       "ET B415"
     ],
-    "semester": "2026/2027-1"
-  },
-  "SCED474.01": {
-    "code": "SCED 474.01",
-    "name": "CURRICULUM PROJECT IN SCIENCE/MATHEMATICS EDUCATION",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "DEVRİM GÜVEN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "SCED48D.01": {
@@ -41394,18 +38424,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "ME483.01": {
-    "code": "ME 483.01",
-    "name": "SPECIAL TOPICS PRODUCT DESIGN AND DEVELOPMENT",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "SABRİ ALTINTAŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ME48B.01": {
     "code": "ME 48B.01",
     "name": "SPECIAL TOPICS INTRODUCTION TO MOBILE ROBOTICS",
@@ -41658,96 +38676,12 @@
     ],
     "semester": "2026/2027-1"
   },
-  "ME599.01": {
-    "code": "ME 599.01",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "SERTAN ALKAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.02": {
-    "code": "ME 599.02",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "GÜNAY ANLAŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.03": {
-    "code": "ME 599.03",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ASGHAR ARYANFAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.04": {
-    "code": "ME 599.04",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "KUNT ATALIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.05": {
-    "code": "ME 599.05",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "CAHİT CAN AYDINER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.06": {
-    "code": "ME 599.06",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "HASAN BEDİR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ME599.07": {
     "code": "ME 599.07",
     "name": "GUIDED RESEARCH",
     "credits": 0,
     "ects": 8,
     "instructor": "MURAT ÇELİK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.08": {
-    "code": "ME 599.08",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "OSMAN SAFA ÇİFÇİ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -41766,108 +38700,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ME599.10": {
-    "code": "ME 599.10",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "FATMA NAZLI DÖNMEZER AKGÜN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.11": {
-    "code": "ME 599.11",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ALİ ECDER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.12": {
-    "code": "ME 599.12",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "NURİ BÜLENT ERSOY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.14": {
-    "code": "ME 599.14",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "MEHMET ZAHİD HAMARAT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.15": {
-    "code": "ME 599.15",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "SİNAN ÖNCÜ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.17": {
-    "code": "ME 599.17",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞEBNEM ÖZÜPEK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.19": {
-    "code": "ME 599.19",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "FAZIL ÖNDER SÖNMEZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ME599.20": {
     "code": "ME 599.20",
     "name": "GUIDED RESEARCH",
     "credits": 0,
     "ects": 8,
     "instructor": "KAŞİF TEKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME599.21": {
-    "code": "ME 599.21",
-    "name": "GUIDED RESEARCH",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ÇETİN YILMAZ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -41920,18 +38758,6 @@
       "VYKM6",
       "VYKM6"
     ],
-    "semester": "2026/2027-1"
-  },
-  "ME654.01": {
-    "code": "ME 654.01",
-    "name": "GAS DYNAMICS",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "EKREM EKİCİ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "ME690.01": {
@@ -42150,162 +38976,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ME699.01": {
-    "code": "ME 699.01",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "SERTAN ALKAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.02": {
-    "code": "ME 699.02",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "GÜNAY ANLAŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.03": {
-    "code": "ME 699.03",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "ASGHAR ARYANFAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.04": {
-    "code": "ME 699.04",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "KUNT ATALIK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.05": {
-    "code": "ME 699.05",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "CAHİT CAN AYDINER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.06": {
-    "code": "ME 699.06",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "HASAN BEDİR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.07": {
-    "code": "ME 699.07",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "MURAT ÇELİK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.08": {
-    "code": "ME 699.08",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "OSMAN SAFA ÇİFÇİ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.09": {
-    "code": "ME 699.09",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "KERİM CAN DANSUK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.10": {
-    "code": "ME 699.10",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "FATMA NAZLI DÖNMEZER AKGÜN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.11": {
-    "code": "ME 699.11",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "ALİ ECDER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.12": {
-    "code": "ME 699.12",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "NURİ BÜLENT ERSOY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.14": {
-    "code": "ME 699.14",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "MEHMET ZAHİD HAMARAT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ME699.15": {
     "code": "ME 699.15",
     "name": "GUIDED RESEARCH I",
@@ -42318,60 +38988,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "ME699.17": {
-    "code": "ME 699.17",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "ŞEBNEM ÖZÜPEK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.19": {
-    "code": "ME 699.19",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "FAZIL ÖNDER SÖNMEZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME699.20": {
-    "code": "ME 699.20",
-    "name": "GUIDED RESEARCH I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "KAŞİF TEKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "ME699.21": {
     "code": "ME 699.21",
     "name": "GUIDED RESEARCH I",
     "credits": 4,
     "ects": 8,
     "instructor": "ÇETİN YILMAZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "ME69A.01": {
-    "code": "ME 69A.01",
-    "name": "GUIDED RESEARCH II",
-    "credits": 0,
-    "ects": 8,
-    "instructor": "ŞEBNEM ÖZÜPEK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -43515,84 +40137,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BIO491.07": {
-    "code": "BIO 491.07",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "OĞUZHAN KALYON",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO491.08": {
-    "code": "BIO 491.08",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "EMİNE KAZANÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO491.09": {
-    "code": "BIO 491.09",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ERHAN KELEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO491.10": {
-    "code": "BIO 491.10",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "SEYFULLAH ENES KOTİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIO491.11": {
     "code": "BIO 491.11",
     "name": "SPECIAL PROJECTS I",
     "credits": 3,
     "ects": 6,
     "instructor": "İBRAHİM ÇAĞRI KURT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO491.12": {
-    "code": "BIO 491.12",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "KORAY MALCI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO491.13": {
-    "code": "BIO 491.13",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "MOHAMMAD HAROON QURESHI",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -43611,48 +40161,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BIO491.15": {
-    "code": "BIO 491.15",
-    "name": "SPECIAL PROJECTS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "FATİH YANAR",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.01": {
-    "code": "BIO 500.01",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "NECLA BİRGÜL İYİSON",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIO500.02": {
     "code": "BIO 500.02",
     "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
     "credits": 3,
     "ects": 14,
     "instructor": "ARZU ÇELİK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.03": {
-    "code": "BIO 500.03",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "N.C.TOLGA EMRE",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -43671,48 +40185,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BIO500.05": {
-    "code": "BIO 500.05",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "STEVEN FOOTITT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.06": {
-    "code": "BIO 500.06",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "OĞUZHAN KALYON",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIO500.07": {
     "code": "BIO 500.07",
     "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
     "credits": 3,
     "ects": 14,
     "instructor": "EMİNE KAZANÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.08": {
-    "code": "BIO 500.08",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "ERHAN KELEŞ",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -43731,60 +40209,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "BIO500.10": {
-    "code": "BIO 500.10",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "İBRAHİM ÇAĞRI KURT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.11": {
-    "code": "BIO 500.11",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "KORAY MALCI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.12": {
-    "code": "BIO 500.12",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "MOHAMMAD HAROON QURESHI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIO500.13": {
     "code": "BIO 500.13",
     "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
     "credits": 3,
     "ects": 14,
     "instructor": "İBRAHİM YAMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO500.14": {
-    "code": "BIO 500.14",
-    "name": "MODERN TECHNOLOGY IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 14,
-    "instructor": "FATİH YANAR",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -43857,72 +40287,12 @@
     ],
     "semester": "2026/2027-1"
   },
-  "BIO601.01": {
-    "code": "BIO 601.01",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "NECLA BİRGÜL İYİSON",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.02": {
-    "code": "BIO 601.02",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "ARZU ÇELİK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.03": {
-    "code": "BIO 601.03",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "N.C.TOLGA EMRE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "BIO601.04": {
     "code": "BIO 601.04",
     "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
     "credits": 3,
     "ects": 16,
     "instructor": "NESRİN ÖZÖREN ERKOL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.05": {
-    "code": "BIO 601.05",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "STEVEN FOOTITT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.06": {
-    "code": "BIO 601.06",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "OĞUZHAN KALYON",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -43947,78 +40317,6 @@
     "credits": 3,
     "ects": 16,
     "instructor": "ERHAN KELEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.09": {
-    "code": "BIO 601.09",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "SEYFULLAH ENES KOTİL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.10": {
-    "code": "BIO 601.10",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "İBRAHİM ÇAĞRI KURT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.11": {
-    "code": "BIO 601.11",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "KORAY MALCI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.12": {
-    "code": "BIO 601.12",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "MOHAMMAD HAROON QURESHI",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.13": {
-    "code": "BIO 601.13",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "İBRAHİM YAMAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "BIO601.14": {
-    "code": "BIO 601.14",
-    "name": "ADVANCED TECHNIQUES IN MOLECULAR BIOLOGY",
-    "credits": 3,
-    "ects": 16,
-    "instructor": "FATİH YANAR",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -44610,42 +40908,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PHIL499.02": {
-    "code": "PHIL 499.02",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "YASİN RAMAZAN BAŞARAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.03": {
-    "code": "PHIL 499.03",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "BERNA KILINÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.05": {
-    "code": "PHIL 499.05",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "SUN DEMİRLİ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHIL499.06": {
     "code": "PHIL 499.06",
     "name": "INDEPENDENT STUDY",
@@ -44658,72 +40920,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PHIL499.07": {
-    "code": "PHIL 499.07",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "CHRYSSI SIDIROPOULOU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.08": {
-    "code": "PHIL 499.08",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "LUCAS THORPE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.09": {
-    "code": "PHIL 499.09",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.10": {
-    "code": "PHIL 499.10",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "FERHAT TAŞKIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHIL499.11": {
     "code": "PHIL 499.11",
     "name": "INDEPENDENT STUDY",
     "credits": 3,
     "ects": 6,
     "instructor": "BARRY STOCKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL499.12": {
-    "code": "PHIL 499.12",
-    "name": "INDEPENDENT STUDY",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "NEDİM NAMİ NOMER",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -44910,60 +41112,12 @@
     ],
     "semester": "2026/2027-1"
   },
-  "PHIL590.01": {
-    "code": "PHIL 590.01",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "NURBAY IRMAK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHIL590.02": {
     "code": "PHIL 590.02",
     "name": "DIRECTED STUDY",
     "credits": 4,
     "ects": 10,
     "instructor": "YASİN RAMAZAN BAŞARAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.03": {
-    "code": "PHIL 590.03",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BERNA KILINÇ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.05": {
-    "code": "PHIL 590.05",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "SUN DEMİRLİ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.06": {
-    "code": "PHIL 590.06",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BAŞAK ARAY",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -44988,54 +41142,6 @@
     "credits": 4,
     "ects": 10,
     "instructor": "LUCAS THORPE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.09": {
-    "code": "PHIL 590.09",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "SANİYE VATANSEVER ÖZCANGİLLER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.10": {
-    "code": "PHIL 590.10",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "FERHAT TAŞKIN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.11": {
-    "code": "PHIL 590.11",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "BARRY STOCKER",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "PHIL590.12": {
-    "code": "PHIL 590.12",
-    "name": "DIRECTED STUDY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "NEDİM NAMİ NOMER",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -47838,18 +43944,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "PHYS68L.01": {
-    "code": "PHYS 68L.01",
-    "name": "SPECIAL TOPICS IN PHYSICS:ATMOSPHERIC&OCEANIC FLUID",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "MURAT TÜRKEŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "PHYS690.01": {
     "code": "PHYS 690.01",
     "name": "M.S. THESIS",
@@ -48801,60 +44895,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "POLS593.03": {
-    "code": "POLS 593.03",
-    "name": "R.&R.IN COMPARATIVE POLITICS I",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "FIRAT KİMYA",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "POLS598.01": {
-    "code": "POLS 598.01",
-    "name": "R&R IN QUANTITATIVE RESEARCH IN POLITICS SCIENCE II",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "OSMAN ZEKİ GÖKÇE",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "POLS685.01": {
-    "code": "POLS 685.01",
-    "name": "SPECIAL TOPICS RESEARCH&READING IN INTERNATIONAL RESEARCH",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "ŞEYMA EKİZ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "POLS685.02": {
     "code": "POLS 685.02",
     "name": "SPECIAL TOPICS RESEARCH&READING IN INTERNATIONAL RESEARCH",
     "credits": 3,
     "ects": 8,
     "instructor": "ONUR İŞÇİ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "POLS687.02": {
-    "code": "POLS 687.02",
-    "name": "R&R IN COMPARATIVE POLITICS",
-    "credits": 3,
-    "ects": 8,
-    "instructor": "SELÇUK AYDIN",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -48999,18 +45045,6 @@
     "credits": 3,
     "ects": 0,
     "instructor": "BAŞAK TARAKTAŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "POLS700.01": {
-    "code": "POLS 700.01",
-    "name": "GRADUATE SEMINAR",
-    "credits": 0,
-    "ects": 7,
-    "instructor": "MERT ARSLANALP",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -49816,18 +45850,6 @@
       "",
       ""
     ],
-    "semester": "2026/2027-1"
-  },
-  "PSY504.01": {
-    "code": "PSY 504.01",
-    "name": "RESEARCH PROJECT IN PSYCHOLOGY I",
-    "credits": 4,
-    "ects": 8,
-    "instructor": "GÜNEŞ ÜNAL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
     "semester": "2026/2027-1"
   },
   "PSY504.02": {
@@ -51444,18 +47466,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "CAU122.01": {
-    "code": "CAU 122.01",
-    "name": "ELEMENTARY ABKHAZ II",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "GUNDA ANKVAB",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CHIN101.01": {
     "code": "CHIN 101.01",
     "name": "ELEMENTARY CHINESE I",
@@ -51636,18 +47646,6 @@
   "CHIN401.01": {
     "code": "CHIN 401.01",
     "name": "READINGS IN CHINESE CULTURE I",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "QIANWEN ZHOU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CHIN403.01": {
-    "code": "CHIN 403.01",
-    "name": "CLASSICAL CHINESE",
     "credits": 3,
     "ects": 5,
     "instructor": "QIANWEN ZHOU",
@@ -53763,39 +49761,6 @@
       "EF 103",
       "TB 225",
       "TB 225"
-    ],
-    "semester": "2026/2027-1"
-  },
-  "PER202.01": {
-    "code": "PER 202.01",
-    "name": "PERSIAN II",
-    "credits": 3,
-    "ects": 5,
-    "instructor": "ZEYNEP EDEBALİ",
-    "sessionType": "lecture",
-    "days": [
-      "T",
-      "T",
-      "W",
-      "W",
-      "F",
-      "F"
-    ],
-    "hours": [
-      6,
-      7,
-      6,
-      7,
-      6,
-      7
-    ],
-    "rooms": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ],
     "semester": "2026/2027-1"
   },
@@ -56628,84 +52593,12 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "SOC589.01": {
-    "code": "SOC 589.01",
-    "name": "READINGS IN SOCIOLOGY",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "AYŞE POLAT",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SOC589.02": {
-    "code": "SOC 589.02",
-    "name": "READINGS IN SOCIOLOGY",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "BİRAY KOLLUOĞLU",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SOC589.03": {
-    "code": "SOC 589.03",
-    "name": "READINGS IN SOCIOLOGY",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "BÜLENT KÜÇÜK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SOC589.04": {
-    "code": "SOC 589.04",
-    "name": "READINGS IN SOCIOLOGY",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "CEREN ÖZSELÇUK",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "SOC589.05": {
     "code": "SOC 589.05",
     "name": "READINGS IN SOCIOLOGY",
     "credits": 1,
     "ects": 5,
     "instructor": "CEYLAN ENGİN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SOC589.07": {
-    "code": "SOC 589.07",
-    "name": "READINGS IN SOCIOLOGY",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "MERVE KÜTÜK KURİŞ",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "SOC589.08": {
-    "code": "SOC 589.08",
-    "name": "READINGS IN SOCIOLOGY",
-    "credits": 1,
-    "ects": 5,
-    "instructor": "SAYGUN GÖKARIKSEL",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -57054,18 +52947,6 @@
     ],
     "semester": "2026/2027-1"
   },
-  "SWE575.01": {
-    "code": "SWE 575.01",
-    "name": "CASE STUDIES IN SOFTWARE ENGINEERING I",
-    "credits": 1,
-    "ects": 1,
-    "instructor": "STAFF STAFF",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "SWE577.01": {
     "code": "SWE 577.01",
     "name": "DIRECTED STUDIES I",
@@ -57198,27 +53079,6 @@
     "credits": 0,
     "ects": 3,
     "instructor": "CEM ERSOY",
-    "sessionType": "lecture",
-    "days": [
-      "St",
-      "St"
-    ],
-    "hours": [
-      9,
-      10
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "SWE578.04": {
-    "code": "SWE 578.04",
-    "name": "DIRECTED STUDIES II",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "STAFF STAFF",
     "sessionType": "lecture",
     "days": [
       "St",
@@ -57372,27 +53232,6 @@
     "credits": 0,
     "ects": 3,
     "instructor": "CEM ERSOY",
-    "sessionType": "lecture",
-    "days": [
-      "St",
-      "St"
-    ],
-    "hours": [
-      1,
-      2
-    ],
-    "rooms": [
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "SWE599.06": {
-    "code": "SWE 599.06",
-    "name": "PROJECT",
-    "credits": 0,
-    "ects": 3,
-    "instructor": "STAFF STAFF",
     "sessionType": "lecture",
     "days": [
       "St",
@@ -58923,18 +54762,6 @@
     "credits": 3,
     "ects": 6,
     "instructor": "CEYDA ELGÜL",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "TR428.02": {
-    "code": "TR 428.02",
-    "name": "TRANSLATION PROJECT",
-    "credits": 3,
-    "ects": 6,
-    "instructor": "ŞULE DEMİRKOL ERTÜRK",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -61284,33 +57111,6 @@
       8
     ],
     "rooms": [
-      "",
-      "",
-      ""
-    ],
-    "semester": "2026/2027-1"
-  },
-  "TKL616.01": {
-    "code": "TKL 616.01",
-    "name": "THE SEBK-I HINDI IN DIVAN POETRY",
-    "credits": 4,
-    "ects": 10,
-    "instructor": "FATMA BÜYÜKKARCI YILMAZ",
-    "sessionType": "lecture",
-    "days": [
-      "Th",
-      "Th",
-      "Th",
-      "Th"
-    ],
-    "hours": [
-      3,
-      4,
-      5,
-      6
-    ],
-    "rooms": [
-      "",
       "",
       "",
       ""
