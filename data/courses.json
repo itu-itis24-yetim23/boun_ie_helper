@@ -11171,18 +11171,6 @@
     "rooms": [],
     "semester": "2026/2027-1"
   },
-  "CMPE690.12": {
-    "code": "CMPE 690.12",
-    "name": "M.S.THESIS",
-    "credits": 0,
-    "ects": 60,
-    "instructor": "CEM SAY",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
   "CMPE690.13": {
     "code": "CMPE 690.13",
     "name": "M.S.THESIS",
@@ -11567,18 +11555,6 @@
     "credits": 0,
     "ects": 120,
     "instructor": "CAN ÖZTURAN",
-    "sessionType": "lecture",
-    "days": [],
-    "hours": [],
-    "rooms": [],
-    "semester": "2026/2027-1"
-  },
-  "CMPE790.12": {
-    "code": "CMPE 790.12",
-    "name": "Ph.D.THESIS",
-    "credits": 0,
-    "ects": 120,
-    "instructor": "CEM SAY",
     "sessionType": "lecture",
     "days": [],
     "hours": [],
@@ -22488,8 +22464,8 @@
       8
     ],
     "rooms": [
-      "EF 204",
-      "EF 204"
+      "HH 301",
+      "HH 301"
     ],
     "semester": "2026/2027-1"
   },
